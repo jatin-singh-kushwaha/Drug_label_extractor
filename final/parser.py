@@ -27,8 +27,12 @@ class DrugParser:
             if main_start:
                 return text[main_start.start():]
         elif country == 'japan':
-            # Japan Review Reports often repeat titles in the Table of Contents
-            # We look for the first major section after the TOC
+            # Japan Review Reports have a summary at the beginning ('Results of Review')
+            # and then a TOC, then the full report. We want to keep the 'Results of Review'.
+            main_start = re.search(r'\nResults of Review', text, re.I)
+            if main_start:
+                return text[main_start.start():]
+            # Fallback to section 1
             main_start = re.search(r'\n1\.\s+Origin or History', text, re.I)
             if main_start:
                 return text[main_start.start():]
@@ -48,14 +52,11 @@ class DrugParser:
             "regulatory_text": "Not found"
         }
         
-        def get_best_match(pattern, text):
-            # We use re.findall/finditer but restrict it to only the first large block 
-            # to avoid catching references at the end of the file
+        def get_best_match(pattern, text, min_len=20):
             matches = list(re.finditer(pattern, text, re.S | re.I))
             if not matches: return None
-            # Return the first match that is significantly long (likely the real section)
             for m in matches:
-                if len(m.group(1)) > 100:
+                if len(m.group(1).strip()) > min_len:
                     return m
             return matches[0]
 
@@ -142,14 +143,61 @@ class DrugParser:
             if reg_match: data["regulatory_text"] = clean_text(reg_match.group(1))
             
         elif country == 'japan':
-            # Japan PMDA - Using standard English headings
-            indications_match = re.search(r'\nIndication\s*\n(.*?)(?=\nDosage and Administration|$)', text, re.S | re.I)
-            dosage_match = re.search(r'\nDosage and Administration\s*\n(.*?)(?=\nApproval Conditions|\nReview Report|$)', text, re.S | re.I)
-            warnings_match = re.search(r'Safety\s*\n(.*?)(?=\nClinical Efficacy|$)', text, re.S | re.I)
-            desc_match = re.search(r'Chemical Structure\s*\n(.*?)(?=\n\d\.|$)', text, re.S | re.I)
-            reaction_match = re.search(r'Clinical Efficacy and Safety\s*\n(.*?)(?=\n\d\.|$)', text, re.S | re.I)
+            # Japan PMDA Review Reports
+            # 1. Indications
+            # Try bracketed first (common in summary), then standard, then numbered
+            indications_match = re.search(r'\[Indication[s]?\]\s*(.*?)(?=\n\[Dosage and administration\]|$)', text, re.S | re.I)
+            if not indications_match:
+                indications_match = re.search(r'\nIndication[s]?\s*\n(.*?)(?=\nDosage and Administration|$)', text, re.S | re.I)
+            if not indications_match:
+                indications_match = re.search(r'\n7\.R\.4\s+Indication[s]?\s*\n(.*?)(?=\n7\.R\.5|$)', text, re.S | re.I)
+            if not indications_match:
+                indications_match = re.search(r'\n4\.\(iii\)\.B\.\(4\)\s+Indication[s]?\s*\n(.*?)(?=\n4\.|$)', text, re.S | re.I)
+
+            # 2. Dosage
+            # Try bracketed summary first, then numbered sections
+            dosage_match = re.search(r'\[Dosage and administration\]\s*(.*?)(?=\n\[Condition for approval\]|\n\[Approval Condition\]|$)', text, re.S | re.I)
+            if not dosage_match:
+                # Look for 7.R.5 or 4.(iii).B.(5) or similar
+                dosage_match = re.search(r'\n7\.R\.5\s+Dosage and administration\s*\n(.*?)(?=\n7\.R\.6|$)', text, re.S | re.I)
+            if not dosage_match:
+                dosage_match = re.search(r'\nDosage and Administration\s*\n(.*?)(?=\nApproval Conditions|\nReview Report|$)', text, re.S | re.I)
+
+            # 3. Warnings / Safety
+            # Look for Safety review sections
+            warnings_match = re.search(r'\n7\.R\.2\s+Safety\s*\n(.*?)(?=\n7\.R\.3|$)', text, re.S | re.I)
+            if not warnings_match:
+                warnings_match = re.search(r'\n4\.\(iii\)\.B\.\(3\)\s+Safety\s*\n(.*?)(?=\n4\.\(iii\)\.B\.\(4\)|$)', text, re.S | re.I)
             
-            reg_match = re.search(r'Pharmaceuticals and Medical Devices Agency\s*(.*?)(?=\nReview Report|$)', text, re.S | re.I)
+            # 4. Description / Chemical Structure
+            desc_match = re.search(r'\[Chemical Structure\]\s*(.*?)(?=\n2\.|$|Items Warranting Special Mention)', text, re.S | re.I)
+            if not desc_match:
+                desc_match = re.search(r'Chemical Structure\s*(.*?)(?=\n2\.|$|Items Warranting Special Mention)', text, re.S | re.I)
+            if not desc_match:
+                desc_match = re.search(r'\n2\.2\.1\s+Description\s*.*?\n(.*?)(?=\n2\.2\.2|$)', text, re.S | re.I)
+
+            # 5. Adverse Reactions
+            reaction_match = re.search(r'\n7\.R\.2\.1\s+Outline of safety\s*\n(.*?)(?=\n7\.R\.2\.2|$)', text, re.S | re.I)
+            if not reaction_match:
+                reaction_match = re.search(r'\n4\.\(iii\)\.B\.\(3\)\.1\)\s+Safety profile\s*\n(.*?)(?=\n4\.\(iii\)\.B\.\(3\)\.2\)|$)', text, re.S | re.I)
+            if not reaction_match:
+                reaction_match = re.search(r'\n4\.\(iii\)\.B\.\(3\)\.1\)\s+Outline of safety\s*\n(.*?)(?=\n4\.\(iii\)\.B\.\(3\)\.2\)|$)', text, re.S | re.I)
+
+            # 6. Contraindications (searching for keywords)
+            contra_keywords = ["is contraindicated", "are contraindicated", "should not be administered", "must not be administered", "contraindicated in"]
+            found_contra = []
+            # We search the whole text for these keywords
+            for kw in contra_keywords:
+                matches = re.findall(r'([^.]*?\b' + kw + r'\b[^.]*?\.)', text, re.I | re.S)
+                for m in matches:
+                    clean_m = clean_text(m)
+                    if len(clean_m) > 15 and clean_m not in found_contra:
+                        found_contra.append(clean_m)
+            
+            if found_contra:
+                data["contraindications"] = "\n\n".join(found_contra)
+
+            reg_match = re.search(r'Pharmaceuticals and Medical Devices Agency\s*(.*?)(?=\nReview Report|\nReview Results|$)', text, re.S | re.I)
 
             if indications_match: data["indications"] = clean_text(indications_match.group(1))
             if dosage_match: data["dosage"] = clean_text(dosage_match.group(1))
@@ -157,5 +205,8 @@ class DrugParser:
             if desc_match: data["description"] = clean_text(desc_match.group(1))
             if reaction_match: data["reaction"] = clean_text(reaction_match.group(1))
             if reg_match: data["regulatory_text"] = clean_text(reg_match.group(1))
+
+        return data
+
 
         return data

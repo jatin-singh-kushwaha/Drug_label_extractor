@@ -1,0 +1,2328 @@
+SOURCE: TGA (Australia)
+URL: https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2015-PI-01772-1
+==================================================
+
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 1 
+AUSTRALIAN PI – HARVONI® (ledipasvir/sofosbuvir)  
+1 NAME OF THE MEDICINE 
+HARVONI (ledipasvir/sofosbuvir 90 mg/400 mg) tablets.   
+The active substances in HARVONI tablets are ledipasvir and sofosbuvir 
+2 QUALITATIVE AND QUANTITATIVE COMPOSITION 
+HARVONI is available as a fixed-dose combination tablet.  Each tablet contains 90 mg 
+ledipasvir and 400 mg sofosbuvir and are orange diamond shaped, film coated with “GSI” on 
+one side and “7985” on the other side.  
+Contains sugars as lactose. For the full list of excipients, see Section 6.1 List of excipients. 
+3 PHARMACEUTICAL FORM 
+Each HARVONI tablet is film-coated and orange in colour.  The tablets are diamond shaped 
+debossed with “GSI” on one side and the number “7985” on the other side.  The tablets are 
+supplied in bottles with child resistant closures. 
+4 CLINICAL PARTICULARS 
+4.1 THERAPEUTIC INDICATIONS  
+HARVONI (ledipasvir/sofosbuvir fixed-dose combination) is indicated for the treatment of 
+chronic hepatitis C (CHC) infection in adults.  
+(see 4.4 Special warnings and precautions for use and 5.1 Pharmacodynamic properties, 
+Clinical Trials sections for information on the available data for HCV patients of each 
+genotype, see 4.2 Dose and method of administration section for recommended regimens and 
+treatment durations for different patient subgroups). 
+4.2 DOSE AND METHOD OF ADMINISTRATION  
+The recommended dose of HARVONI tablets is one tablet, taken orally, once daily with or 
+without food.  
+The recommended treatment regimen and duration for HARVONI is provided in Table 1.   
+For patients with HCV/HIV-1 co-infection, follow the dosage recommendations in Table 1.   
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 2 
+ 
+Table 1  Recommended Treatment Regimen and Duration for HARVONI 
+(including the co-administration of ribavirin for certain subgroups)  
+HCV Genotype Patient Population Treatment Regimen and 
+Duration 
+Genotype 1 Treatment-naïve without cirrhosis HARVONI 8 or 12 weeksa 
+Treatment-naïve with cirrhosis HARVONI 12 weeks 
+Treatment-experiencedb without cirrhosis HARVONI 12 weeks 
+Treatment-experiencedb with cirrhosis HARVONI + RBV 12 or 24 
+weeksc 
+Treatment-naïve and treatment experiencedb liver 
+transplant recipients with compensated liver disease  
+HARVONI + RBV 12 weeks 
+Treatment-naïve and treatment-experiencedb with 
+decompensated cirrhosis, irrespective of 
+transplantation status 
+HARVONI + RBV 12 weeks 
+Genotype 4, 5, 6 Treatment-naïve without cirrhosis HARVONI 12 weeks 
+Treatment-naïve with cirrhosis HARVONI 12 weeks 
+Treatment-experiencedb without cirrhosis HARVONI 12 weeks 
+Treatment-experiencedb with cirrhosis HARVONI + RBV 12 or 24 
+weeksc 
+Treatment-naïve and treatment experiencedb liver 
+transplant recipients with compensated liver disease  
+HARVONI + RBV 12 weeks 
+a HARVONI for 8 weeks can be considered in treatment -naïve genotype 1 patients without cirrhosis who have pre -
+treatment HCV RNA less than 6 million IU/mL 
+b Treatment-experiencedb patients who have failed a peginterferon alfa + ribavirin based regimen with  or without  an HCV 
+protease inhibitor or a regimen that included SOVALDI + ribavirin with or without peginterferon alfa 
+c 24 weeks should be considered for patients who are ineligible for, intolerant of, or unwilling to take ribavirin and for 
+treatment-experienced patients with compensated cirrhosis who are at high risk of clinical disease progression. 
+There are insufficient data to determine the optimal treatment duration for genotype 4 patients with 
+decompensated liver disease. 
+Concomitant Ribavirin Dose 
+When HARVONI is used in combination with ribavirin, the daily dose of ribavirin is 1,000 mg 
+for patients weighing <75 kg and 1,200 mg for those weighing ≥75 kg, except for patients with 
+decompensated cirrhosis who should receive 600 mg. Ribavi rin is administered orally in two 
+divided doses with food. Refer to ribavirin prescribing information for ribavirin dose 
+modifications. 
+Children and Adolescents up to 18 Years of Age: No data are available on which to make a 
+dose recommendation for children < 18 years of age. 
+Elderly: No dose adjustment is warranted for elderly patients 
+Renal impairment: No dose adjustment of HARVONI is required for patients with mild or 
+moderate renal impairment. No dose recommendations can be given for patients with sever e 
+renal impairment eGFR<30mL/min/1.73m 2 or with end stage renal disease requiring 
+haemodialysis due to higher exposure of the predominant sofosbuvir metabolite (see  5.2 
+Pharmacokinetic properties). 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 3 
+Hepatic impairment:  No dose adjustment of HARVONI is required for patients with mild, 
+moderate or severe hepatic impairment (Child-Pugh Class A, B or C) (see 5.2 Pharmacokinetic 
+properties). Safety and efficacy of HARVONI have not been established in patients with 
+decompensated cirrhosis. 
+4.3 CONTRAINDICATIONS 
+HARVONI tablets are contraindicated in patients with known hypersensitivity to the active 
+substance or to any other component of the tablets.  
+HARVONI is a fixed-dose combination of ledipasvir and sofosbuvir.  HARVONI should not 
+be administered concurrently with other medicinal products containing any of the same active 
+components. 
+4.4 SPECIAL WARNINGS AND PRECAUTIONS FOR USE 
+Serious Symptomatic Bradycardia When Coadministered with Amiodarone 
+Postmarketing cases of symptomatic bradycardia and cases requiring pacemaker intervention, 
+have been reported when amiodarone is coadministered with a sofosbuvir-containing 
+regimen. A fatal cardiac arrest was reported in a patient taking amiodarone who was 
+coadministered a sofosbuvir-containing regimen (ledipasvir/sofosbuvir). 
+Bradycardia has generally occurred within hours to days, but cases have been observed up to 
+2 weeks after initiating HCV treatment. Patients also taking beta blockers, or those with 
+underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for 
+symptomatic bradycardia with coadministration of amiodarone. Bradycardia generally 
+resolved after discontinuation of HCV treatment. The mechanism for this effect is unknown. 
+Coadministration of amiodarone with HARVONI is not recommended. For patients taking 
+amiodarone who have no other alternative, viable treatment options and who will be 
+coadministered HARVONI: 
+• Counsel patients about the risk of symptomatic bradycardia  
+• Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is 
+recommended, after which outpatient or self-monitoring of the heart rate should occur 
+on a daily basis through at least the first 2 weeks of treatment.  
+ 
+Patients who are taking HARVONI who need to start amiodarone therapy due to no other 
+alternative, viable treatment options should undergo similar cardiac monitoring as outlined 
+above.  
+Due to amiodarone’s long half-life, patients discontinuing amiodarone just prior to starting 
+HARVONI should also undergo similar cardiac monitoring as outlined above.  
+Patients who develop signs or symptoms of bradycardia should seek medical evaluation 
+immediately. Symptoms may include near-fainting or fainting, dizziness or lightheadedness, 
+malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion or memory 
+problems. 
+ 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 4 
+ 
+Hepatitis B Virus Reactivation 
+Cases of Hepatitis B virus (HBV) reactivation, including fatal cases, have been reported 
+during and after treatment of HCV with direct-acting antiviral agents (DAAs) in HCV/HBV 
+co-infected patients. Screening for current or past HBV infection, including testing for HBV 
+surface antigen (HBsAg) and HBV core antibody (anti-HBc), should be performed in all 
+patients before initiation of treatment with HARVONI.  
+Patients with serologic evidence of current or past HBV infection should be monitored and 
+treated according to current clinical practice guidelines to manage potential HBV 
+reactivation. Consider initiation of HBV antiviral therapy, if indicated. 
+Potential for Dysglycaemia in Diabetic Patients  
+Diabetics may experience dysglycaemia, potentially resulting in symptomatic 
+hypoglycaemia, after initiating HCV direct-acting antiviral agents treatment. Glucose levels 
+of diabetic patients initiating direct-acting antiviral agents therapy should be closely 
+monitored, particularly within the first three months, and their diabetic medication modified 
+when necessary. The physician in charge of the diabetic care of the patient should be 
+informed when direct-acting antiviral agents therapy is initiated (see also section 4.5 
+Interactions with Other Medicines and Other Forms of Interactions). 
+ 
+Use with Potent P-gp Inducers  
+Drugs that are potent P-gp inducers (e.g., rifampicin, St. John’s Wort) may significantly 
+decrease ledipasvir and sofosbuvir plasma concentration leading to reduced therapeutic effect 
+of HARVONI. Rifampicin and St. John’s Wort should not be used with HARVONI.   
+HCV/HBV (hepatitis B virus) Coinfected Patients 
+The safety and efficacy of HARVONI has not been established in patients coinfected with 
+HBV. 
+Genotype-specific activity (genotype 2 and 3) 
+The clinical data to support the use of HARVONI in patients infected with HCV genotype 2 
+are limited. 
+The clinical data to support the use of HARVONI in patients infected with HCV genotype 3 
+are limited. The relative efficacy of a 12 week regimen consisting of ledipasvir/sofosbuvir + 
+ribavirin, compared to a 24 week regimen of sofosbuvir + ribavirin has not been investigated. 
+Treatment of patients with prior exposure to HCV direct-acting antivirals  
+In patients who fail treatment with HARVONI, selection of NS5A resistance mutations that 
+substantially reduce the susceptibility to ledipasvir is seen in the majority of cases. Limited 
+data indicate that such NS5A mutations do not revert on long-term follow-up. There are 
+presently no data to support the effectiveness of retreatment of patients who have failed 
+HARVONI with a subsequent regimen that contains an NS5A inhibitor. Similarly, there are 
+presently no data to support the effectiveness of NS3/4A protease inhibitors in patients who 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 5 
+previously failed prior therapy that included an NS3/4A protease inhibitor. Such patients may 
+therefore be dependent on other drug classes for clearance of HCV infection.  
+Use with Certain HIV Antiretroviral Regimens 
+HARVONI has been shown to increase tenofovir exposure. The potential risks and benefits 
+associated with coadministration of tenofovir DF with HARVONI should be considered, 
+particularly in patients at increased risk for renal dysfunction (see 4.5 Interactions with other 
+medicines and other forms of interactions.   
+Use in the elderly 
+Clinical trials of HARVONI included 351 patients aged 65 and over. The response rates 
+observed for subjects over 65 years of age were similar to that of younger patients across 
+treatment groups. No dose adjustment of HARVONI is warranted in elderly patients. In 
+general, caution should be exercised when administering HARVONI in elderly patients, 
+reflecting the greater frequency of anaemia, decreased hepatic, renal or cardiac function, and 
+of concomitant disease or other drug therapy.  
+Paediatric use 
+Safety and effectiveness of HARVONI in children less than 18 years of age have not been 
+established. 
+Effects on laboratory tests 
+As liver function may change during treatment with HARVONI, please see Section 4.5 
+Interactions with Other Medicines and Other Forms of Interactions, Other Forms of 
+Interaction for additional guidance on monitoring of certain laboratory parameters and/or 
+concomitant medications. 
+4.5  INTERACTIONS WITH OTHER MEDICINES AND OTHER FORMS OF INTERACTIONS 
+As HARVONI contains ledipasvir and sofosbuvir, any interactions that have been identified 
+with these agents individually may occur with HARVONI. 
+After oral administration of HARVONI, sofosbuvir is rapidly absorbed and subject to 
+extensive first-pass hepatic extraction. Hydrolytic prodrug cleavage and sequential 
+phosphorylation steps results in formation of the pharmacologically active uridine nucleoside 
+analog triphosphate. Dephosphorylation of nucleotide metabolites results in conversion to the 
+predominant circulating metabolite GS-331007 that accounts for approximately 85% of total 
+systemic exposure. In clinical pharmacology studies, both sofosbuvir and GS-331007 were 
+monitored for purposes of pharmacokinetic analyses. 
+Potential for HARVONI to Affect Other Drugs  
+Ledipasvir is an inhibitor of drug transporter P-gp and breast cancer resistance protein 
+(BCRP) and may increase intestinal absorption of coadministered substrates for these 
+transporters. Ledipasvir is an inhibitor of transporters OATP1B1, OATP1B3 and BSEP only 
+at concentrations exceeding those achieved in clinic. Ledipasvir is not an inhibitor of 
+transporters MRP2, MRP4, OCT2, OAT1, OAT3, MATE1, and OCT1. The drug-drug 
+interaction potential of ledipasvir is primarily limited to the process of intestinal absorption. 
+Clinically relevant transporter inhibition by ledipasvir in the systemic circulation is not 
+expected due to its high protein binding. Sofosbuvir and GS-331007 are not inhibitors of drug 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 6 
+transporters P-gp, BCRP, MRP2, BSEP, OATP1B1, OATP1B3 and OCT1 and GS-331007 is 
+not an inhibitor of OAT1, OCT2, and MATE1.  
+Ledipasvir, sofosbuvir and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 
+enzymes.  
+Potential for Other Drugs to Affect HARVONI 
+Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-
+331007 is not. Drugs that are potent P-gp inducers (e.g. rifampicin or St. John’s Wort) may 
+decrease ledipasvir and sofosbuvir plasma concentrations leading to reduced therapeutic 
+effect of HARVONI and thus should not be used with HARVONI (see 4.4 Special warnings 
+and precautions for use: Use with Potent P-gp Inducers). Coadministration with drugs that 
+inhibit P-gp and/or BCRP may increase ledipasvir and sofosbuvir  plasma concentrations 
+without increasing GS-331007 plasma concentration; HARVONI may be coadministered 
+with P-gp and/or BCRP inhibitors. Neither ledipasvir nor sofosbuvir is a substrate for hepatic 
+uptake transporters OCT1, OATP1B1 or OATP1B3. GS-331007 is not a substrate for renal 
+transporters including organic anion transporter OAT1 or OAT3, or organic cation transporter 
+OCT2.  
+Ledipasvir is subject to slow oxidative metabolism via an unknown mechanism. In vitro, no 
+detectable metabolism of ledipasvir by CYP enzymes has been observed. Biliary excretion of 
+unchanged ledipasvir is a major route of elimination. Sofosbuvir is not a substrate for CYP 
+and UGT1A1 enzymes. Clinically significant drug interactions with HARVONI mediated by 
+CYP or UGT1A1 enzymes are not expected.  
+Established and Other Potentially Significant Drug Interactions  
+Table 2 provides a listing of established or potentially clinically significant drug interactions. 
+The drug interactions described are based on studies conducted with either HARVONI, the 
+components of HARVONI (ledipasvir and sofosbuvir) as individual agents, or are predicted 
+drug interactions that may occur with HARVONI.  This table is not all inclusive.  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 7 
+ 
+Table 2 Established and Other Potentially Significanta Drug Interactions 
+Concomitant Drug 
+Class: 
+Drug Name 
+Effect on 
+Concentrationb 
+Clinical Comment 
+Acid Reducing Agents:  ledipasvir 
+↔ sofosbuvir 
+↔ GS-331007 
+Ledipasvir solubility decreases as pH increases. Drugs that 
+increase gastric pH are expected to decrease concentration 
+of ledipasvir. 
+Antacids (e.g. aluminum 
+and magnesium 
+hydroxide) 
+It is recommended to separate antacid and HARVONI 
+administration by 4 hours. 
+H2-receptor antagonistsc H2-receptor antagonists may be administered 
+simultaneously with or staggered from HARVONI at a 
+dose that does not exceed doses comparable to famotidine 
+40 mg twice daily. 
+Proton-pump inhibitorsc Proton-pump inhibitor doses comparable to omeprazole 20 
+mg can be administered simultaneously with HARVONI or 
+up to 2 hours after taking HARVONI.  Proton-pump 
+inhibitors should not be taken before HARVONI. 
+ 
+Antiarrhythmics: 
+amiodarone 
+Effect on 
+amiodarone, 
+ledipasvir, and 
+sofosbuvir 
+concentrations 
+unknown 
+Coadministration of amiodarone with HARVONI may 
+result in symptomatic bradycardia. The mechanism of this 
+effect is unknown. Coadministration of amiodarone with 
+HARVONI is not recommended; if coadministration is 
+required, cardiac monitoring is recommended (see 4.4 
+Special warnings and precautions for use: Serious 
+Symptomatic Bradycardia when Coadministered with 
+Amiodarone). 
+digoxin ↑ digoxin 
+ 
+ 
+ 
+ 
+Coadministration of HARVONI with digoxin may increase 
+the concentration of digoxin. Caution is warranted and 
+therapeutic concentration monitoring of digoxin is 
+recommended when coadministered with HARVONI. 
+Anticonvulsants 
+carbamazepine 
+phenytoin 
+phenobarbital 
+oxcarbazepine 
+ ledipasvir 
+ sofosbuvir 
+ 
+Coadministration of HARVONI with carbamazepine, 
+phenytoin, phenobarbital, or oxcarbazepine is expected  to 
+decrease the concentration of ledipasvir and sofosbuvir, 
+leading to reduced therapeutic effect of HARVONI. 
+Coadministration is not recommended. 
+Anticoagulants: 
+dabigatran etexilate 
+Interaction not 
+studied. 
+Expected: 
+↑ dabigatran 
+↔ledipasvir 
+↔ sofosbuvir 
+↔ GS-331007 
+Clinical monitoring, looking for signs of bleeding and 
+anaemia, is recommended when dabigatran etexilate is co-
+administered with HARVONI.  A coagulation test helps to 
+identify patients with an increased bleeding risk due to 
+increased dabigatran exposure. 
+Antimycobacterials: 
+rifabutin 
+ ledipasvir 
+ sofosbuvir 
+Coadministration of HARVONI with rifabutin or 
+rifapentine is expected to decrease the concentration of 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 8 
+Concomitant Drug 
+Class: 
+Drug Name 
+Effect on 
+Concentrationb 
+Clinical Comment 
+rifampicinc 
+rifapentine 
+ GS-331007 ledipasvir and sofosbuvir, leading to reduced therapeutic 
+effect of HARVONI. Coadministration is not 
+recommended. 
+HARVONI should not be used with rifampicin, a potent 
+intestinal P-gp inducer. 
+Antiretrovirals: 
+tenofovir disoproxil 
+fumarate 
+ tenofovir 
+ 
+HARVONI has been shown to increase tenofovir exposure. 
+The potential risks and benefits associated with 
+coadministration of tenofovir DF with HARVONI should 
+be considered, particularly in patients at increased risk for 
+renal dysfunction. Patients receiving tenofovir DF and 
+HARVONI concomitantly should be monitored for adverse 
+reactions associated with tenofovir DF. Refer to the 
+tenofovir DF-containing product’s prescribing information 
+for recommendations on renal monitoring. 
+tipranavir/ritonavir  ledipasvir 
+ 
+Coadministration of HARVONI with tipranavir/ritonavir is 
+expected to decrease the concentration of ledipasvir, 
+leading to reduced therapeutic effect of HARVONI. 
+Coadministration is not recommended. 
+HCV Products: 
+simeprevirc 
+ ledipasvir 
+ simeprevir  
+ 
+Concentrations of  ledipasvir and simeprevir are increased 
+when simeprevir is coadministered with ledipasvir. 
+Coadministration of HARVONI with simeprevir is not 
+recommended 
+Herbal Supplements: 
+St. John’s Wort 
+(Hypericum perforatum) 
+ ledipasvir 
+ sofosbuvir 
+HARVONI should not be used with St. John’s Wort, a 
+potent intestinal P-gp inducer (see 4.4 Special warnings and 
+precautions for use: Use with Potent P-gp Inducers) 
+HMG-CoA Reductase 
+Inhibitors: 
+rosuvastatin 
+ rosuvastatin  
+ 
+Coadministration of HARVONI with rosuvastatin may 
+significantly increase the concentration of rosuvastatin 
+which is associated with increased risk of myopathy, 
+including rhabdomyolysis. Coadministration of HARVONI 
+with rosuvastatin is not recommended. 
+Other statins Expected 
+ Statins 
+Interactions cannot be excluded with other HMG-CoA 
+reductase inhibitors.  When co-administered with 
+HARVONI, a reduced dose of statins should be considered 
+and careful monitoring for statin adverse reactions should 
+be undertaken.   
+a. This table is not all inclusive. 
+b. ↑ = increase, ↓ = decrease, ↔ = no effect 
+c. These interactions have been studied in healthy adults. 
+Drugs without Clinically Significant Interactions with HARVONI 
+Based on drug interaction studies conducted with the components of HARVONI (ledipasvir or 
+sofosbuvir) or HARVONI, no clinically significant drug interactions have been either observed 
+or are expected when HARVONI is combined with the following individual d rugs: abacavir, 
+atazanavir/ritonavir, cyclosporin, darunavir/ritonavir, dolutegravir, efavirenz, 
+elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, lamivudine, 
+methadone, oral contraceptives, pravastatin, raltegravir, rilpivirine, tacrolimus (see 4.5 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 9 
+Interactions with Other Medicinal Products and Other Forms of Interaction: Other Forms of 
+Interaction) or verapamil.  
+Other Forms of Interaction 
+Change in hepatic function as a result of treatment of HCV with DAAs may require 
+monitoring of relevant laboratory parameters in susceptible patients (e.g., International 
+Normalized Ratio [INR] in patients taking vitamin K antagonists, blood glucose levels in 
+diabetic patients [see also section 4.4 Special warnings and precautions for use - Potential for 
+Dysglycaemia in Diabetic Patients]). Concomitant medications significantly affected by 
+changes in hepatic function (e.g., calcineurin inhibitors) may require monitoring or dose 
+modification to ensure continued efficacy. 
+4.6 FERTILITY, PREGNANCY AND LACTATION  
+Effects on Fertility 
+Ledipasvir:  Ledipasvir had no adverse effects on mating and fertility in rats. In female rats, 
+the mean number of corpora lutea and implantation sites were slightly reduced at maternal 
+exposures 6-fold the exposure in humans at the recommended clinical dose. At the no observed 
+effect level, AUC exposure to ledipasvir was approximately 7 - and 3 -fold, in males and 
+females, respectively, the human exposure at the recommended clinical dose. 
+Sofosbuvir:  Sofosbuvir had no effects on embryo-foetal viability or on fertility when evaluated 
+in rats. At the highest dose tested, AUC exposure to the predominant circulating metabolite 
+GS-331007 was approximately 5-fold the exposure in humans at the recommended clinical 
+dose. 
+Use in Pregnancy: HARVONI (Pregnancy Category B1) 
+There are no adequate and well -controlled studies with HARVONI in pregnant women. 
+Because animal reproduction studies are not always predictive of human response, HARVONI 
+should be used during pregnancy only if the potential benefit justifies the potential risk to the 
+foetus. 
+Use in Pregnancy: Use with ribavirin (Pregnancy Category X)  
+Significant teratogenic and/or embryocidal eff ects have been demonstrated in all animal 
+species exposed to ribavirin. When HARVONI is used in combination with ribavirin extreme 
+care must be taken to avoid pregnancy in female patients and in female partners of male 
+patients. Women of childbearing poten tial and their male partners must use effective 
+contraception during treatment and for approximately six months after the treatment has 
+concluded as recommended in the product information for ribavirin.  If ribavirin is co -
+administered with HARVONI, the contraindications regarding use of ribavirin apply (refer to 
+ribavirin product information).  
+Ledipasvir:  No effects on fetal development have been observed in rats and rabbits at the 
+highest doses tested. In the rat and rabbit, AUC exposure to ledipasvir w as 5 - and 2 -fold, 
+respectively, the exposure in humans at the recommended clinical dose. 
+In a rat pre - and postnatal study, at a maternally toxic dose, the developing rat offspring 
+exhibited mean decreased body weight and body weight gain when exposed in u tero (via 
+maternal dosing) and during lactation (via maternal milk) at a maternal exposure approximately 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 10 
+4 times the exposure in humans at the recommended clinical dose. There were no effects on 
+survival, physical and behavioural development and reproductive performance in the offspring 
+at maternal exposures similar to the exposure in humans at the recommended clinical dose. 
+Sofosbuvir:  No effect on fetal development has been observed in rats and rabbits at the highest 
+doses tested. In the rat and rabbit, exposure to the predominant circulating metabolite GS -
+331007 was approximately 10 -fold and 28-fold the exposure in humans at the rec ommended 
+clinical dose, respectively.   
+Use in Lactation 
+When administered to lactating rats, ledipasvir was detected in the plasma of suckling rats 
+likely due to excretion of ledipasvir via milk. Ledipasvir had no effects on the nursing pups. 
+The predomin ant circulating metabolite of sofosbuvir (GS -331007) was the primary 
+component observed in the milk of lactating rats, without effect on nursing pups. It is not known 
+whether ledipasvir, sofosbuvir or metabolites of sofosbuvir are present in human breast m ilk. 
+Because of the potential for adverse reactions from the drug in nursing infants, a decision must 
+be made whether to discontinue nursing or discontinue treatment with HARVONI, taking into 
+account the importance of the therapy to the mother.    
+4.7 EFFECTS ON ABILITY TO DRIVE AND USE MACHINES  
+No studies on the effects of HARVONI  on the ability to drive and use machines have been 
+performed.  
+4.8 ADVERSE EFFECTS (UNDESIRABLE EFFECTS) 
+Reporting suspected adverse reactions after registration of the medicinal product is important. 
+It allows continued monitoring of the benefit-risk balance of the medicinal product. 
+Healthcare professionals are asked to report any suspected adverse reactions at 
+https://www.tga.gov.au/reporting-problems. 
+Clinical Trials  
+The safety assessment of HARVONI in patients with genotype 1 CHC is based on pooled 
+data from three Phase 3 clinical trials (ION-3, ION-1 and ION-2) including 215, 539 and 326 
+patients who received HARVONI for 8, 12 and 24 weeks, respectively; and 216, 328 and 328 
+patients who received HARVONI + ribavirin combination therapy for 8, 12 and 24 weeks, 
+respectively.  
+The proportion of patients who permanently discontinued treatment due to adverse events 
+was 0%, <1% and 1% for patients receiving HARVONI for 8, 12 and 24 weeks, respectively; 
+and <1%, 0%, and 2% for patients receiving HARVONI + ribavirin combination therapy for 
+8, 12 and 24 weeks, respectively.  
+No adverse drug reactions specific to HARVONI have been identified. In clinical trials ION-
+1, ION-2, and ION-3, fatigue, headache and nausea were the most common (incidence ≥ 
+10%) treatment emergent adverse events reported in patients treated with 8 or 12 weeks of 
+HARVONI which are the recommended regimens for patients (see 4.2 Dose and method of 
+administration). The type of treatment emergent adverse events observed during 24 weeks of 
+treatment with HARVONI was consistent with those observed during 8 or 12 weeks of 
+treatment but the frequency of adverse events is generally higher in the 24 week treatment 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 11 
+group than the 8 or 12 week treatment groups. When HARVONI was studied with ribavirin, 
+the most frequent adverse events to HARVONI + ribavirin combination therapy were 
+consistent with the known safety profile of ribavirin, without increasing the frequency or 
+severity of the expected adverse events. 
+Table 3 lists adverse reactions (adverse events assessed as causally related by the 
+investigator, all grades) observed in ≥5% of patients receiving 8, 12, or 24 weeks treatment 
+with HARVONI in clinical trials. The majority of adverse reactions presented in Table 3 
+occurred at severity of grade 1.  
+Table 3 Adverse Reactions (All Grades) Reported in ≥5% of Patients Receiving 8, 
+12 or 24 Weeks of Treatment with HARVONI 
+ HARVONI 
+8 weeks 
+(n = 215) 
+HARVONI 
+12 weeks 
+(n = 539) 
+HARVONI 
+24 weeks 
+(n = 326) 
+Fatigue 16% 13% 18% 
+Headache 11% 14% 17% 
+Nausea 6% 7% 9% 
+Diarrhoea 4% 3% 7% 
+Insomnia 3% 5% 6% 
+The safety of HARVONI with or without ribavirin in treatment-experienced genotype 1 patients with 
+compensated cirrhosis was compared to placebo in Study SIRIUS. Patients were randomised to 
+receive 24 weeks of HARVONI without ribavirin or 12 weeks of placebo followed by 12 weeks of 
+HARVONI+ribavirin.  Table 4 presents the adverse reactions, as defined above, that were reported 
+more frequently (≥5%) in patients during the first 12 weeks of treatment in the HARVONI 24 week 
+treatment group or in patients treated with 12 weeks of HARVONI + ribavirin, compared with those 
+reported for 12 weeks of placebo. The majority of the adverse reactions presented in Table 4 were 
+Grade 1 or 2 in severity.  
+Table 4 Adverse Reactions Reported ≥5% More Frequent in Treatment -
+Experienced Patients with Cirrhosis Receiving HARVONI for the First 12 
+Weeks in the HARVONI 24 Week Treatment Arm o r HARVONI+RBV 
+for 12 Weeks Than Placebo for 12 weeks  
+ HARVONI 
+(first 12 weeks of 
+24 week 
+treatment) 
+(N=78) 
+HARVONI+RBV 
+12 weeks 
+(N=76) 
+ 
+Placebo 
+12 weeks 
+(N=77) 
+ 
+Fatiguea 41% 38% 25% 
+Headache 27% 13% 16% 
+Cough 4% 11% 1% 
+Irritability 8% 7% 1% 
+Dyspnea 1% 9% 1% 
+a.  Includes preferred terms fatigue and asthenia. 
+No adverse drug reactions specific to HARVONI were identified from the clinical trials 
+conducted in patients with genotype 2, 3, 4, 5 or 6 CHC. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 12 
+HCV/HIV-1 Coinfection  
+No adverse drug reactions specific to HARVONI were identified from an open-label trial (ION-
+4) in which patients with HCV/HIV -1 coinfection received treatment with HARVONI for 12 
+weeks (N=335). 
+Liver Transplant Recipients and/or Patients with Decompensated Cirrhosis  
+No adverse drug reactions specific to HARVONI were identified from two open-label trials 
+(SOLAR-1 and SOLAR-2) in which liver transplant recipients and/or patients with 
+decompensated cirrhosis received HARVONI with ribavirin for 12 or 24 weeks (N=670). The 
+adverse events observed were consistent with expected clinical sequelae of liver 
+transplantation and/or decompensated liver disease, or the known toxicity profile of ribavirin.  
+Decreases in haemoglobin to less than 10 mg/dL and 8.5 mg/dL during treatment were 
+experienced by 39% and 13% of patients treated with HARVONI+ribavirin, respectively. 
+Ribavirin was discontinued in 15% of the subjects. Due to improved organ function, 7% of 
+liver transplant recipients had a dose modification of their immunosuppressive agents. 
+Post Marketing Surveillance 
+In addition to adverse reactions from clinical studies, the following possible adverse reactions 
+were also identified during postapproval use of HARVONI. Because these reactions were 
+reported voluntarily from a population of unknown size, estimates of frequency cannot be 
+made. 
+Cardiac Disorders 
+Symptomatic bradycardia (when amiodarone is coadministered with HARVONI) (see 4.4 
+Special warnings and precautions for use : Serious Symptomatic Bradycardia when 
+Coadministered with Amiodarone) 
+Hepatobiliary Disorders 
+Hepatitis B Reactivation  (See Precautions) 
+Skin and Subcutaneous Tissue Disorders 
+Angioedema, rash, Stevens-Johnson syndrome 
+4.9 OVERDOSE 
+The highest documented doses of ledipasvir and sofosbuvir were 120 mg twice daily for 10 
+days and a single dose of 1200 mg, respectively. In these healthy volunteer studies, there 
+were no untoward effects observed at these dose levels, and adverse events were similar in 
+frequency and severity to those reported in the placebo groups. The effects of higher 
+doses/exposures are not known.  
+No specific antidote is available for overdose with HARVONI. If overdose occurs the patient 
+must be monitored for evidence of toxicity. Treatment of overdose with HARVONI consists 
+of general supportive measures including monitoring of vital signs as well as observation of 
+the clinical status of the patient. Haemodialysis is unlikely to result in significant removal of 
+ledipasvir since ledipasvir is highly bound to plasma protein. Haemodialysis can efficiently 
+remove the predominant circulating metabolite of sofosbuvir, GS-331007, with an extraction 
+ratio of 53%. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 13 
+For information on the management of overdose, contact the Poison Information Centre on 
+131126 (Australia) and 0800 764 766 (New Zealand). 
+ 
+5 PHARMACOLOGICAL PROPERTIES 
+Pharmacotherapeutic group: Antivirals for systemic use; direct acting antivirals, other antivirals, 
+ATC code: J05AX65.  
+5.1 PHARMACODYNAMIC PROPERTIES  
+Mechanism of action  
+Ledipasvir is a HCV inhibitor targeting the HCV NS5A protein, which is essential for both 
+RNA replication and the assembly of HCV virions. Biochemical confirmation of NS5A 
+inhibition of ledipasvir is not currently possible as NS5A has no enzymatic function. In vitro 
+resistance selection and cross-resistance studies indicate ledipasvir targets NS5A as its mode 
+of action. 
+Sofosbuvir is a pangenotypic inhibitor of the HCV NS5B RNA-dependent RNA polymerase, 
+which is essential for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes 
+intracellular metabolism to form the pharmacologically active uridine analog triphosphate 
+(GS-461203), which can be incorporated by HCV NS5B and acts as a chain terminator. In a 
+biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B 
+from HCV genotype 1b, 2a, 3a and 4a with an IC50 value ranging from 0.7 to 2.6 µM. GS-
+461203 is neither an inhibitor of human DNA and RNA polymerases nor an inhibitor of 
+mitochondrial RNA polymerase. 
+Antiviral activity in vitro 
+The EC50 values of ledipasvir and sofosbuvir against full-length or chimeric replicons encoding NS5A 
+and NS5B sequences from clinical isolates are detailed in Table 5.  The presence of 40% human 
+serum reduced anti-HCV activity of ledipasvir by 12-fold against genotype 1a HCV replicon. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 14 
+Table 5 Activity of ledipasvir and sofosbuvir against chimeric replicons 
+Genotype 
+replicons 
+Ledipasvir activity (EC50, nM) Sofosbuvir activity (EC50, nM) 
+Stable replicons NS5A transient 
+replicons 
+Median (range)a 
+Stable replicons NS5B transient 
+replicons 
+Median (range)a 
+Genotype 1a 0.031 0.018 (0.009-0.085) 40 62 (29-128) 
+Genotype 1b 0.004 0.006 (0.004-0.007) 110 102 (45-170) 
+Genotype 2a 21-249 - 50 29 (14-81) 
+Genotype 2b 16-530b - 15b - 
+Genotype 3a 168 - 50 81 (24-181) 
+Genotype 4a 0.39 - 40 - 
+Genotype 4d 0.60 - - - 
+Genotype 5a 0.15b - 15b - 
+Genotype 6a 1.1b - 14b - 
+Genotype 6e 264b - - - 
+a. Transient replicons carrying NS5A or NS5B from patient isolates. 
+b. The chimeric replicons carrying NS5A genes from genotype  2b, 5a, 6a and 6e were used for testing ledipasvir while the 
+chimeric replicons carrying NS5B genes from genotype 2b, 5a or 6a were used for testing sofosbuvir. 
+Drug Resistance  
+In Cell Culture: 
+HCV replicons with reduced susceptibility to ledipasvir have been selected in cell culture for 
+genotype 1a and 1b. Reduced susceptibility to ledipasvir was associated with the primary 
+NS5A substitution Y93H in both genotype 1a and 1b. Additionally a Q30E substitution 
+emerged in genotype 1a replicons. Site-directed mutagenesis of the Y93H in both genotype 
+1a and 1b as well as the Q30E substitution in genotype 1a conferred high levels of reduced 
+susceptibility to ledipasvir (fold change in EC50 greater than 500-fold).  
+HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for 
+multiple genotypes including 1b, 2a, 2b, 3a, 4a, 5a and 6a. Reduced susceptibility to 
+sofosbuvir was associated with the primary NS5B substitution S282T in all replicon 
+genotypes examined. Site-directed mutagenesis of the S282T substitution in replicons of 8 
+genotypes including 1a, 1b, 2a, 2b, 3a, 4a, 5a and 6a conferred 2- to 18-fold reduced 
+susceptibility to sofosbuvir and reduced the replication capacity by 89% to 99% compared to 
+the corresponding wild-type. In biochemical assays, recombinant NS5B polymerase from 
+genotypes 1b, 2a, 3a and 4a expressing the S282T substitution showed reduced susceptibility 
+to GS-461203 compared to respective wild-types. 
+In Clinical Studies:  
+Genotype 1 
+In a pooled analysis of patients who received HARVONI in Phase 3 trials (ION-3, ION-1 and 
+ION-2), 37 patients (29 with genotype 1a and 8 with genotype 1b) qualified for resistance 
+analysis due to virologic failure or early study drug discontinuation and having HCV RNA > 
+1000 IU/ml. Post-baseline NS5A and NS5B deep sequencing data (assay cutoff of 1%) were 
+available for 37/37 and 36/37 patients, respectively.  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 15 
+NS5A resistance-associated variants (RAVs) were observed in post-baseline isolates from 
+29/37 patients not achieving SVR. Of the 29 genotype 1a patients who qualified for 
+resistance testing, 22/29 (76%) patients harbored one or more NS5A RAVs at positions K24, 
+Q30, L31, S38 and Y93 at failure, while the remaining 7/29 patients had no NS5A RAVs 
+detected at failure. The most common variants were Q30R, Y93H, L31M, Y93N and Q30H. 
+Of the 8 genotype 1b patients who qualified for resistance testing, 7/8 (88%) harbored one or 
+more NS5A RAVs at positions L31 and Y93 at failure, while 1/8 patients had no NS5A 
+RAVs at failure. The most common variant was Y93H. Among the 8 patients who had no 
+NS5A RAVs at failure, 7 patients received 8 weeks of treatment (N=3 with HARVONI; N=4 
+with HARVONI +ribavirin) and 1 patient received HARVONI for 12 weeks. In phenotypic 
+analyses, post-baseline isolates from patients who harbored NS5A RAVs at failure showed 
+20- to >243-fold reduced susceptibility to ledipasvir.  
+Among post-transplant patients with compensated liver disease or patients with 
+decompensated liver disease (pre- and post-transplant) (SOLAR-1 and SOLAR-2 trials), 
+relapse was associated with the detection of one or more of the following NS5A RAVs: 
+K24R, M28T, Q30R/H/K, L31V, H58D and Y93H/C in 12/14 genotype 1a patients, and 
+L31M, Y93H/N in 6/6 genotype 1b patients. 
+The NS5B nucleoside inhibitor resistance associated variants (NS5B NI RAVs) L159F and 
+V321A were each detected in one patient with genotype 1a infection in the Phase 3 trials 
+(ION-1, ION-2, and ION-3).  The single L159F and V321A variants demonstrated 1.2- and 1.2-
+fold change in EC50 to sofosbuvir in genotype 1a replicon, respectively.   The NS5B substitution 
+E237G was detected in 3 patients (1 genotype 1b and 2 genotype 1a) in the Phase 3 trials (ION-3, 
+ION-1 and ION-2) and 3 patients (all genotype 1a) in the phase 2 trials of patients with advanced 
+liver disease (SOLAR-1 and SOLAR-2) at the time of relapse. The E237G substitution showed a 
+1.3-fold reduction in susceptibility to sofosbuvir in the genotype 1a replicon assay. The clinical 
+significance of these substitutions is currently unknown. 
+The NS5B NI RAV S282T in NS5B was not detected in any failure isolate from theION-1, 
+ION-2, ION-3, SOLAR-1 or SOLAR-2 trials. However, the NS5B S282T substitution in 
+combination with NS5A RAVs L31M, Y93H and Q30L were detected in one patient at 
+failure following 8 week treatment with HARVONI from the Phase 2 trial LONESTAR. This 
+patient was subsequently retreated with HARVONI + ribavirin for 24 weeks and achieved 
+SVR following retreatment. 
+Genotype 2, 3, 4, 5, and 6 
+Resistance analysis was performed for virologic failures in clinical trials with genotype 2, 3, 
+4, 5 and 6 CHC. Patients in these trials were treated with HARVONI or HARVONI+RBV for 
+12 weeks (see 5.2 Pharmacokinetic propoerites, Clinical trials). 
+Genotype 2: None of the genotype 2 patients experienced virologic failure in the LEPTON 
+study.Genotype 3: Of the 17 patients who experienced virologic failures in the ELECTRON-
+2 study, one patient developed the NS5A RAV Y93C (1.1%), one patient developed the 
+NS5B NI RAV S282T and one patient developed the NS5B NI RAV L159F. 
+Genotype 4: Of the 3 patients who experienced virologic failure in Study 1119, one patient 
+developed the NS5B NI RAV S282T along with the NS5A RAV Y93C. In SOLAR-2 trial, 
+one patient with genotype 4d developed NS5B substitution E237G at the time of relapse. The 
+clinical significance of this substitution is currently unknown. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 16 
+Genotype 5: NS5A sequencing was successful in 1 of 2 virologic failure patients in Study 
+1119. This patient developed NS5B NI RAVs S282T (1.6%) and M289I (16%). 
+Genotype 6: Virologic failure occurred in one patient in the ELECTRON-2 study who 
+discontinued treatment early at approximately Week 8 and subsequently relapsed in Study 
+ELECTRON-2. This patient developed NS5B NI RAV S282T. 
+Effect of Baseline HCV Polymorphisms on Treatment Outcome 
+Genotype 1 
+Analyses were conducted to explore the association between pre-existing baseline NS5A 
+resistance-associated variants (RAVs) and treatment outcome. In the pooled analysis of the 
+Phase 3 trials (ION-1, ION-2 and ION-3), 256/1618 (16%) patients had baseline NS5A 
+RAVs identified by population or deep sequencing irrespective of subtype.  
+In treatment-naïve patients in ION-3 with NS5A RAVs, SVR12 rates of 89% (34/38) after 8 
+weeks and 96% (66/69) after 12 weeks of therapy were observed with HARVONI. No 
+association between any individual NS5A RAV and treatment outcome was observed.  
+In treatment-experienced patients in ION-2 who had baseline NS5A RAVs, an SVR12 rate of 
+76% (13/17) after 12 weeks of therapy was observed with HARVONI. When NS5A RAVs 
+were grouped by their EC50 fold change from wild-type, among those treatment-experienced 
+patients with any NS5A RAV conferring <100-fold resistance in vitro, 4/4 (100%) patients 
+achieved SVR following 12 weeks of treatment with HARVONI. Among those treatment 
+experienced patients with any NS5A RAV conferring ≥100-fold resistance, 9/13 (69%) 
+patients achieved SVR following 12 weeks of treatment with HARVONI compared to 93/96 
+(97%) in those without any baseline RAVs or RAVs conferring a fold-change of ≤ 100.  In 
+another study in treatment-experienced patients with compensated cirrhosis (SIRIUS, N=77), 8/8 
+(100%) patients with baseline NS5A RAVs conferring >100-fold reduced susceptibility to 
+ledipasvir achieved SVR following 12 weeks of treatment with HARVONI+RBV.   
+Among post-transplant patients with compensated liver disease (SOLAR-1 and SOLAR-2 
+studies), no relapse occurred in patients with baseline NS5A RAVs (N=23) following 12 
+weeks of treatment with HARVONI+RBV. Among patients with decompensated liver 
+disease (pre- and post-transplant), 4/16 (25%) patients with NS5A RAVs conferring >100-
+fold resistance relapsed after 12 weeks treatment with HARVONI+RBV compared to 7/120 
+(6%) in those without any baseline NS5A RAVs or RAVs conferring a fold-change of ≤100. 
+The group of NS5A RAVs that conferred >100-fold shift were defined as any of the 
+following substitutions in genotype 1a (M28A/G, Q30E/G/H/K/R, L31I/M/V, P32L, H58D, 
+Y93C/H/N/S) or in genotype 1b (P58D, A92K, Y93H).  
+The NS5B NI RAV S282T was not detected in the baseline NS5B sequence of any patient in 
+Phase 3 trials (ION-1, ION-2, ION-3) by population or deep sequencing. SVR was achieved 
+in all 24 patients (N=21 with L159F and N=3 with N142T) who had baseline  NS5B NI 
+RAVs. 
+Genotype 2, 3, 4, 5 and 6 
+Baseline NS5A RAVs did not have a clinically meaningful effect on treatment outcome in 
+clinical studies of patients with genotype 2, 4, 5 or 6 CHC. For patients with genotype 3 
+CHC, the role of baseline NS5A RAVs varied depending on the patient population.  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 17 
+For patients with genotype 2, 4, 5 and 6 CHC, SVR was achieved in 14/14 (100%), 25/28 
+(89%), 7/8 (88%) and 17/18 (94%) patients who had baseline NS5A RAVs following 12 
+weeks treatment with HARVONI, respectively. The specific baseline NS5A RAVs observed 
+in patients with virologic failure were L28M/V and L30R for genotype 4, L31M for genotype 
+5 and F28V for genotype 6.  
+Among treatment-naïve patients with genotype 3 CHC who were treated with 
+HARVONI+RBV for 12 weeks, SVR was achieved in 4/4 (100%) patients with baseline 
+NS5A RAVs. Among treatment-experienced patients with genotype 3 CHC, SVR was 
+achieved in 4/6 (67%) and 37/44 (84%) patients with or without baseline NS5A RAVs, 
+respectively. The specific baseline NS5A RAVs observed in patients with virologic failure 
+were S24G, A30K, L31M and Y93H. 
+The NS5B NI RAV S282T was not detected in the baseline NS5B sequence of any patient 
+with genotype 2, 3, 4, 5 or 6 CHC in clinical trials by population or deep sequencing.  For 
+patients with genotype 2, 3 and 5 CHC, SVR was achieved in all 14 patients who had 
+baseline NS5B NI RAVs (N=4 with M289I in genotype 2; N=1 with N142T in genotype 3; 
+N=7 with N142T and N=2 with M289I in genotype 5). 
+Relapse occurred in 2/3 genotype 4 patients who had the baseline NS5B NI RAV V321I 
+along with two baseline NS5A RAVs. 
+In patients with genotype 6 CHC, SVR was achieved in one patient each with the baseline 
+NS5B NI RAVs M289L+S282G or M289L+V321A and 13/14 patients with M289L/I.  
+Cross-resistance:  
+Ledipasvir was fully active against the sofosbuvir-associated resistance substitution S282T in 
+NS5B while all ledipasvir resistance-associated substitutions in NS5A were fully susceptible 
+to sofosbuvir. Both sofosbuvir and ledipasvir were fully active against substitutions 
+associated with resistance to other classes of direct acting antivirals with different 
+mechanisms of action, such as NS5B non-nucleoside inhibitors and NS3 protease inhibitors.  
+NS5A substitutions conferring resistance to ledipasvir may reduce the antiviral activity of 
+other NS5A inhibitors. The efficacy of HARVONI has not been established in patients who 
+have previously failed treatment with other regimens that include an NS5A inhibitor. 
+CLINICAL TRIALS  
+Overview of Clinical Studies 
+Genotype 1 CHC 
+The efficacy of HARVONI was evaluated in 2105 patients with genotype 1 CHC in four 
+trials  including one trial conducted in noncirrhotic treatment-naïve patients (ION-3), one trial 
+in cirrhotic and noncirrhotic treatment-naïve patients (ION-1), and one trial in cirrhotic and 
+noncirrhotic patients who failed prior therapy with an interferon-based regimen, including 
+regimens containing an HCV protease inhibitor (ION-2) and one trial in patients with 
+cirrhosis who failed prior therapy with a Peg-IFN+ribavirin regimen  followed by a Peg-
+IFN+ribavirin+HCV protease inhibitor regimen (SIRIUS). Patients in these trials had 
+compensated liver disease. All four trials evaluated efficacy of HARVONI with or without 
+ribavirin.  
+ 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 18 
+Genotype 2, 3, 4, 5 or 6 
+The efficacy of HARVONI in patients with genotype 2, 3 ,4, 5 and 6 CHC was evaluated in 
+the following clinical trials: 
+• Genotype 2 (LEPTON): treatment -naïve and treatment -experienced patients, with or 
+without cirrhosis (N=26) 
+• Genotype 3 (ELECTRON-2): treatment-naïve and treatment-experienced patients with 
+or without cirrhosis (N=101) 
+• Genotype 4: 
+o Study 1119: treatment -naïve and treatment -experienced patients, with or 
+without cirrhosis (N=44) 
+o ION-4: HCV/HIV-1 coinfected patients, with or without cirrhosis (N=8) 
+• Genotype 5 (Study 1119): treatment- naïve and treatment-experienced patients, with or 
+without cirrhosis (N=25) 
+• Genotype 6 (ELECTRON-2): treatment-naïve and treatment-experienced patients, with 
+or without cirrhosis (N=25) 
+For patients with genotype 2, 4, 5, or 6 CHC, H ARVONI was administered for 12 weeks 
+without ribavirin. For patients with genotype 3 CHC, HARVONI with or without ribavirin was 
+administered for 12 weeks in treatment -naive patients and HARVONI with ribavirin was 
+administered for 12 weeks in treatment-experienced patients. 
+HCV/HIV-1 Coinfection  
+The efficacy of HARVONI in HCV/HIV-1 coinfected patients was evaluated in an open-label 
+Phase 3 trial (ION-4) that enrolled 335 patients with genotype 1 or 4 CHC, with or without 
+cirrhosis, coinfected with HIV-1. All patients in the trial were treated with HARVONI for 12 
+weeks. 
+Patients Who Failed Prior Treatment with SOVALDI and Ribavirin, with or without 
+Interferon 
+The efficacy of HARVONI in genotype 1 CHC patients who failed prior treatment with 
+regimens containing SOVALDI was evaluated in two clinical trials. In Study 1118, patients 
+who had previously failed SOVALDI+RBV±Peg-IFN, with or without cirrhosis, were treated 
+with HARVONI+RBV for 12 weeks (N=45).  In Study ION-4, 13 patients who had failed 
+SOVALDI+RBV were treated with HARVONI without ribavirin for 12 weeks. 
+Liver Transplant Recipients and/or Patients with Decompensated Cirrhosis 
+The efficacy of HARVONI in liver transplant recipients and/or patients with decompensated 
+cirrhosis was evaluated in two open-label Phase 2 trials (SOLAR-1 and SOLAR-2) that 
+enrolled 670 patients with genotype 1 and 4 CHC post-liver transplant and/or with 
+decompensated cirrhosis. Patients in the two trials were treated with HARVONI+RBV for 12 
+or 24 weeks. 
+Serum HCV RNA values were measured during the clinical trials using the COBAS TaqMan 
+HCV test (version 2.0), for use with the High Pure System in ION-3, ION-1, ION-2, SIRIUS 
+and ION-4 studies or the COBAS AmpliPrep/COBAS Taqman HCV test (version 2.0) in 
+ELECTRON-2, LEPTON, SOLAR-1, SOLAR-2, Study 1118 and 1119. The COBAS 
+Taqman HCV test (version 2.0) for use with the High Pure System has a lower limit of 
+quantification (LLOQ) of 25 IU permL and the COBAS AmpliPrep/COBAS Taqman HCV 
+test (version 2.0) has a LLOQ of 15 IU per mL. Sustained virologic response (SVR) was the 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 19 
+primary endpoint to determine the HCV cure rate which was defined as HCV RNA less than 
+LLOQ at 12 weeks after the cessation of treatment. 
+Clinical Trials in Patients with Genotype 1 CHC 
+Treatment-Naïve Patients─ ION-3 (Study 0108) 
+ION-3 was a randomised, open-label trial that evaluated 8 weeks of treatment with 
+HARVONI with or without ribavirin and 12 weeks of treatment with HARVONI in treatment 
+naïve non-cirrhotic patients with genotype 1 CHC. Patients were randomised in a 1:1:1 ratio 
+to one of the three treatment groups and stratified by HCV genotype (1a vs 1b).  
+Demographics and baseline characteristics were balanced across the treatment groups. Of the 
+647 treated patients, the median age was 55 years (range: 20 to 75); 58% of the patients were 
+male; 78% were White, 19% were Black; 6% were Hispanic or Latino; mean body mass 
+index was 28 kg/m2 (range: 18 to 56 kg/m2); 81% had baseline HCV RNA levels greater than 
+or equal to 800,000 IU/mL; 80% had genotype 1a HCV infection; 73% had non-CC IL28B 
+alleles (CT or TT).  
+Table 6 presents the response rates for the treatment groups in the ION-3 trial.  
+Table 6 Response Rates in Study ION-3 
+ HARVONI 
+8 weeks 
+(N=215) 
+HARVONI+RBV 
+8 weeks 
+(N=216) 
+HARVONI 
+12 weeks 
+(N=216) 
+Overall SVR 94% (202/215) 93% (201/216) 96% (208/216) 
+Outcome for patients without SVR 
+On-treatment virologic failure 0/215 0/216 0/216 
+Relapsea 5% (11/215) 4% (9/214) 1% (3/216) 
+Otherb  ≤1% (2/215) 3% (6/216) 2% (5/216) 
+a. The denominator for relapse is the number of patients with HCV RNA <LLOQ at their last on-treatment assessment. 
+b.  Other includes patients who did not achieve SVR and did not meet virologic failure criteria (e.g., lost to follow-up). 
+The 8-week treatment of HARVONI without ribavirin was noninferior to the 8-week 
+treatment of HARVONI with ribavirin (treatment difference 0.9%; 95% confidence interval: -
+3.9% to 5.7%) and the 12-week treatment of HARVONI (treatment difference -2.3%; 97.5% 
+confidence interval: -7.2% to 2.5%). Among patients with a baseline HCV RNA < 6 million 
+IU/mL, the SVR was 97% (119/123) with 8-week treatment of HARVONI and 96% 
+(126/131) with 12-week treatment of HARVONI.  
+Response rates for selected subgroups are presented in Table 7. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 20 
+Table 7 SVR Rates for Selected Subgroups in ION-3 
+ 
+HARVONI  
+8 Weeks  
+(N = 215) 
+HARVONI+RBV 
+8 Weeks 
+(N = 216) 
+HARVONI 
+12 Weeks 
+(N = 216) 
+Genotype 
+Genotype 1a  93% (159/171) 92% (159/172) 96% (165/172) 
+Genotype 1b 98% (42/43) 95% (42/44) 98% (43/44) 
+Viral Load (HCV RNA Log10 IU/ml) 
+<800,000 97% (33/34) 96% (43/45) 96% (42/44) 
+≥800,000 93% (169/181) 92% (158/171) 95% (167/172) 
+Relapse rates by baseline viral load are presented in Table 8. 
+Table 8 Relapse rates by baseline viral load in Study ION-3 
+ HARVONI 
+8 weeks 
+(n = 215) 
+HARVONI+RBV 
+8 weeks 
+(n = 216) 
+HARVONI 
+12 weeks 
+(n = 216) 
+Number of responders at end of 
+treatment 215 
+216 
+216 
+Baseline HCV RNAa 
+ HCV RNA < 6 million IU/mL 2% (2/123) 2% (3/137) 2% (2/131) 
+ HCV RNA ≥ 6 million IU/mL 10% (9/92) 8% (6/77) 1% (1/85) 
+a. HCV RNA values were determined using the Roche TaqMan Assay; a patient’s HCV RNA may vary from visit to visit. 
+  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 21 
+Treatment-Naïve Adults with or without Compensated Cirrhosis ─ ION-1 (Study 0102)  
+ION-1 is an ongoing randomised, open-label trial to evaluate 12 and 24 weeks of treatment 
+with HARVONI with or without ribavirin in 865 treatment naïve patients with genotype 1 
+CHC including those with cirrhosis. Patients were randomised in a 1:1:1:1 ratio to receive 
+HARVONI for 12 weeks, HARVONI + ribavirin for 12 weeks, HARVONI for 24 weeks or 
+HARVONI + ribavirin for 24 weeks. Randomisation was stratified by the presence or 
+absence of cirrhosis and HCV genotype (1a vs 1b). The interim primary endpoint analysis for 
+SVR only included all patients enrolled in the 12-week treatment groups (N = 431). SVR 
+rates for all patients enrolled in the 24 week treatment groups (N= 434) were not available at 
+the time of interim analysis.  
+Demographics and baseline characteristics were balanced across the treatment groups. Of the 
+865 treated patients, the median age was 54 years (range: 18 to 80); 59% of the patients were 
+male; 85% were White, 12% were Black; 12% were Hispanic or Latino; mean body mass 
+index was 27 kg/m2 (range: 18 to 48 kg/m2); 79% had baseline HCV RNA levels greater than 
+or equal to 800,000 IU/mL; 67% had genotype 1a HCV infection; 70% had non-CC IL28B 
+alleles (CT or TT) and 16% had cirrhosis.  
+Table 9 presents the response rates for the treatment groups of HARVONI with or without 
+ribavirin for 12 weeks in the ION-1 trial. 
+Table 9 Response Rates in Study ION-1 
+ 
+HARVONI 
+12 Weeks 
+(N = 214) 
+HARVONI + RBV 
+12 Weeks 
+(N = 217) 
+SVRa 99% (210/213) 97% (211/217) 
+Outcome for subjects without SVR 
+On-Treatment Virologic Failure  0/213 0/217 
+Relapsea <1% (1/212) 0/217 
+Otherb  <1% (2/213) 3% (6/217) 
+a. Excluding one patient with genotype 4 infection 
+b. The denominator for relapse is the number of patients with HCV RNA <LLOQ at their last on-treatment assessment. 
+c. Other includes patients who did not achieve SVR and did not meet virologic failure criteria (e.g., lost to follow-up). 
+  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 22 
+Response groups for selected subgroups are presented in Table 10. 
+Table 10 SVR Rates for Selected Subgroups in Study ION-1 
+ 
+HARVONI  
+12 Weeks 
+ (N = 214) 
+HARVONI+RBV 
+12 Weeks 
+(N = 217) 
+Genotype 
+Genotype 1a  98% (142/145) 97% (143/148) 
+Genotype 1b 100% (67/67) 99% (67/68) 
+Viral Load (HCV RNA Log10 IU/ml) 
+<800,000 98% (44/45) 93% (41/44) 
+≥800,000 98 (165/169) 98% (170/173) 
+Cirrhosisa 
+No 99% (176/177) 97% (177/183) 
+Yes 94% (32/34) 100% (33/33) 
+a. Patients with missing cirrhosis status were excluded from this subgroup analysis.  
+Previously-Treated Adults with or without Compensated Cirrhosis – ION-2 (Study 0109) 
+ION-2 was a randomised, open-label trial that evaluated 12 and 24 weeks of treatment with 
+HARVONI with or without ribavirin in genotype 1 HCV-infected patients with or without 
+cirrhosis who failed prior therapy with an interferon-based regimen, including regimens 
+containing an HCV protease inhibitor. Patients were randomised in a 1:1:1:1 ratio to receive 
+HARVONI for 12 weeks, HARVONI + ribavirin for 12 weeks, HARVONI for 24 weeks or 
+HARVONI + ribavirin for 24 weeks. Randomisation was stratified by the presence or 
+absence of cirrhosis, HCV genotype (1a vs 1b) and response to prior HCV therapy 
+(relapse/breakthrough vs nonresponse). 
+Demographics and baseline characteristics were balanced across the treatment groups. Of the 
+440 treated patients, the median age was 57 years (range: 24 to 75); 65% of the patients were 
+male; 81% were White, 18% were Black; 9% were Hispanic or Latino; mean body mass 
+index was 28 kg/m2 (range: 19 to 50 kg/m2); 89% had baseline HCV RNA levels greater than 
+or equal to 800,000 IU/mL; 79% had genotype 1a HCV infection; 88% had non-C/C IL28B 
+alleles (CT or TT) and 20% had cirrhosis.  Forty-seven percent (47%) of the patients failed a 
+prior therapy of pegylated interferon and ribavirin. Among these patients, 49% were 
+relapse/breakthrough and 51% were non-responder. Fifty-three percent (53%) of the patients 
+failed a prior therapy of pegylated interferon and ribavirin with an HCV protease inhibitor.  
+Among these patients, 62% were relapse/breakthrough and 38% were non-responder. 
+  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 23 
+Table 11 presents the response rates for the treatment groups in the ION-2 trial. 
+Table 11 Response Rates in Study ION-2 
+ 
+HARVONI 
+12 Weeks 
+(N=109) 
+HARVONI+RBV 
+12 Weeks 
+(N=111) 
+HARVONI 
+24 Weeks 
+(N=109) 
+HARVONI+RBV 
+24 Weeks 
+(N=111) 
+SVR 94% (102/109) 96% (107/111) 99% (108/109) 99% (110/111) 
+Outcome for subjects without SVR 
+On-Treatment Virologic Failure 0/109 0/111 0/109 <1% (1/111) 
+Relapsea 6% (7/108) 4% (4/111) 0/109 0/110 
+Otherb 0/109 0/111 <1% (1/109) 0/111 
+a. The denominator for relapse is the number of patients with HCV RNA <LLOQ at their last on-treatment assessment. 
+b. Other includes patients who did not achieve SVR and did not meet virologic failure criteria (e.g., lost to follow-up). 
+Response rates for selected subgroups are presented in Table 12. 
+Table 12 SVR Rates for Selected Subgroups in Study ION-2 
+ 
+HARVONI 
+12 Weeks 
+(N=109) 
+HARVONI+RBV 
+12 Weeks 
+(N=111) 
+HARVONI 
+24 Weeks 
+(N=109) 
+HARVONI+RBV 
+24 Weeks 
+(N=111) 
+Genotype 
+Genotype 1a 95% (82/86) 95% (84/88) 99% (84/85) 99% (87/88) 
+Genotype 1b 87% (20/23) 100% (23/23) 100% (24/24) 100% (23/23) 
+Viral Load (HCV RNA Log10 IU/ml) 
+<800,000 83% (5/6) 100% (13/13) 100% (16/16) 100% (15/15) 
+≥800,000 94% (97/103) 96% (94/98) 99% (92/93) 99% (95/96) 
+Cirrhosisa 
+No 95% (83/87) 100% (88/88) 99% (85/86) 99% (88/89) 
+Yes 86% (19/22) 82% (18/22) 100% (22/22) 100% (22/22) 
+Prior HCV Therapy 
+Peg-IFN + RBV 93% (40/43)  96% (45/47) 100% (58/58) 98% (58/59) 
+HCV protease inhibitor + Peg 
+-   IFN + RBV 94% (62/66) 97% (62/64) 98% (49/50) 100% (51/51) 
+Response to prior HCV Therapy 
+Relapse/Breakthrough 95% (57/60) 97% (63/65) 100% (60/60) 98% (59/60) 
+Nonresponder 92% (45/49) 96% (44/46) 98% (48/49) 100% (51/51) 
+a. Patients with missing cirrhosis status were excluded from this subgroup analysis. 
+ 
+Relapse rates for selected subgroups are presented in Table 13.   
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 24 
+Table 13 Relapse rates for selected subgroups in Study ION-2 
+ HARVONI 
+12 weeks 
+(N = 109) 
+HARVONI+RBV 
+12 weeks 
+(N = 111) 
+HARVONI 
+24 weeks 
+(N = 109) 
+HARVONI+RBV 
+24 weeks 
+(N = 111) 
+Number of responders at 
+end of treatment 
+108 111 109 110 
+Cirrhosis 
+ No 5% (4/86)a 0% (0/88)b 0% (0/86)b 0% (0/88) 
+ Yes 14% (3/22) 18% (4/22) 0% (0/22) 0% (0/22) 
+Presence of baseline NS5A resistance-associated substitutionsc 
+ No 3% (3/91) 2% (2/94) 0% (0/96) 0% (0/95) 
+ Yes 24% (4/17) 12% (2/17) 0% (0/13) 0% (0/14) 
+a. These 4 non-cirrhotic relapsers all have baseline NS5A resistance-associated polymorphisms 
+b.  Patients with missing cirrhosis status were excluded from this subgroup analysis. 
+c. NS5a resistance-associated polymorphisms include any change at NS5A positions 24, 28, 30, 31, 58, 92 or 93  
+Previously-Treated Adults with Compensated Cirrhosis ─ SIRIUS (Study 0121) 
+SIRIUS was a randomised, double-blind and placebo-controlled trial that evaluated the 
+efficacy of HARVONI + ribavirin for 12 weeks or HARVONI without ribavirin for 24 weeks 
+in genotype 1 HCV-infected patients with compensated cirrhosis who failed prior therapy 
+with a Peg-IFN + RBV regimen followed by a subsequent Peg-IFN +RBV + an HCV 
+protease inhibitor regimen. Patients were randomised in a 1:1 ratio to receive placebo for 12 
+weeks followed by HARVONI + ribavirin for 12 weeks or HARVONI for 24 weeks. 
+Randomisation was stratified by HCV genotype (1a vs 1b) and response to prior HCV 
+therapy (never achieved HCV RNA less than LLOQ vs achieved HCV RNA less than 
+LLOQ). 
+Demographics and baseline characteristics were balanced across the treatment groups. Of the 
+155 randomised patients, the median age was 56 years (range: 23 to 77); 74% of the patients 
+were male; 97% were White; mean body mass index was 27 kg/m2 (range: 19 to 47 kg/m2); 
+63% had genotype 1a HCV infection; 94% had non-C/C IL28B alleles (CT or TT).  All 
+patients (with the exception of 1) met the protocol defined definition of cirrhosis as defined 
+by biopsy, transient elastography (>12.5 kPa) or FibroTest score >0.75 and an AST:platelet 
+ratio index (APRI) >2. One patient discontinued therapy while on placebo, and was not 
+included in the efficacy analysis. 
+The SVR rate was 96% (74/77) and 97% (75/77) in patients treated with HARVONI + 
+ribavirin for 12 weeks and HARVONI for 24 weeks without ribavirin, respectively. All 5 
+patients who did not achieve SVR12 relapsed. 
+Clinical Trials in Patients with Genotype 2, 3 ,4, 5, or 6 CHC 
+HARVONI has been evaluated for the treatment of non-genotype 1 infection in a number of  
+Phase 2 and 3 studies, as summarised below.   
+The clinical studies enrolled patients with or without cirrhosis, who were treatment-naïve or 
+with prior treatment failure after therapy with PEG-IFN + ribavirin +/- an HCV protease 
+inhibitor. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 25 
+For genotype 2, 4, 5 and 6 infection, therapy consisted of HARVONI without ribavirin, given 
+for 12 weeks (Table 14).  For genotype 3 infection, HARVONI was given with or without 
+ribavirin, also for 12 weeks (Table 15). 
+Table 14 Response rates (SVR12) with HARVONI for 12 weeks in patients with 
+genotype 2, 4, 5 and 6 HCV infection 
+Study Genotype N Treatment 
+Experienced 
+% (n/N) 
+SVR12 Relapsea 
+Overall Cirrhosis 
+Study 1468 (LEPTON) 2 26 19% (5/26) 96% (25/26)b 100% (2/2) 0% (0/25) 
+Study 1119 4 44 50% (22/44) 93% (41/44) 100% (10/10) 7% (3/44) 
+Study 0115 (ION-4) 4 8 50% (4/8) 100% (8/8) 0% (0/0) 0% (0/0) 
+Study 1119 5 41 49% (20/41) 93% (38/41)c 89% (8/9) 5% (2/40) 
+Study 0122 (ELECTRON-2) 6 25 0% (0/25) 96% (24/25) 100% (2/2) 4% (1/25)d 
+a. The denominator for relapse is the number of patients with HCV RNA < LLOQ at their last on-treatment assessment. 
+b. The patient who did not achieve SVR12 withdrew consent and discontinued from the study after receiving a single dose 
+of HARVONI. 
+c. One patient was lost to follow up. 
+d. Patient discontinued study treatment early at approximately Week 8 of 12. 
+ 
+Table 15  Response rates (SVR12) in patients with genotype 3 infection (Study 0122 
+ELECTRON-2)  
+ HARVONI+RBV 
+12 weeks 
+HARVONI 
+12 weeks 
+SVR12 Relapsea SVR12 Relapsea 
+Treatment-naïve 100% 
+(26/26) 
+0% (0/26)  64% (16/25) 33% (8/24) 
+  Patients without 
+cirrhosis 
+100% 
+(20/20)  
+0% (0/21) 71% (15/21) 25% (5/20) 
+  Patients with cirrhosis 100% (6/6)  0% (0/5) 25% (1/4)  75% (3/4) 
+Treatment-experienced 82% 
+(41/50)b  
+16% (8/49) NS NS 
+  Patients without 
+cirrhosis 
+89% (25/28)  7% (2/27) NS NS 
+  Patients with cirrhosis 73% (16/22)  27% (6/22) NS NS 
+NS: Not studied 
+a. The denominator for relapse is the number of patients with HCV RNA < LLOQ at their last on-treatment assessment. 
+b. One patient experienced on-treatment virologic failure. 
+ 
+Clinical Trials in Patients with HCV/HIV-1 Coinfection 
+ION-4 was an open-label clinical trial that evaluated the safety and efficacy of 12 weeks of 
+treatment with HARVONI without ribavirin in HCV treatment-naïve and treatment-
+experienced patients with genotype 1 or 4 CHC who were coinfected with HIV-1. Treatment-
+experienced patients had failed prior treatment with Peg-IFN + RBV, Peg-IFN + RBV + an 
+HCV protease inhibitor or SOVALDI + RBV ± Peg-IFN. Patients were on a stable HIV-1 
+antiretroviral therapy that included emtricitabine + tenofovir DF, administered with efavirenz, 
+rilpivirine or raltegravir.  
+Of the 335 treated patients, the median age was 52 years (range: 26 to 72); 82% of the 
+patients were male; 61% were White; 34% were Black; mean body mass index was 27 kg/m2 
+(range: 18 to 66 kg/m2); 75% had genotype 1a HCV infection; 2% had genotype 4 infection; 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 26 
+76% had non-C/C IL28B alleles (CT or TT); and 20% had compensated cirrhosis. Fifty-five 
+percent (55%) of the patients were treatment-experienced. 
+Table 16 presents the response rates in the ION-4 trial after 12 weeks of HARVONI 
+treatment.  
+Table 16 Study ION -4: Response Rates after 12 Weeks of Treatment in Patients 
+with Genotype 1 or 4 CHC with or without Cirrhosis Who Are Coinfected 
+with HIV-1 
+ 
+HARVONI  
+12 Weeks  
+(N=335) 
+SVR 96% (321/335)a 
+Outcome for Patients without SVR 
+On-Treatment Virologic Failure  <1% (2/335) 
+  Relapseb 3% (10/333) 
+  Otherc  <1%  (2/335) 
+a. 8 subjects with genotype 4 HCV infection were enrolled 
+b The denominator for relapse is the number of patients with HCV RNA <LLOQ at their last on-treatment assessment. 
+c. Other includes patients who did not achieve SVR and did not meet virologic failure criteria (e.g., lost to follow-up). 
+SVR rates were 94% (63/67) in patients with cirrhosis and 98% (46/47) in patients who were 
+previously-treated and had cirrhosis.  
+No patient had HIV-1 rebound during the study and no clinically meaningful changes in 
+CD4+ cell count from baseline were observed.  
+Clinical Trials in SOVALDI+RBV±Peg-IFN Treatment Failures 
+The efficacy of HARVONI in patients who had previously failed treatment with 
+SOVALDI+RBV±Peg-IFN is supported by two clinical trials. In Study 1118, 44 patients 
+with genotype 1 infection who had previously failed a SOVALDI+Peg-IFN+RBV or a 
+SOVALDI+RBV regimen were treated with HARVONI + RBV for 12 weeks; the SVR was 
+100% (44/44). In Study ION-4, 13 HCV/HIV-1 coinfected patients with genotype 1 HCV 
+infection who had failed a SOVALDI+RBV regimen were enrolled; the SVR was 100% 
+(13/13) after 12 weeks of treatment with HARVONI without ribavirin. 
+There are no data in non-genotype 1 patients who have previously failed a sofosbuvir-
+containing regimen. 
+Clinical Trials in Liver Transplant Recipients and/or Patients with Decompensated 
+Cirrhosis 
+SOLAR-1 and SOLAR-2 were two open-label clinical trials that evaluated 12 and 24 weeks 
+of treatment with HARVONI in combination with ribavirin in genotype 1 and 4 HCV-
+infected patients who have undergone liver transplantation and/or who have decompensated 
+liver disease. The two trials were identical in study design. Patients were enrolled in one of 
+the seven groups based on liver transplantation status and severity of hepatic impairment (see 
+Table 15). Patients with a CPT score >12 were excluded. Within each group, patients were 
+randomised in a 1:1 ratio to receive HARVONI + RBV for 12 weeks or HARVONI + RBV 
+for 24 weeks. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 27 
+Demographics and baseline characteristics were balanced across the treatment groups. Of the 
+670 treated patients, the median age was 59 years (range: 21 to 81); 77% of the patients were 
+male; 91% were White; mean body mass index was 28 kg/m2 (range: 18 to 49 kg/m2); 94% 
+and 6% had genotype 1 and 4 HCV infection, respectively; 78% of the patients failed a prior 
+HCV therapy. Among the patients who had decompensated cirrhosis (pre- or post-transplant), 
+64% and 36% were CPT class B and C at screening, respectively, and 24% had a baseline 
+Model for End Stage Liver Disease (MELD) score greater than 15. 
+Table 17 presents the pooled response rates of SOLAR-1 and SOLAR-2 in patients with 
+genotype 1 CHC.  
+Table 17 Pooled Response Rates in Study SOLAR-1 and SOLAR-2 in Patients with 
+Genotype 1 CHC 
+ 
+HARVONI+RBV 
+12 Weeks 
+(N = 307)a,b 
+HARVONI+RBV 
+24  Weeks 
+(N = 307)a,b 
+Pre-transplant 
+CPT B 87% (45/52) 92% (46/50) 
+CPT C 88% (35/40) 83% (38/46) 
+Post-transplant 
+Metavir score F0-F3 95% (94/99) 99% (99/100) 
+CPT A 98% (55/56) 96% (51/53) 
+CPT B 89% (41/46) 96% (43/45) 
+CPT C 57% (4/7) 78% (7/9) 
+Fibrosis cholestatic hepatitis 100% (7/7) 100% (4/4) 
+a. Twelve patients transplanted prior to post-treatment Week 12 with HCV RNA<LLOQ at last measurement prior to 
+transplant were excluded. 
+b. Two patients who did not have decompensated cirrhosis and had also not received a liver transplant were excluded due to 
+failure to meet the inclusion criteria for any of the treatment groups. 
+ 
+Among the 26 patients with genotype 1 CHC who did not achieve SVR12 after 12 weeks of 
+treatment, 14 patients relapsed and the other 12 subjects were considered treatment failure 
+due to death (N=11) or withdrawal of consent (N=1). Among the 19 patients with genotype 1 
+CHC who did not achieve SVR12 after 24 weeks of treatment, 6 patients relapsed and the 
+other 13 patients were considered treatment failure due to death (N=11), withdrawal of 
+consent (N=1) or early discontinuation after 8 days on treatment (N=1).  
+Among 40 patients with genotype 4 CHC enrolled in SOLAR-1 and SOLAR-2 studies, 
+SVR12 were 92% (11/12) and 100% (10/10) in post-transplant patients without 
+decompensated cirrhosis treated for 12 or 24 weeks, respectively. No subjects relapsed. 
+SVR12 were 60% (6/10) and 75% (6/8) in patients with decompensated cirrhosis (pre- and 
+post-liver transplantation) treated for 12 or 24 weeks, respectively. Of the 7 patients who 
+failed to achieve SVR12, 3 relapsed, all of whom had decompensated cirrhosis and were 
+treated with HARVONI+ribavirin for 12 weeks. 
+ Changes in MELD and CPT score from baseline to post-treatment Week 12 were analysed 
+for all patients with decompensated cirrhosis (pre- or post-transplant) who achieved SVR12 
+and for whom data were available (N=123) to assess the effect of SVR12 on hepatic function:  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 28 
+Change in MELD score: Among those who achieved SVR12 with 12 weeks treatment with 
+HARVONI+RBV, 57% (70/123) and 19% (23/123) had an improvement or no change in 
+MELD score from baseline to post-treatment week 12, respectively; of the 32 patients whose 
+MELD score was ≥ 15 at baseline, 59% (19/32) had a MELD score < 15 at post-treatment 
+Week 12. Improvement in MELD score was driven largely by improvement in bilirubin. 
+Change in CPT: Among those who achieved SVR12 with 12 weeks treatment with 
+HARVONI+RBV, 60% (74/123) and 34% (42/123) had an improvement or no change of 
+CPT scores from baseline to post-treatment week 12, respectively; of the 32 subjects who had 
+CPT C cirrhosis at baseline, 53% (17/32) had CPT B cirrhosis at post-treatment Week 12; of 
+the 88 patients who had CPT B cirrhosis at baseline, 25% (22/88) had CPT A cirrhosis at 
+post-treatment Week 12. Improvement in CPT score was driven largely by improvement in 
+albumin and bilirubin. 
+5.2 PHARMACOKINETIC PROPERTIES  
+Absorption 
+The pharmacokinetic properties of ledipasvir, sofosbuvir and the predominant circulating 
+metabolite GS-331007 have been evaluated in healthy adult patients and in patients with 
+chronic hepatitis C. Following oral administration of HARVONI, ledipasvir median peak 
+concentrations were observed 4.0 to 4.5 hours post-dose. Sofosbuvir was absorbed quickly 
+and the peak median plasma concentration was observed ~ 0.8 to 1 hour post-dose. Median 
+peak plasma concentration of GS-331007 was observed between 3.5 to 4 hours post-dose.  
+Based on the population pharmacokinetic analysis in HCV-infected patients, geometric mean 
+steady-state AUC0-24 for ledipasvir (N=2113), sofosbuvir (N=1542), and GS-331007 
+(N=2113) were 7290, 1320 and 12,000 ng•hr/ml, respectively. Steady-state Cmax for 
+ledipasvir, sofosbuvir and GS-331007 were 323, 618 and 707 ng/ml, respectively. Sofosbuvir 
+and GS-331007 AUC0-24 and Cmax were similar in healthy adult patients and patients with 
+HCV infection. Relative to healthy subjects (N=191), ledipasvir AUC0-24 and Cmax were 24% 
+lower and 32% lower, respectively in HCV-infected patients.  
+Ledipasvir AUC is dose proportional over the dose range of 3 to 100 mg. Sofosbuvir and GS-
+331007 AUCs are near dose proportional over the dose range of 200 mg to 1,200 mg. 
+Distribution 
+Ledipasvir is >99.8% bound to human plasma proteins. After a single 90 mg dose of [14C]-
+ledipasvir in healthy subjects, the blood to plasma ratio of 14C-radioactivity ranged between 
+0.51 and 0.66.  
+Sofosbuvir is approximately 61-65% bound to human plasma proteins and the binding is 
+independent of drug concentration over the range of 1 µg/mL to 20 µg/mL. Protein binding of 
+GS-331007 was minimal in human plasma. After a single 400 mg dose of [14C]-sofosbuvir in 
+healthy subjects, the blood to plasma ratio of 14C-radioactivity was approximately 0.7.  
+Metabolism 
+In vitro, no detectable metabolism of ledipasvir was observed by human CYP1A2, CYP2C8, 
+CYP2C9, CYP 2C19, CYP2D6 and CYP3A4. Evidence of slow oxidative metabolism via an 
+unknown mechanism has been observed. Following a single dose of 90 mg [14C]-LDV, 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 29 
+systemic exposure was almost exclusively to the parent drug (>98%). Unchanged  ledipasvir 
+is the major species present in faeces.  
+Sofosbuvir is extensively metabolised in the liver to form the pharmacologically active 
+nucleoside analog triphosphate GS-461203. The metabolic activation pathway involves 
+sequential hydrolysis of the carboxyl ester moiety catalysed by human cathepsin A (CatA) or 
+carboxylesterase 1 (CES1) and phosphoramidate cleavage by histidine triad nucleotide-
+binding protein 1 (HINT1) followed by phosphorylation by the pyrimidine nucleotide 
+biosynthesis pathway. Dephosphorylation results in the formation of nucleoside metabolite 
+GS-331007 that cannot be efficiently rephosphorylated and lacks anti-HCV activity in vitro. 
+After a single 400 mg oral dose of [14C]-sofosbuvir, GS-331007 accounted for approximately 
+>90% of total systemic exposure.  
+Excretion 
+Following a single 90 mg oral dose of [14C]-ledipasvir, mean total recovery of the [14C]-
+radioactivity in faeces and urine was approximately 87%, with most of the radioactive dose 
+recovered from faeces (approximately 86%). Unchanged ledipasvir excreted in faeces 
+accounted for a mean of 70% of the administered dose and the oxidative metabolite M19 
+accounted for 2.2% of the dose. These data suggest that biliary excretion of unchanged 
+ledipasvir is a major route of elimination with renal excretion being a minor pathway 
+(approximately 1%). The median terminal half-life of ledipasvir was 47 hours. 
+Following a single 400 mg oral dose of [14C]-sofosbuvir, mean total recovery of the dose 
+greater than 92%, consisting of approximately 80%, 14%, and 2.5% recovered in urine, 
+faeces and expired air, respectively. The majority of the sofosbuvir dose recovered in urine 
+was GS-331007 (78%) while 3.5% was recovered as sofosbuvir. This data indicate that renal 
+clearance is the major elimination pathway for GS-331007. The median terminal half-lives of 
+sofosbuvir and GS-331007 were 0.4 and 27 hours, respectively. 
+Effect of food  
+Relative to fasting conditions, the administration of a single dose of HARVONI with a 
+moderate fat (~600 kcal, 25% to 30% fat) or high fat (~1000 kcal, 50% fat) meal did not 
+substantially affect the sofosbuvir Cmax and AUC0-inf. The exposures of GS-331007 and 
+ledipasvir were not altered in the presence of either meal type. The response rates in Phase 3 
+trials were similar in HCV-infected patients who received HARVONI with food or without 
+food. HARVONI can be administered without regard to food. 
+Age, Gender and Ethnicity 
+No clinically relevant pharmacokinetic differences due to race have been identified for 
+ledipasvir, sofosbuvir or GS-331007.   No clinically relevant pharmacokinetic differences due 
+to gender have been identified for sofosbuvir or GS-331007. 
+AUC and Cmax of ledipasvir were 77% and 58% higher respectively in females than males; 
+however, the relationship between gender and ledipasvir exposures was not considered 
+clinically relevant as high response rates (SVR >90%) were achieved in males across the 
+Phase 3 studies. 
+ 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 30 
+Elderly Patients 
+Population pharmacokinetic analysis in HCV-infected patients showed that within the age 
+range (18 to 80 years) analysed, age did not have a clinically relevant effect on the exposure 
+to ledipasvir, sofosbuvir or GS-331007. Clinical studies of HARVONI included 351 patients 
+aged 65 and over. The response rates observed for patients ≥65 years of age were similar to 
+that of subjects <65 years of age, across treatment groups. 
+Paediatric Patients 
+The pharmacokinetics of ledipasvir, sofosbuvir and GS-331007 in paediatric patients have 
+not been established. 
+Patients with Impaired Renal Function 
+The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in 
+HCV negative patients with severe renal impairment (eGFR < 30 mL/min by Cockcroft-
+Gault). No clinically relevant differences in ledipasvir pharmacokinetics were observed 
+between healthy patients and patients with severe renal impairment. No dose adjustment of 
+ledipasvir is required for patients with mild, moderate or severe renal impairment. The 
+pharmacokinetics of sofosbuvir were studied in HCV negative patients with mild (eGFR ≥ 50 
+and < 80 mL/min/1.73m2), moderate (eGFR ≥ 30 and < 50 mL/min/1.73m2), severe renal 
+impairment (eGFR < 30 mL/min/1.73m2) and patients with end stage renal disease (ESRD) 
+requiring haemodialysis following a single 400 mg dose of sofosbuvir. Relative to patients 
+with normal renal function (eGFR > 80 mL/min/1.73m2), the sofosbuvir AUC0-inf was 61%, 
+107% and 171% higher in mild, moderate and severe renal impairment, while the GS-331007 
+AUC0-inf was 55%, 88% and 451% higher, respectively. In patients with ESRD, relative to 
+patients with normal renal function, sofosbuvir and GS-331007 AUC0-inf was 28% and 
+1280% higher when sofosbuvir was dosed 1 hour before haemodialysis compared with 60% 
+and 2070% higher when sofosbuvir was dosed 1 hour after haemodialysis. Haemodialysis is 
+required for the elimination of GS-331007 in patients with ESRD, with a 4 hour 
+haemodialysis removing approximately 18% of administered dose. No dose 
+recommendations can be given for patients with severe renal impairment 
+eGFR<30mL/min/1.73m2 or with end stage renal disease requiring haemodialysis due to 
+higher exposure of the predominant sofosbuvir metabolite. 
+Patients with Hepatic Impairment 
+The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in 
+HCV negative patients with severe hepatic impairment (Child Pugh Class C). Ledipasvir 
+plasma exposure (AUC0-inf) was similar in patients with severe hepatic impairment and 
+control patients with normal hepatic function. Population pharmacokinetics analysis in HCV-
+infected patients indicated that cirrhosis (including decompensated cirrhosis) had no 
+clinically relevant effect on the exposure of ledipasvir. No dose adjustment of ledipasvir is 
+recommended for patients with mild, moderate or severe hepatic impairment. 
+The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg 
+sofosbuvir in HCV-infected patients with moderate and severe hepatic impairment (Child 
+Pugh Class B and C). Relative to patients with normal hepatic function, the sofosbuvir AUC0-
+24 was 126% and 143% higher in moderate and severe hepatic impairment, while the GS-
+331007 AUC0-24 was 18% and 9% higher, respectively. Population pharmacokinetics analysis 
+in HCV-infected patients indicated that cirrhosis (including decompensated cirrhosis) had no 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 31 
+clinically relevant effect on the exposure of sofosbuvir and GS-331007. No dose adjustment 
+of sofosbuvir is recommended for patients with mild, moderate or severe hepatic impairment. 
+Assessment of Drug Interactions 
+The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir and GS-331007 
+are shown in Table 18. The effects of ledipasvir or sofosbuvir on the exposure of 
+coadministered drugs are shown in Table 19. 
+Table 18 Drug Interactions: Changes in  Pharmacokinetic Parameters for 
+Ledipasvir, Sofosbuvir and the Predominant Circulating Metabolite GS -
+331007 in the Presence of the Coadministered Druga 
+Coadministered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+LDV 
+Dose (mg) 
+SOF  
+Dose (mg) N 
+Mean Ratio (90% CI) of Ledipasvir, Sofosbuvir and  
+GS-331007 PK With/Without Coadministered Drug 
+No Effect=1.00 
+ Cmax AUC Cmin 
+Abacavir/ 
+lamivudine 
+600/300 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 13 
+ledipasvir 1.10 
+(1.01, 1.19) 
+1.18 
+(1.10, 1.28) 
+1.26 
+(1.17, 1.36) 
+sofosbuvir 1.08 
+(0.85, 1.35)) 
+1.21 
+(1.01, 1.35) NA 
+GS-331007 1.00 
+(0.94, 1.07) 
+1.05 
+(1.01, 1.09) 
+1.08 
+(1.01, 1.14) 
+Atazanavir/ 
+ritonavir 
+300/100 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 30 
+ledipasvir 1.98 
+(1.78, 2.20) 
+2.13 
+(1.89, 2.40) 
+2.36 
+(2.08, 2.67) 
+sofosbuvir 0.96 
+(0.88, 1.05) 
+1.08 
+(1.02, 1.15) NA 
+GS-331007 1.13 
+(1.08, 1.19) 
+1.23 
+(1.18, 1.29) 
+1.28 
+(1.21, 1.36) 
+Atazanavir/ 
+ritonavir + 
+tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabineb 
+300/100 + 
+300/200 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 24 
+ledipasvir 1.68 
+(1.54, 1.84) 
+1.96 
+(1.74, 2.21) 
+2.18 
+(1.91, 2.50) 
+sofosbuvir 1.01 
+(0.88, 1.15) 
+1.11 
+(1.02, 1.21) NA 
+GS-331007 1.17 
+(1.12, 1.23) 
+1.31 
+(1.25, 1.36) 
+1.42 
+(1.34, 1.49) 
+Cyclosporin 600 single dose ND 400 single 
+dose 19 
+sofosbuvir 2.54 
+(1.87, 3.45) 
+4.53 
+(3.26, 6.30) N/A 
+GS-331007 0.60 
+(0.53, 0.69) 
+1.04 
+(0.90, 1.20) NA 
+Darunavir/ 
+ritonavir 
+800/100 once 
+daily 
+90 once 
+daily ND 23 ledipasvir 1.45 
+(1.34, 1.56) 
+1.39 
+(1.28. 1.49) 
+1.39 
+(1.29, 1.51) 
+ND 400 once 
+daily 18 
+sofosbuvir 1.45 
+(1.10. 1.92) 
+1.34 
+(1.12, 1.59) NA 
+GS-331007 0.97 
+(0.90, 1.05) 
+1.24 
+(1.18,  1.30) NA 
+Darunavir/ 
+ritonavir + 
+tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabineb 
+800/100 + 
+300/200 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 23 
+ledipasvir 1.11 
+(0.99, 1.24) 
+1.12 
+(1.00, 1.25) 
+1.17 
+(1.04, 1.31) 
+sofosbuvir 0.63 
+(0.52, 0.75) 
+0.73 
+(0.65, 0.82) 
+NA 
+GS-331007 1.10 
+(1.04, 1.16) 
+1.20 
+(1.16, 1.24) 
+1.26 
+(1.20, 1.32) 
+Dolutegravir + 
+tenofovir 
+50 + 300/200 
+once daily 
+90 once 
+daily 
+400 once 
+daily 29 ledipasvir 0.85 
+(0.81, 0.90) 
+0.89 
+(0.84, 0.95) 
+0.89 
+(0.84, 0.95) 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 32 
+disproxil 
+fumarate/ 
+emtricitabine 
+sofosbuvir 1.06 
+(0.92, 1.21) 
+1.09 
+(1.00, 1.19) 
+NA 
+GS-331007 0.99 
+(0.95, 1.03) 
+1.06 
+(1.03, 1.09) 
+1.06 
+(1.03, 1.10) 
+ 
+Tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabine/ 
+efavirenzc 
+300/200/600 
+once daily 
+90 once 
+daily 
+400 single 
+dose 14 
+ledipasvir 0.66 
+(0.59, 0.75) 
+0.66 
+(0.59, 0.75) 
+0.66 
+(0.57, 0.76) 
+sofosbuvir 1.03 
+(0.87, 1.23) 
+0.94 
+(0.81, 1.10) NA 
+GS-331007 0.86 
+(0.76, 0.96) 
+0.90 
+(0.83. 0.97) 
+1.07 
+(1.02, 1.13) 
+Elvitegravir/ 
+cobicistat/ 
+emtricitabine/ 
+tenofovir 
+alafenamide 
+150/150/200/10 
+once daily 
+90 once 
+daily 
+400 once 
+daily 30 
+ledipasvir 1.65 
+(1.53, 1.78) 
+1.79 
+(1.64, 1.96) 
+1.93 
+(1.74, 2.15) 
+sofosbuvir 1.28 
+ (1.13, 1.47) 
+1.47 
+(1.35,1.59) NA 
+GS-331007 1.29 
+(1.24, 1.35) 
+1.48 
+(1.44, 1.53) 
+1.66 
+(1.60, 1.73) 
+Tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabine/ 
+rilpivirined 
+ 
+300/200/ 
+25 once daily 
+ 
+90 once 
+daily 
+ 
+400 once 
+daily 
+ 
+15 
+ledipasvir 1.01 
+(0.95, 1.07) 
+1.08 
+(1.02, 1.15) 
+1.16 
+(1.08, 1.25) 
+sofosbuvir 1.05 
+(0.93, 1.20) 
+1.10 
+(1.01, 1.21) NA 
+GS-331007 1.06 
+(1.01, 1.11) 
+1.15 
+ (1.11, 1.19) 
+1.18 
+(1.13, 1.24) 
+Famotidine 
+40 single dose 
+simultaneously 
+with HARVONI 
+90 single 
+dose 
+400 single 
+dose 
+12 
+ledipasvir 0.80 
+(0.69, 0.93) 
+0.89 
+(0.76, 1.06) NA 
+sofosbuvir 1.15 
+(0.88, 1.50) 
+1.11 
+(1.00, 1.24) NA 
+GS-331007 1.06 
+(0.97, 1.14) 
+1.06 
+(1.02, 1.11) NA 
+40 single dose 12 
+hours prior to 
+HARVONI 
+12 
+ledipasvir 0.83 
+(0.69, 1.00) 
+0.98 
+(0.80, 1.20) NA 
+sofosbuvir 1.00 
+(0.76, 1.32) 
+0.95 
+(0.82, 1.10) NA 
+GS-331007 1.13 
+(1.07, 1.20) 
+1.06 
+(1.01, 1.12) NA 
+Methadone 30 to 130 daily ND 400 once 
+daily 14 
+sofosbuvir 0.95 
+(0.68, 1.33) 
+1.30 
+(1.00, 1.69) NA 
+GS-331007 0.73 
+(0.65, 0.83) 
+1.04 
+(0.89, 1.22) 
+NA 
+ 
+ 
+Omeprazole 
+20 once daily 
+simultaneously 
+with HARVONI 
+90 single 
+dose 
+400 single 
+dose 16 
+ledipasvir 0.89 
+(0.61, 1.30) 
+0.96 
+(0.66, 1.39) NA 
+sofosbuvir 1.12 
+(0.88, 1.42) 
+1.00 
+(0.80, 1.25) NA 
+GS-331007 1.14 
+(1.01, 1.29) 
+1.03 
+(0.96, 1.12) NA 
+Raltegravir 400 twice daily 
+90 once 
+daily 
+ND 28 ledipasvir 0.92 
+(0.85, 1.00) 
+0.91 
+(0.84, 1.00) 
+0.89 
+(0.81, 0.98) 
+ND 400 single 
+dose 19 
+sofosbuvir 0.87 
+(0.71, 1.08) 
+0.95 
+(0.82, 1.09) NA 
+GS-331007 1.09 
+(0.99, 1.19) 
+1.02 
+(0.97, 1.08) NA 
+Rifampicine 600 once daily 90 single 
+dose ND 31 ledipasvir 0.65 
+(0.56, 0.76) 
+0.41 
+(0.36, 0.48) NA 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 33 
+Simeprevir 150 once daily 30 once 
+daily ND 22 ledipasvir 1.81 
+(1.69, 2.94) 
+1.92 
+(1.77, 2.07) NA 
+Tacrolimus 5 single dose ND 400 single 
+dose 16 
+sofosbuvir 0.97 
+(0.65, 1.43) 
+1.13 
+(0.81, 1.57) NA 
+GS-331007 0.97 
+(0.83, 1.14) 
+1.00 
+(0.87, 1.13) NA 
+NA = not available/not applicable, ND = not dosed. 
+a. All interaction studies conducted in healthy volunteers 
+b. Data generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir 
++ tenofovir disoproxil fumarate/ emtricitabine/ or darunavir/ritonavir + tenofovir disoproxil fumarate/emtricitabi ne and 
+HARVONI provided similar results. 
+c. Administered as ATRIPLA. 
+d. Administered as EVIPLERA. 
+e. This study was conducted in the presence of two other investigational HCV direct-acting agents. 
+  
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 34 
+Table 19 Changes in Pharmacokinetic Parameters for Coadministered Drug in the 
+Presence of Ledipasvir, Sofosbuvir or HARVONIa 
+Co-administered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+LDV Dose 
+(mg) 
+SOF Dose  
+(mg) 
+N Mean Ratio (90% CI) of Coadministered 
+drug PK With/Without Ledipasvir, 
+Sofosbuvir or HARVONI 
+No Effect=1.00 
+Cmax AUC Cmin 
+Abacavir/ 
+lamivudine 
+Abacavir 600 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 
+15 0.92 
+(0.87, 0.97) 
+0.90 
+(0.85, 0.94) 
+NA 
+Lamivudine 300 once 
+daily 
+0.93 
+(0.87, 1.00) 
+0.94 
+(0.90, 0.98) 
+1.12 
+(1.05, 1.20) 
+Atazanavir/ 
+ritonavir 
+300/100 once daily 90 once 
+daily 
+400 once 
+daily 
+30 1.07 
+(1.00, 1.15) 
+1.33 
+(1.25, 1.42) 
+1.75 
+(1.58, 1.93) 
+Atazanavir/ 
+ritonavir + 
+tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabineb,c 
+atazanavir 300 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 
+24 1.07 
+(0.99, 1.14) 
+1.27 
+(1.18, 1.37) 
+1.63 
+(1.45, 1.84) 
+ritonavir 100 once 
+daily 
+0.86 
+(0.79, 0.93) 
+0.97 
+(0.89, 1.05) 
+1.45 
+(1.27, 1.64) 
+ 
+emtricitabine 200 
+once daily 
+0.98 
+(0.94, 1.02) 
+1.00 
+(0.97, 1.04) 
+1.04 
+(0.96, 1.12) 
+tenofovir disoproxil 
+fumarate 300 once 
+daily 
+1.47 
+(1.37, 1.58) 
+1.35 
+(1.29, 1.42) 
+1.47 
+(1.38, 1.57) 
+Cyclosporin 600 single dose ND 400 single 
+dose 
+19 1.06 
+(0.94, 1.18) 
+0.98 
+(0.85, 1.14) 
+NA 
+Darunavir/ 
+ritonavir+ 
+tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabineb,d 
+Darunavir 800 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 
+23 1.01 
+(0.96, 1.06) 
+1.04 
+(0.99, 1.08) 
+1.08 
+(0.98, 1.20) 
+ritonavir 100 once 
+daily 
+1.17 
+(1.01, 1.35) 
+1.25 
+(1.15, 1.36) 
+1.48 
+(1.34, 1.63) 
+Emtricitabine 200 
+once daily 
+1.02 
+(0.96, 1.08) 
+1.04 
+(1.00, 1.08) 
+1.03 
+(0.97, 1.10) 
+Tenofovir disoproxil 
+fumarate 300 once 
+daily 
+1.64 
+(1.54, 1.74) 
+1.50 
+(1.42, 1.59) 
+1.59 
+(1.49, 1.70) 
+Darunavir 
+(boosted by 
+ritonavir) 
+800/100 once daily 90 once 
+daily 
+ND 23 1.02 
+(0.88, 1.19) 
+0.96 
+(0.84, 1.11) 
+0.97 
+(0.86, 1.10) 
+ND 400 single 
+dose 
+18 0.97 
+(0.94, 1.01) 
+0.97 
+(0.94, 1.00) 
+0.86 
+(0.78, 0.96) 
+Dolutegravir + 
+tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabinee 
+dolutegravir 50 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 
+29 1.15 
+(1.07, 1.23) 
+1.13 
+(1.06, 1.20) 
+1.13 
+(1.06, 1.21) 
+emtricitabine 200 
+once daily 
+1.02 
+(0.95, 1.08) 
+1.07 
+(1.04, 1.10) 
+1.05 
+(1.02, 1.09) 
+ 
+Tenofovir disoproxil 
+fumarate 300 once 
+daily 
+1.61 
+(1.51, 1.72) 
+1.65 
+(1.59, 1.71) 
+2.15 
+(2.05, 2.26) 
+Tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabine/ 
+efavirenze 
+tenofovir disoproxil 
+fumarate 300 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 
+15 1.79 
+(1.56, 2.04) 
+1.98 
+(1.77, 2.23) 
+2.63 
+(2.32, 2.97) 
+emtricitabine 200 
+once daily 
+1.08 
+(0.97, 1.21) 
+1.05 
+(0.98, 1.11) 
+1.04 
+(0.98, 1.11) 
+efavirenz 600 once 
+daily 
+0.87 
+(0.79, 0.97) 
+0.90  
+(0.84, 0.96) 
+0.91 
+(0.83, 0.99) 
+Tenofovir 
+alafenamide/ 
+tenofovir alafenamide 
+10 once daily 
+90 once 
+daily 
+400 once 
+daily 
+30 0.90 
+(0.73, 1.11) 
+0.86 
+(0.78, 0.95) 
+NA 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 35 
+Co-administered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+LDV Dose 
+(mg) 
+SOF Dose  
+(mg) 
+N Mean Ratio (90% CI) of Coadministered 
+drug PK With/Without Ledipasvir, 
+Sofosbuvir or HARVONI 
+No Effect=1.00 
+Cmax AUC Cmin 
+elvitegravir/ 
+cobicistat/ 
+emtricitabine 
+elvitegravir 150 once 
+daily 
+0.98 
+(0.90, 1.07) 
+1.11 
+(1.02, 1.20) 
+1.46 
+(1.28, 1.66) 
+cobicistat 150 once 
+daily 
+1.23 
+(1.15, 1.32) 
+1.53 
+(1.45, 1.62) 
+3.25 
+(2.88, 3.67) 
+emtricitabine 200 
+once daily 
+1.03 
+(0.96, 1.11) 
+0.97 
+(0.93, 1.00) 
+0.95 
+(0.91, 0.99) 
+Tenofovir 
+disoproxil 
+fumarate/ 
+emtricitabine/ 
+rilpivirinef 
+tenofovir disoproxil 
+fumarate 300 once 
+daily 
+90 once 
+daily 
+400 once 
+daily 
+14 1.32 
+(1.25, 1.39) 
+1.40 
+(1.31, 1.50) 
+1.91 
+(1.74, 2.10) 
+emtricitabine once 
+200 daily 
+1.02 
+(0.98, 1.06) 
+1.05 
+(1.02, 1.08) 
+ 
+1.06 
+(0.97, 1.15) 
+rilpivirine 25 once 
+daily 
+0.97 
+(0.88, 1.07) 
+1.02 
+(0.94, 1.11) 
+1.12 
+(1.03, 1.21) 
+R-Methadone 30 to 130 daily ND 400 once 
+daily 
+14 0.99 
+(0.85, 1.16) 
+1.01 
+(0.85, 1.21) 
+0.94 
+(0.77, 1.14) 
+S-Methadone 0.95 
+(0.79, 1.13) 
+0.95 
+(0.77, 1.17) 
+ 
+0.95 
+(0.74, 1.22) 
+Norelgestromin Norgestimate 
+0.180/0.215/0.25/ 
+ethinyl estradiol 0.025 
+once daily 
+90 once 
+daily 
+ND 15 1.02 
+(0.89, 1.16) 
+1.03 
+(0.90, 1.18) 
+ 
+1.09 
+(0.91, 1.31) 
+ND 400 once 
+daily 
+1.07 
+(0.94, 1.22) 
+1.06 
+(0.92, 1.21) 
+1.07 
+(0.89, 1.28) 
+Norgestrel 90 once 
+daily 
+ND 1.03 
+(0.87, 1.23) 
+0.99 
+(0.82, 1.20) 
+1.00 
+(0.81, 1.23) 
+ND 400 once 
+daily 
+1.18 
+(0.99, 1.41) 
+1.19 
+(0.98, 1.45) 
+1.23 
+(1.00, 1.51) 
+Ethinyl estradiol 90 once 
+daily 
+ND 1.40 
+(1.18, 1.66) 
+1.20 
+(1.04, 1.39) 
+0.98 
+(0.79, 1.22) 
+ND 400 once 
+daily 
+1.15 
+(0.97, 1.36) 
+1.09 
+(0.94, 1.26) 
+0.99 
+(0.80, 1.23) 
+Raltegravir 400 twice daily 90 once 
+daily 
+ND 28 0.82 
+(0.66, 1.02) 
+0.85 
+(0.70, 1.02) 
+1.15 
+(0.90, 1.46) 
+ND 400 single 
+dose 
+19 0.57 
+(0.44, 0.75) 
+0.73 
+(0.59, 0.91) 
+0.95 
+(0.81, 1.12) 
+Simeprevir 150 once daily 30 once 
+daily 
+ND 28 2.61 
+(2.39, 2.86) 
+2.69 
+(2.44, 2.96) 
+ 
+NA 
+Tacrolimus 5 single dose ND 400 single 
+dose 
+16 0.73 
+(0.59, 0.90) 
+1.09 
+(0.84, 1.40) 
+NA 
+NA = not available/not applicable, ND = not dosed. 
+a. All interaction studies conducted in healthy volunteers. 
+b. Data generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir 
++ tenofovir  DF/emtricitabine or darunavir/ritonavir +tenofovir DF/ emtricitabine and HARVONI provided similar 
+results. 
+c. Comparison based on exposures when administered as atazanavir/ritonavir + tenofovir DF/emtricitabine. 
+d. Comparison based on exposures when administered as darunavir/ritonavir + tenofovir DF/emtricitabine. 
+e. Administered as ATRIPLA. 
+f. Administered as EVIPLERA. 
+ 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 36 
+ 
+5.3 PRECLINICAL SAFETY DATA 
+Genotoxicity 
+Ledipasvir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial 
+mutagenicity, chromosome aberration using human peripheral blood lymphocytes and in vivo 
+rat micronucleus assays. 
+Sofosbuvir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial 
+mutagenicity, chromosome aberration using human peripheral blood lymphocytes and in vivo 
+mouse micronucleus assays. 
+Carcinogenicity 
+Carcinogenicity studies (6-month rasH2 transgenic mouse and 2-year rat) in male and female 
+mice and rats do not indicate any carcinogenicity potential of ledipasvir administered at doses 
+up to 300 mg/kg/day in mice, 100 mg/kg/day in male rats and 30 mg/kg/day in female rats. 
+Exposure to ledipasvir in these studies were up to 26 fold in mice and 8 fold in male rates and 
+3 fold in female  rats higher than the clinical exposure at 90 mg ledipasvir.  
+Carcinogenicity studies in mice and rats do not indicate any carcinogenicity potential of 
+sofosbuvir administered at doses up to 200 mg/kg/day in male mice and 600 mg/kg/day in 
+female mice, and 750 mg/kg/day in rats. Exposure to GS-331007 in these studies was up 4 
+fold in male mice,  17 fold in female mice and 9 fold higher in rats than the clinical exposure 
+at 400 mg sofosbuvir. 
+6 PHARMACEUTICAL PARTICULARS 
+6.1 LIST OF EXCIPIENTS  
+HARVONI tablets contain the following ingredients as excipients: 
+Tablet core: silicon dioxide, copovidone, croscarmellose sodium, lactose, magnesium 
+stearate and microcrystalline cellulose. 
+Film-coating:  polyvinyl alcohol,  macrogol 3350,  titanium dioxide, purified talc, and sunset 
+yellow FCF aluminium lake. 
+6.2 INCOMPATIBILITIES  
+Incompatibilities were either not assessed or not identified as part of the registration of this 
+medicine. 
+6.3 SHELF LIFE  
+In Australia, information on the shelf life can be found on the public summary of the 
+Australian Register of Therapeutic Goods (ARTG). The expiry date can be found on the 
+packaging. 
+6.4 SPECIAL PRECAUTIONS FOR STORAGE  
+HARVONI should be stored below 30 °C. 
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 37 
+ 
+6.5 NATURE AND CONTENTS OF CONTAINER  
+HARVONI is supplied in high density polyethylene (HDPE) bottles containing 28 tablets and 
+is closed with a child resistant closure. 
+6.6 SPECIAL PRECAUTIONS FOR DISPOSAL  
+In Australia, any unused medicine or waste material should be disposed of by taking to your 
+local pharmacy. 
+6.7 PHYSICOCHEMICAL PROPERTIES 
+Chemical structure 
+Ledipasvir is an HCV NS5A inhibitor and sofosbuvir is a nucleotide inhibitor of HCV NS5B 
+RNA-dependent RNA polymerase. 
+The chemical name of ledipasvir is Methyl [(2S)-1-{(6S)-6-[5-(9,9-difluoro-7- {2-
+[(1R,3S,4S)-2-{(2S)-2-[(methoxycarbonyl)amino]-3-methylbutanoyl}-2-
+azabicyclo[2.2.1]hept-3-yl]-1H-benzimidazol-6-yl}-9H-fluoren-2-yl)-1H-imidazol-2-yl]-5-
+azaspiro[2.4]hept-5-yl}-3-methyl-1-oxobutan-2-yl]carbamate.  
+It has a molecular formula of C49H54F2N8O6 and a molecular weight of 889.00. It has the 
+following structural formula: 
+ 
+Ledipasvir is practically insoluble (<0.1 mg/mL) across the pH range of 3.0-7.5 and is 
+slightly soluble below pH 2.3 (1.1 mg/mL).  The partition coefficient (log P) for ledipasvir is 
+3.8 and the pKa1 is 4.0 and pKa2 is 5.0. 
+The chemical name of sofosbuvir is (S)-Isopropyl 2-((S)-(((2R,3R,4R,5R)-5-(2,4-dioxo-3,4-
+dihydropyrimidin-1(2H)-yl)-4-fluoro-3-hydroxy-4-methyltetrahydrofuran-2-yl)methoxy)-
+(phenoxy)phosphorylamino)propanoate.  It has a molecular formula of C22H29FN3O9P and a 
+molecular weight of 529.45.  It has the following structural formula: 
+ 
+
+ 
+HARVONI Product Information v12.0 – (20 March 2024) 38 
+Sofosbuvir is a white to off-white powder with a solubility of ≥ 2 mg/mL across the pH range 
+of 2-7.7 at 37 °C. The partition coefficient (log P) for sofosbuvir is 1.62 and the pKa is 9.3. 
+CAS number 
+Sofosbuvir CAS registry number: 1190307-88-0 
+Ledipasvir CAS registry number: 1256388-51-8 
+7 MEDICINE SCHEDULE (POISONS STANDARD) 
+S4 
+8 SPONSOR 
+Gilead Sciences Pty Ltd 
+Level 28, 385 Bourke Street, 
+Melbourne, Victoria, 3000 
+ 
+9 DATE OF FIRST APPROVAL   
+13 May 2015 
+10 DATE OF REVISION  
+20 March 2024 
+SUMMARY TABLE OF CHANGES 
+Section 
+Changed Summary of new information 
+2 Inclusion of ‘Contains sugars as lactose’ 
+8 Update of AU Sponsor Address 
+ 
+ATRIPLA, EVIPLERA, HARVONI, SOVALDI, 7985 and GSI are trademarks of Gilead 
+Sciences, Inc. or one of its related companies.  Other brands listed are trademarks of their 
+respective owners and are not trademarks of Gilead Sciences, Inc. 
+ 

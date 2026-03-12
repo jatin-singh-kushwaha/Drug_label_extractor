@@ -1,0 +1,3020 @@
+SOURCE: TGA (Australia)
+URL: https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2016-PI-01071-1
+==================================================
+
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              1 
+ 
+AUSTRALIAN PI – GENVOYA® 
+(ELVITEGRAVIR/COBICISTAT/EMTRICITABINE/TENOFOVIR 
+ALAFENAMIDE) TABLETS 
+1 NAME OF THE MEDICINE 
+GENVOYA (elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide).   
+2 QUALITATIVE AND QUANTITATIVE COMPOSITION 
+GENVOYA is available as tablets.  Each tablet contains 150 mg of elvitegravir, 150 mg of 
+cobicistat, 200 mg of emtricitabine, and tenofovir alafenamide fumarate equivalent to 10 mg 
+of tenofovir alafenamide.  The tablets are film-coated, capsule shaped and green in colour.  
+Each tablet is debossed with ‘GSI’ on one side and the number “510” on the other side.  
+Contains lactose.  
+For the full list of excipients, see Section 6.1 List of excipients. 
+3 PHARMACEUTICAL FORM 
+Each GENVOYA tablet is capsule shaped, film-coated and green in colour.  Each tablet is 
+debossed with ‘GSI’ on one side and the number ’510’ on the other side.  The tablets are 
+supplied in bottles with child resistant closures. 
+4 CLINICAL PARTICULARS 
+4.1 THERAPEUTIC INDICATIONS  
+GENVOYA is indicated as a single tablet regimen for the treatment of HIV-1 infection in 
+adults and paediatric patients weighing at least 25 kg who are either treatment–naïve; or 
+virologically suppressed (HIV-1 RNA <50 copies/mL) on a stable antiretroviral regimen at 
+start of therapy in order to replace their current antiretroviral treatment regimen (see 
+5.1Pharmacodynamic properties, Clinical Trials).  Patients must not have a history of 
+treatment failure or known mutations associated with resistance to the antiretroviral 
+components of GENVOYA.  
+GENVOYA is a fixed dose combination of one integrase inhibitor, one pharmacokinetic 
+enhancer and two nucleos(t)ide HIV‐1 reverse transcriptase inhibitors. 
+4.2 DOSE AND METHOD OF ADMINISTRATION  
+Adults 
+The recommended dose of GENVOYA is one tablet once daily taken with food.     
+ 
+ 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              2 
+ 
+Children and Adolescents up to 18 Years of Age 
+In paediatric patients weighing ≥ 25 kg, the recommended dose of GENVOYA is one tablet 
+once daily taken with food.   
+Clinical trials data in children 6 to < 12 years of age (weighing at least 25 kg) is limited to 
+virologically suppressed children who were switched to GENVOYA; no clinical trials data is 
+available in treatment-naïve children in this age group. 
+No data are available on which to make a dose recommendation for paediatric patients 
+weighing less than 25 kg.  
+Elderly 
+No dose adjustment is required for elderly patients. Clinical trials of GENVOYA included 97 
+patients (80 receiving GENVOYA) aged 65 years and over. No differences in safety or 
+efficacy have been observed between elderly patients and those between 8 and less than 65 
+years of age. 
+Renal Impairment 
+No dose adjustment of GENVOYA is required in adult patients with estimated creatinine 
+clearance greater than or equal to 30 mL/min.  The safety of GENVOYA has not been 
+established in patients with estimated creatinine clearance that declines below 30 mL/min.   
+GENVOYA should not be initiated in patients with estimated creatinine clearance below 30 
+mL/min as there are insufficient data available regarding the use of GENVOYA in this 
+population. 
+No data are available to make dose recommendations in paediatric patients with renal 
+impairment. 
+Hepatic Impairment 
+No dose adjustment of GENVOYA is required in patients with mild (Child-Pugh Class A), or 
+moderate (Child-Pugh Class B) hepatic impairment. GENVOYA has not been studied in 
+patients with severe hepatic impairment (Child-Pugh Class C); therefore, GENVOYA is not 
+recommended for use in patients with severe hepatic impairment (see 5.2  Pharmacokinetic 
+properties: Special Populations). 
+Not Recommended During Pregnancy 
+GENVOYA is not recommended for use during pregnancy because of substantially lower 
+exposures of cobicistat and elvitegravir during the second and third trimesters (see Section 
+4.6 Use in Pregnancy). 
+GENVOYA should not be initiated in pregnant individuals. An alternative regimen is 
+recommended for individuals who become pregnant during therapy with GENVOYA (see 
+Section 4.6 Use in Pregnancy). 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              3 
+ 
+4.3 CONTRAINDICATIONS 
+GENVOYA is contraindicated in patients with known hypersensitivity to any of the active 
+substances or any other component of the tablets. 
+Coadministration is contraindicated with drugs that are highly dependent on CYP3A for 
+clearance and for which elevated plasma concentrations are associated with  serious and/or 
+life-threatening events, and with drugs that are potent inducers of CYP3A due to the potential 
+for loss of virologic response and possible resistance to GENVOYA (See Table 1, Drugs 
+Contraindicated and Table 2, Drug Interactions). 
+Table 1 Drugs that are Contraindicated with GENVOYA 
+Drug Class 
+Drugs within Class that are 
+Contraindicated with 
+GENVOYA 
+Clinical Comment 
+Alpha 1-
+adrenoreceptor 
+antagonists 
+alfuzosin Potential for increased alfuzosin concentrations, 
+which can result in hypotension 
+Anticonvulsants carbamazepine*, 
+phenobarbital, phenytoin 
+Carbamazepine, phenobarbital, and phenytoin are 
+potent inducers of CYP450 metabolism and may 
+cause significant decrease in the plasma 
+concentration of elvitegravir, cobicistat, and TAF. 
+This may result in loss of therapeutic effect to 
+GENVOYA. 
+Antimycobacterials rifampicin 
+Rifampicin is a potent inducer of CYP450 
+metabolism and may cause significant decrease in 
+the plasma concentration of elvitegravir, cobicistat, 
+and TAF. This may result in loss of therapeutic 
+effect to GENVOYA. 
+Ergot derivatives 
+dihydroergotamine, 
+ergonovine, ergotamine, 
+methylergonovine 
+Potential for serious and/or life-threatening events 
+such as acute ergot toxicity characterised by 
+peripheral vasospasm and ischemia of the 
+extremities and other tissues. 
+GI motility agents cisapride Potential for serious and/or life-threatening events 
+such as cardiac arrhythmias. 
+Herbal products St. John’s wort (Hypericum 
+perforatum) 
+Coadministration of products containing St. John’s 
+wort and GENVOYA may result in reduced plasma 
+concentrations of elvitegravir, cobicistat, and TAF. 
+This may result in loss of therapeutic effect and 
+development of resistance. 
+Lipid-modifying 
+Agents: 
+ 
+ 
+lovastatin, simvastatin 
+ 
+lomitapide 
+ 
+Potential for serious reactions such as myopathy, 
+including rhabdomyolysis. 
+ 
+Coadministration with lomitapide is contraindicated 
+due to potential for markedly increased 
+transaminases.   
+Neuroleptics pimozide Potential for serious and/or life-threatening events 
+such as cardiac arrhythmias. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              4 
+ 
+Drug Class 
+Drugs within Class that are 
+Contraindicated with 
+GENVOYA 
+Clinical Comment 
+PDE-5 inhibitors 
+sildenafila for the treatment of 
+pulmonary arterial 
+hypertension 
+There is increased potential for sildenafil-associated 
+adverse events (which include visual disturbances, 
+hypotension, priapism, and syncope). 
+Sedative/hypnotics orally administered midazolam, 
+triazolamb 
+Triazolam and orally administered midazolam are 
+extensively metabolized by CYP3A4. 
+Coadministration of triazolam or orally 
+administered midazolam with GENVOYA may 
+cause large increases in the concentration of these 
+benzodiazepines. The potential exists for serious 
+and/or life threatening events such as prolonged or 
+increased sedation or respiratory depression. 
+*. Indicates that a drug-drug interaction trial was conducted. 
+a. See Drug Interactions, Table 2 for sildenafil when used for erectile dysfunction. 
+b. See Drug Interactions, Table 2 for parenterally administered midazolam 
+ 
+4.4 SPECIAL WARNINGS AND PRECAUTIONS FOR USE 
+General 
+Patients receiving GENVOYA or any other antiretroviral therapy may continue to develop 
+opportunistic infections and other complications of HIV infection, and therefore should 
+remain under close clinical observation by physicians experienced in the treatment of patients 
+with HIV associated diseases. 
+While effective viral suppression with antiretroviral therapy has been proven to substantially 
+reduce the risk of HIV transmission, a residual risk cannot be excluded.  Precautions to 
+prevent transmission should be taken in accordance with national guidelines.  Patients should 
+also be informed that GENVOYA is not a cure for HIV infection. 
+HIV and Hepatitis B Virus (HBV) Co-infection   
+Discontinuation of GENVOYA therapy in patients co-infected with HIV and HBV may be 
+associated with severe acute exacerbations of hepatitis due to the emtricitabine and tenofovir 
+alafenamide components of GENVOYA. Patients co-infected with HIV and HBV should be 
+closely monitored with both clinical and laboratory follow-up for at least several months after 
+stopping GENVOYA treatment.  If appropriate, resumption of anti-hepatitis B therapy may 
+be warranted.  In patients with advanced liver disease or cirrhosis, discontinuation of anti-
+hepatitis B therapy is not recommended since post-treatment exacerbation of hepatitis may 
+lead to hepatic decompensation.  
+Use with Other Anti-Viral Products 
+GENVOYA should not be coadministered with other antiretroviral products for treatment of 
+HIV.   
+There are limited data on interactions of GENVOYA with HIV protease inhibitors and or 
+NNRTI/s, but as a fixed dose combination for HIV, it is not expected that co-administration 
+with other antiretrovirals would be required. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              5 
+ 
+For treatment of HIV and hepatitis C co-infection, GENVOYA should not be used in 
+conjunction with protease inhibitors that are inhibitors of cathepsin A (such as the anti-
+hepatitis C agent boceprevir) due to potential drug-drug interactions including altered and/or 
+suboptimal pharmacokinetics of tenofovir alafenamide.   
+GENVOYA should not be coadministered with products containing any of the same active 
+components, elvitegravir, cobicistat, emtricitabine, or tenofovir alafenamide; or with products 
+containing lamivudine or tenofovir disoproxil fumarate.  GENVOYA should not be 
+administered concurrently with ritonavir or ritonavir-containing products or regimens due to 
+similar effects of cobicistat and ritonavir on CYP3A.  GENVOYA should not be 
+administered with adefovir dipivoxil. 
+Immune Reconstitution Syndrome 
+Immune reconstitution syndrome has been reported in patients treated with combination 
+antiretroviral therapy, including emtricitabine, a component of GENVOYA.  In HIV-infected 
+patients with severe immune deficiency at the time of initiation of antiretroviral therapy, an 
+inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and 
+cause serious clinical conditions, or aggravation of symptoms.  Typically, such reactions have 
+been observed within the first few weeks or months of initiation of antiretroviral therapy.  
+Relevant examples include cytomegalovirus retinitis, generalised and/or focal mycobacterial 
+infections and Pneumocystis jirovecii pneumonia.  Any inflammatory symptoms should be 
+evaluated and treatment instituted when necessary. 
+Autoimmune disorders (such as autoimmune hepatitis) have also been reported to occur in 
+the setting of immune reconstitution; however, the reported time to onset is more variable, 
+and these events can occur many months after initiation of treatment. 
+Use in Hepatic Impairment  
+No dose adjustment of GENVOYA is required in patients with mild (Child-Pugh Class A) or 
+moderate (Child-Pugh Class B) hepatic impairment. No pharmacokinetic or safety data are available 
+regarding the use of GENVOYA in patients with severe hepatic impairment (Child-Pugh Class C). 
+Therefore, GENVOYA is not recommended for use in patients with severe hepatic impairment (see 
+5.1 Pharmacodynamic properties, Clinical Trials and 5.2 Pharmacokinetic properties). 
+Use in Renal Impairment  
+Post marketing cases of renal impairment, including acute renal failure, proximal renal 
+tubulopathy (PRT), and Fanconi syndrome have been reported with tenofovir alafenamide 
+containing products; while most of these cases were characterised by potential confounders 
+that may have contributed to the reported renal events, it is also possible these factors may 
+have predisposed patients to tenofovir-related adverse events.  
+Patients taking tenofovir prodrugs who have impaired renal function and those taking 
+nephrotoxic agents, including non-steroidal anti-inflammatory drugs, are at increased risk of 
+developing renal-related adverse reactions.  
+Prior to or when initiating GENVOYA, and during treatment with GENVOYA on a clinically 
+appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              6 
+ 
+and urine protein in all patients. In patients with chronic kidney disease, also assess serum 
+phosphorus. Discontinue GENVOYA in patients who develop clinically significant decreases 
+in renal function or evidence of Fanconi syndrome. 
+The safety, virologic, and immunologic responses of GENVOYA in HIV-1 infected adult 
+patients with mild to moderate renal impairment (eGFR by Cockcroft-Gault method 30 - 69 
+mL/min) were evaluated in 242 virologically suppressed patients and 6 treatment naïve 
+patients in an open-label trial, Study 112 (see 5.1 Pharmacodynamic properties, Clinical Trials).  
+The safety profile of GENVOYA in patients with mild to moderate renal impairment was 
+similar to safety data from patients with normal renal function (see 4.8 Adverse effects). 
+No dose adjustment of GENVOYA is required in adult patients with estimated creatinine 
+clearance greater than or equal to 30 mL/min.  The safety of GENVOYA has not been 
+established in adult patients with estimated creatinine clearance that declines below 30 
+mL/min or in paediatric patients with renal impairment (see 5.1 Pharmacodynamic properties, 
+Clinical Trials and Pharmacokinetics).  
+GENVOYA should not be initiated in patients with estimated creatinine clearance below 30 
+mL/min as there are insufficient data available regarding the use of GENVOYA in this 
+population (see 4.2 Dose and method of administration). 
+No data are available to make dose recommendations in paediatric patients with renal 
+impairment. 
+Use in the Elderly 
+Clinical trials of GENVOYA included 97 patients (80 receiving GENVOYA) aged 65 years 
+and over. No differences in safety or efficacy have been observed between elderly patients 
+and those between 8 and less than 65 years of age. 
+Paediatric Use 
+The safety, virologic, and immunologic responses of GENVOYA were evaluated in 50 
+treatment-naive, HIV-1 infected adolescent patients aged 12 to less than 18 years through 
+Week 48 and in 23 virologically suppressed paediatric patients between the ages of 6 and  
+less than 12 years through Week 24 in an open-label trial, Study 106 (see 5.1 
+Pharmacodynamic properties, Clinical Trials).  Pharmacokinetic parameters evaluated in 24 
+adolescent patients receiving GENVOYA were similar to adults receiving GENVOYA. 
+Pharmacokinetic parameters in 23 paediatric patients between the ages of 6 and less than 12 
+years receiving GENVOYA were generally higher than in adults; however, the increase was 
+not considered clinically significant (see 5.2 Pharmacokinetic properties). The safety profile 
+in adolescent and paediatric patients who received treatment with GENVOYA was similar to 
+that in adults (see 4.8 Adverse Effects). See 4.2 Dose and method of administration for 
+dosing recommendations for patients weighing at least 25 kg. No data are available on which 
+to make a dose recommendation for paediatric patients weighing less than 25 kg.  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              7 
+ 
+Lactic Acidosis/Severe Hepatomegaly with Steatosis 
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been 
+reported with the use of nucleoside analogs, including emtricitabine, a component of 
+GENVOYA, and tenofovir DF, another prodrug of tenofovir, alone or in combination with 
+other antiretrovirals. Treatment with GENVOYA should be suspended in any patient who 
+develops clinical or laboratory findings suggestive of lactic acidosis or pronounced 
+hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked 
+transaminase elevations). 
+ 
+Effects on Laboratory Tests 
+No data available  
+ 
+4.5 INTERACTIONS WITH OTHER MEDICINES AND OTHER FORMS OF INTERACTIONS 
+General 
+As GENVOYA contains elvitegravir, cobicistat and emtricitabine, any interactions that have 
+been identified with these agents individually may occur with GENVOYA. 
+CYP3A Associated Drug-Drug Interactions  
+Cobicistat, a component of GENVOYA, is a strong inhibitor of cytochrome P450 (CYP3A) 
+and a CYP3A substrate.  Thus, coadministration of GENVOYA with drugs that are primarily 
+metabolised by CYP3A may result in increased plasma concentrations of such drugs (see 4.3 
+Contraindications). Coadministration of GENVOYA with drugs that inhibit CYP3A may 
+decrease the clearance of cobicistat, resulting in increased plasma concentration of cobicistat.  
+Coadministration of GENVOYA with drugs that have active metabolite(s) formed by CYP3A 
+may result in reduced plasma concentrations of these active metabolite(s). Cobicistat is also 
+an inhibitor of CYP2D6.  The transporters that cobicistat inhibits include p-glycoprotein (P-
+gp), BCRP, OATP1B1 and OATP1B3. Thus, coadministration of GENVOYA with drugs 
+that are primarily metabolised by CYP3A or CYP2D6, or are substrates of P-gp, BCRP, 
+OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs.  
+Elvitegravir, a component of GENVOYA, is metabolised by CYP3A. Drugs that induce 
+CYP3A activity are expected to increase the clearance of elvitegravir and cobicistat, resulting 
+in decreased plasma concentration of elvitegravir and cobicistat, which may lead to loss of 
+therapeutic effect of GENVOYA and development of resistance (see 4.3 Contraindications). 
+Established and Other Potentially Significant Interactions 
+GENVOYA is indicated for use as a complete regimen for the treatment of HIV-1 infection 
+and should not be administered with other antiretroviral products.  Therefore, information 
+regarding drug-drug interactions with other antiretroviral products (including PIs and 
+NNRTIs) is not provided.  Drug interaction information for GENVOYA with potential 
+concomitant drugs is summarised in Table 2.  The drug interactions described are based on 
+studies conducted with GENVOYA, or the components of GENVOYA, (elvitegravir, 
+cobicistat, emtricitabine and tenofovir alafenamide) as individual agents and/or in 
+combination, or are potential drug interactions that may occur with GENVOYA.    
+The table is not all-inclusive (see 4.3 Contraindications). 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              8 
+ 
+Table 2 Established and Other Potentially Significanta Drug Interactions 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+   
+Alpha 1-
+Adrenoreceptor 
+Antagonist:  
+alfuzosin 
+ alfuzosin Alfuzosin is primarily metabolised by CYP3A.  
+Coadministration with GENVOYA may result in 
+increased plasma concentrations of alfuzosin, which 
+is associated with the potential for serious and/or 
+life-threatening reactions.  
+Coadministration of GENVOYA and alfuzosin is 
+contraindicated. 
+Antiarrhythmics: 
+Amiodarone 
+bepridil  
+digoxin 
+disopyramide 
+flecainide 
+systemic lidocaine 
+mexiletine 
+propafenone 
+quinidine 
+ antiarrhythmics 
+ 
+Concentrations of these antiarrhythmic drugs may be 
+increased when coadministered with cobicistat. 
+Caution is warranted and clinical monitoring is 
+recommended upon coadministration of these agents 
+with GENVOYA. 
+Antibacterials: 
+clarithromycin 
+telithromycin 
+ 
+ clarithromycin 
+ telithromycin 
+ cobicistat 
+Concentrations of clarithromycin and/or cobicistat 
+may be altered when clarithromycin is 
+coadministered with GENVOYA.  
+Patients with CLcr greater than or equal to 60 
+mL/min:  
+No dose adjustment of clarithromycin is required.  
+Patients with CLcr between 30 mL/min and 60 
+mL/min:  
+The dose of clarithromycin should be reduced by 
+50%. 
+Concentrations of telithromycin and/or cobicistat 
+may be increased when telithromycis in 
+coadministered with GENVOYA. Clinical 
+monitoring is recommended upon coadministration 
+with GENVOYA. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              9 
+ 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+Anticoagulants: 
+warfarin 
+ 
+ 
+Direct Oral 
+Anticoagulants 
+(DOACs): 
+apixaban 
+rivaroxaban 
+dabigatran 
+edoxaban 
+ 
+ or  warfarin 
+ 
+ 
+ 
+ DOACs 
+ 
+Concentrations of warfarin may be affected upon 
+coadministration with GENVOYA. It is 
+recommended that the international normalised ratio 
+(INR) be monitored upon coadministration with 
+GENVOYA 
+ 
+Coadministration of DOACs with GENVOYA may 
+result in increased plasma concentrations of the 
+DOAC, which may lead to an increased bleeding 
+risk. Coadministration of a DOAC affected by both 
+P-gp and CYP3A4, including apixaban and 
+rivaroxaban, is not recommended with GENVOYA.  
+Clinical monitoring and/or dose adjustment is 
+recommended when a DOAC transported by P-gp, 
+including dabigatran or edoxaban, is coadministered 
+with GENVOYA. Refer to the prescribing 
+information of the coadministered DOAC. 
+Anticonvulsants: 
+carbamazepine 
+ethosuximide  
+oxcarbazepine  
+phenobarbital  
+phenytoin 
+ 
+ 
+ 
+ 
+ 
+ 
+ ethosuximide 
+ elvitegravir 
+ cobicistat 
+ tenofovir alafenamide 
+ 
+Carbamazepine, a potent CYP3A inducer, decreases 
+cobicistat and elvitegravir plasma concentrations, 
+which may result in loss of therapeutic effect and 
+development of resistance.  Coadministration of 
+GENVOYA with carbamazepine, phenobarbital, or 
+phenytoin is contraindicated. 
+Coadministration of oxcarbazepine, a CYP3A 
+inducer, may decrease cobicistat and elvitegravir 
+plasma concentrations, which may result in loss of 
+therapeutic effect and development of resistance.  
+Alternative anticonvulsants should be considered. 
+Concentrations of ethosuximide may be increased 
+when coadministered with cobicistat. Clinical 
+monitoring is recommended upon coadministration 
+with GENVOYA. 
+Antidepressants: 
+Selective Serotonin 
+Reuptake Inhibitors 
+(SSRIs) 
+sertraline 
+TCAs 
+trazodone 
+ SSRIs  
+↔ sertraline 
+ TCAs 
+ trazodone   
+ 
+Concentrations of sertraline are not affected upon 
+coadministration with GENVOYA. No dose 
+adjustment is required upon coadministration. 
+Concentrations of other antidepressant agents may be 
+increased when coadministered with cobicistat. Dose 
+titration may be required for most drugs of the SSRI 
+class. 
+Concentrations of trazodone may increase upon 
+coadministration with cobicistat. Dose reduction 
+should be considered when trazodone is 
+coadministered with GENVOYA. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              10 
+ 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+Antifungals: 
+itraconazole  
+ketoconazole  
+voriconazole 
+  
+ antifungals 
+ cobicistat 
+Concentrations of ketoconazole, itraconazole and/or 
+cobicistat may increase with coadministration of 
+GENVOYA] When administering with GENVOYA, 
+the maximum daily dose of ketoconazole and 
+itraconazole should not exceed 200 mg/day. 
+Concentrations of voriconazole may be increased 
+when coadministered with cobicistat. Clinical 
+monitoring may be needed upon coadministration 
+with GENVOYA. 
+Anti-gout: 
+colchicine 
+ colchicine 
+ 
+Dose reductions of colchicine may be required. 
+GENVOYA should not be coadministered with 
+colchicine in patients with renal or hepatic 
+impairment. 
+Antihistamines: 
+astemizole  
+terfenadine 
+ astemizole 
+ terfenadine 
+Concentrations of astemizole and terfenadine may be 
+increased when coadministered with cobicistat. 
+Clinical monitoring is recommended when these 
+agents are coadministered with GENVOYA. 
+Antimycobacterial:  
+rifabutin 
+rifampicin 
+rifapentine 
+ 
+ elvitegravir 
+ cobicistat 
+ tenofovir alafenamide 
+ 
+Coadministration of rifampicin, rifabutin, and 
+rifapentine, potent CYP3A inducers, may 
+significantly decrease cobicistat and elvitegravir 
+plasma concentrations, which may result in loss of 
+therapeutic effect and development of resistance. 
+Coadministration of GENVOYA with rifampicin is 
+contraindicated. 
+Coadministration of GENVOYA with rifabutin or 
+rifapentine is not recommended. 
+Antiplatelets: 
+clopidogrel 
+ 
+ 
+ clopidogrel active 
+metabolite  
+ 
+ 
+Coadministration of clopidogrel with cobicistat is 
+expected to decrease clopidogrel active metabolite 
+plasma concentrations, which may reduce the 
+antiplatelet activity of clopidogrel. Coadministration 
+of clopidogrel with GENVOYA is not 
+recommended. 
+ 
+ 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              11 
+ 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+Benzodiazepines:  
+diazepam  
+lorazepam 
+midazolam 
+triazolam  
+ 
+ diazepam 
+↔ lorazepam 
+ midazolam 
+ triazolam 
+ 
+Midazolam and triazolam are primarily metabolised 
+by CYP3A.  Coadministration with GENVOYA may 
+result in increased plasma concentrations of these 
+drugs, which are associated with the potential for 
+serious and/or life-threatening reactions. 
+Coadministration of GENVOYA and orally 
+administered midazolam and triazolam are 
+contraindicated. 
+Concentrations of other benzodiazepines, including 
+diazepam and parenterally administered midazolam, 
+may be increased when administered with 
+GENVOYA. Coadministration should be done in a 
+setting that ensures close clinical monitoring and 
+appropriate medical management in case of 
+respiratory depression and/or prolonged sedation. 
+Dose reduction may be necessary. 
+Based on non-CYP-mediated elimination pathways 
+for lorazepam, no effect on plasma concentrations is 
+expected upon coadministration with GENVOYA. 
+Beta-Blockers: 
+metoprolol 
+timolol 
+ beta-blockers 
+ 
+ 
+ 
+ 
+ 
+Concentrations of beta-blockers may be increased 
+when coadministered with cobicistat. Clinical 
+monitoring is recommended and a dose decrease may 
+be necessary when these agents are coadministered 
+with GENVOYA. 
+Calcium Channel 
+Blockers: 
+amlodipine  
+diltiazem 
+felodipine 
+nicardipine  
+nifedipine 
+verapamil 
+ calcium channel 
+blockers 
+Concentrations of calcium channel blockers may be 
+increased when coadministered with cobicistat. 
+Caution is warranted and clinical monitoring is 
+recommended upon coadministration with 
+GENVOYA. 
+Corticosteroids 
+: 
+dexamethasone (oral) 
+ 
+ 
+ 
+ elvitegravir (with oral 
+dexamethasone) 
+ cobicistat (with oral 
+dexamethasone) 
+ 
+Coadministration of dexamethasone, a CYP3A 
+inducer, may decrease cobicistat and elvitegravir 
+plasma concentrations, which may result in loss of 
+therapeutic effect and development of resistance.   
+Alternative systemic corticosteroids should be 
+considered. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              12 
+ 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+betamethasone 
+budesonide 
+fluticasone 
+mometasone 
+triamcinolone 
+ corticosteroids Coadministration with corticosteroids that are 
+sensitive to CYP3A inhibition can increase the risk 
+for Cushing’s syndrome and adrenal suppression, 
+which have been reported during postmarketing use 
+of cobicistat-containing products. Consider the risk 
+of systemic corticosteroid effects if GENVOYA is 
+coadministered with corticosteroids that are sensitive 
+to CYP3A inhibition.  Alternative corticosteroids 
+should be considered, particularly for long-term use. 
+For coadministration of cutaneously-administered 
+corticosteroids sensitive to CYP3A inhibition, refer 
+to the prescribing information of the corticosteroid 
+for conditions or uses that augment its systemic 
+absorption. 
+Endothelin Receptor 
+Antagonists: 
+bosentan 
+ bosentan 
+ elvitegravir 
+ cobicistat 
+ 
+Coadministration with GENVOYA may lead to 
+decreased elvitegravir and/or cobicistat exposures 
+and loss of therapeutic effect and development of 
+resistance. Alternative endothelin receptor 
+antagonists may be considered. 
+Ergot Derivatives:  
+dihydroergotamine 
+ergotamine 
+ergonovine 
+methylergonovine 
+ 
+ 
+ ergot derivatives Ergot derivatives are primarily metabolised by 
+CYP3A.  Coadministration with GENVOYA may 
+result in increased plasma concentrations of these 
+drugs, which is associated with the potential for 
+serious and/or life-threatening reactions. 
+Coadministration of GENVOYA and 
+dihydroergotamine, ergonovine, ergotamine, and 
+methylergonovine are contraindicated. 
+GI Motility Agents:  
+cisapride 
+ cisapride Cisapride is primarily metabolised by CYP3A.  
+Coadministration with GENVOYA may result in 
+increased plasma concentrations of cisapride, which 
+is associated with the potential for serious and/or 
+life-threatening reactions. 
+Coadministration of GENVOYA and cisapride is 
+contraindicated. 
+Hepatitis C Virus 
+AntiviralAgents: 
+ 
+boceprevir 
+ 
+Effect on boceprevir or 
+tenofovir alafenamide 
+concentrations unknown 
+Coadministration with boceprevir has the potential to 
+adversely affect the intracellular activation and 
+clinical antiviral efficacy of tenofovir alafenamide 
+based on in vitro data. Coadministration of 
+GENVOYA and boceprevir is not recommended. 
+Herbal Products:  
+St. John’s wort 
+(Hypericum perforatum) 
+ elvitegravir 
+ cobicistat 
+ tenofovir alafenamide 
+Coadministration of St. John’s wort, a potent CYP3A 
+inducer, may significantly decrease cobicistat and 
+elvitegravir plasma concentrations, which may result 
+in loss of therapeutic effect and development of 
+resistance. 
+Coadministration of GENVOYA with St. John’s 
+wort is contraindicated. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              13 
+ 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+Lipid-modifying 
+Agents: 
+ 
+HMG CoA Reductase 
+Inhibitors:  
+atorvastatin 
+lovastatin 
+rosuvastatin  
+simvastatin 
+ 
+Other Lipid-modifying 
+Agents: 
+lomitapide 
+ HMG-CoA reductase 
+inhibitors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lomitapide 
+HMG CoA reductase inhibitors are primarily 
+metabolised by CYP3A. Coadministration with 
+GENVOYA may result in increased plasma 
+concentrations of lovastatin or simvastatin, which are 
+associated with the potential for serious and/or life-
+threatening reactions.  
+Coadministration of GENVOYA with lovastatin and 
+simvastatin are contraindicated.  
+Concentrations of atorvastatin are increased when 
+coadministered with elvitegravir and cobicistat. Start 
+with the lowest possible dose of atorvastatin with 
+careful monitoring upon coadministration with 
+GENVOYA. 
+Concentrations of rosuvastatin are transiently 
+increased when coadministered with elvitegravir and 
+cobicistat. Dose modifications are not necessary 
+when rosuvastatin is administered in combination 
+with GENVOYA. 
+ 
+Coadministration with lomitapide is contraindicated 
+due to potential for markedly increased 
+transaminases. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              14 
+ 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+Hormonal 
+Contraceptives: 
+drospirenone/ethinyl 
+estradiol 
+norgestimate/ethinyl 
+estradiol 
+ drospirenone  
+ norgestimate 
+ ethinyl estradiol 
+Plasma concentrations of drospirenone may be 
+increased when coadministered with cobicistat-
+containing products. Clinical monitoring is 
+recommended due to the potential for hyperkalemia.  
+ 
+Coadministration of GENVOYA and a 
+norgestimate/ethinyl estradiol-containing hormonal 
+oral contraceptive is expected to decrease plasma 
+concentrations of ethinyl estradiol and increase 
+norgestimate.   
+Use caution when coadministering GENVOYA and a 
+hormonal contraceptive. The hormonal contraceptive 
+should contain at least 30 mcg of ethinyl estradiol. 
+Additional or alternative non-hormonal forms of 
+contraception should be considered when estrogen 
+based contraceptives are coadministered with 
+GENVOYA. 
+ 
+The long-term effects of substantial increases in 
+progesterone exposure are unknown. The effect of 
+coadministration of GENVOYA with oral 
+contraceptives or hormonal contraceptives containing 
+progestogens other than drospirenone, norgestimate, 
+or less than 25 mcg of ethinyl estradiol, is not 
+known. 
+Please see the local prescribing information for 
+drospirenone/ethinyl estradiol for contraception 
+advice. 
+Immunosuppressants: 
+cyclosporine 
+rapamycin  
+sirolimus 
+tacrolimus 
+ immunosuppressants Concentrations of these immunosuppressant agents 
+may be increased when coadministered with 
+cobicistat. Therapeutic monitoring is recommended 
+upon coadministration with GENVOYA. 
+Inhaled Beta Agonist: 
+salmeterol 
+ salmeterol Coadministration with GENVOYA may result in 
+increased plasma concentrations of salmeterol, which 
+is associated with the potential for serious and/or 
+life-threatening reactions.  Coadministration of 
+salmeterol and GENVOYA is not recommended. 
+Narcotic Analgesics: 
+fentanyl 
+ 
+ 
+tramadol 
+ 
+ fentanyl 
+ 
+ 
+ 
+ tramadol 
+Careful monitoring of therapeutic and adverse effects 
+of fentanyl (including potentially fatal respiratory 
+depression) is recommended with coadministration.  
+ 
+A dose decrease may be needed for tramadol with 
+concomitant use. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              15 
+ 
+Concomitant Drug 
+Class: Drug Name 
+Effectb Clinical Comment 
+Medications or Oral 
+Supplements 
+Containing Polyvalent 
+Cations (e.g., Mg, Al, 
+Ca, Fe, Zn): 
+calcium or iron 
+supplements, including 
+multivitamins  
+cation-containing 
+antacids or laxatives  
+sucralfate 
+buffered medicines  
+ 
+ elvitegravir Elvitegravir plasma concentrations are expected to be 
+lower with medications or oral supplements 
+containing polyvalent cations, including antacids, 
+due to local complexation in the GI tract and not to 
+changes in gastric pH. It is recommended to separate 
+GENVOYA and administration of medications, 
+antacids, or oral supplements containing polyvalent 
+cations by at least 2 hours.  
+For information on other acid reducing agents (e.g. 
+H2-receptor antagonists and proton pump inhibitors), 
+see Drugs Without Clinically Significant 
+Interactions. 
+Neuroleptics:  
+perphenazine  
+pimozide  
+risperidone 
+thioridazine 
+ neuroleptics Pimozide is primarily metabolised by CYP3A.  
+Coadministration with GENVOYA may result in 
+increased plasma concentrations of pimozide, which 
+is associated with the potential for serious and/or 
+life-threatening reactions. 
+Coadministration of GENVOYA with pimozide is 
+contraindicated. For other neuroleptics, consider 
+reducing the dose of the neuroleptic upon 
+coadministration with GENVOYA. 
+Phosphodiesterase-5 
+(PDE5) Inhibitors:  
+sildenafil  
+tadalafil  
+vardenafil 
+ PDE5 inhibitors PDE5 inhibitors are primarily metabolised by 
+CYP3A.  Coadministration with GENVOYA may 
+result in increased plasma concentrations of 
+sildenafil and tadalafil, which may result in PDE5 
+inhibitor-associated adverse reactions. 
+Coadministration of GENVOYA with sildenafil for 
+the treatment of pulmonary arterial hypertension is 
+contraindicated.  
+Caution should be exercised, including consideration 
+of dose reduction, when coadministering 
+GENVOYA with tadalafil for the treatment of 
+pulmonary arterial hypertension.  
+For the treatment of erectile dysfunction, it is 
+recommended that a single dose of sildenafil no more 
+than 25 mg in 48 hours, vardenafil no more than 2.5 
+mg in 72 hours, or tadalafil no more than 10 mg in 
+72 hours be coadministered with GENVOYA. 
+Sedative/hypnotics:  
+buspirone  
+orally-administered 
+zolpidem 
+ sedatives/hypnotics 
+ 
+With sedative/hypnotics, dose reduction may be 
+necessary upon coadministration with GENVOYA 
+and clinical monitoring is recommended. 
+a. This table is not all inclusive. 
+b.  = increase,  = decrease, ↔ = no effect 
+ 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              16 
+ 
+Drugs Without Clinically Significant Interactions with GENVOYA 
+Based on drug interaction studies conducted with GENVOYA or the components of 
+GENVOYA, no clinically significant drug interactions have been observed with the 
+following drugs: 
+• famciclovir 
+• famotidine 
+• ledipasvir/sofosbuvir 
+• omeprazole 
+• sertraline 
+• sofosbuvir 
+• sofosbuvir/velpatasvir 
+• sofosbuvir/velpatasvir/voxilaprevir.  
+No clinically significant drug interactions are expected when GENVOYA is coadministered 
+with the following drugs: 
+• entecavir 
+• ribavirin. 
+Methadone exposures are unaffected upon coadministration with elvitegravir and cobicistat. 
+No dose adjustment of methadone is required upon coadministration with GENVOYA.   
+Concentrations of buprenorphine and norbuprenorphine are modestly increased and 
+concentrations of naloxone are modestly decreased when coadministered with elvitegravir 
+and cobicistat. There was no effect on opioid pharmacodynamics and the concentration 
+changes are not considered clinically relevant. No dose adjustment of 
+buprenorphine/naloxone is required upon coadministration with GENVOYA. 
+4.6 FERTILITY, PREGNANCY AND LACTATION  
+Effects on Fertility 
+No reproductive toxicity studies have been conducted with elvitegravir, cobicistat, 
+emtricitabine and tenofovir alafenamide in combination.   
+Elvitegravir: Elvitegravir did not affect fertility in male and female rats at daily exposures 
+(AUC)  greater than 10-fold higher , than in human exposures at the recommended  150 mg 
+daily dose. 
+Fertility was normal in the offspring of rats exposed daily from before birth (in utero) through 
+sexual maturity at daily exposures (AUC) of approximately 18-fold higher than human 
+exposures at the recommended 150 mg daily dose. 
+Cobicistat:  Cobicistat did not affect fertility in male or female rats at daily exposures (AUC) 
+greater than 4-fold higher than human exposures with the 150 mg daily dose. 
+Fertility was normal in the offspring of rats exposed daily from before birth (in utero) through 
+sexual maturity at daily exposures (AUC) of approximately 1.2-fold higher than human 
+exposures at the recommended 150 mg daily dose. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              17 
+ 
+Emtricitabine: Emtricitabine did not affect fertility in male rats or in female and male mice at 
+respective approximate exposures (AUC) of 130 and 50 to 80 times the exposure in humans.  
+The fertility of offspring was unaffected by treatment of mice from early gestation to the end 
+of lactation (50 times the human exposure). 
+Tenofovir Alafenamide: There were no effects on fertility, mating performance or early 
+embryonic development when tenofovir alafenamide was administered to male rats at a dose 
+up to 160 mg/kg/day, equivalent to 155 times the human dose based on body surface area 
+comparisons, for 28 days prior to mating and to female rats for 14 days prior to mating 
+through day seven of gestation. 
+Use in Pregnancy 
+Pregnancy Category B3. 
+There are no adequate and well controlled clinical studies of GENVOYA or its components 
+in pregnant women.  Animal reproductive studies have only been conducted with the 
+individual pharmaceutical components and not the fixed dose combination. Animal 
+reproductive studies are not always predictive of human response. Lower exposures of 
+elvitegravir and cobicistat have been reported during pregnancy compared to postpartum. 
+Treatment during pregnancy may be associated with an increased risk of treatment failure and 
+an increased risk of HIV transmission to the child. Therefore, GENVOYA is not 
+recommended during pregnancy. An alternative regimen is recommended for individuals who 
+become pregnant during therapy with GENVOYA. Viral load  should be closely monitored 
+during pregnancy. 
+Elvitegravir: Studies in animals have shown no evidence of teratogenicity or an effect on 
+reproductive function. In offspring from rat and rabbit dams treated with elvitegravir during 
+pregnancy, there were no toxicologically significant effects on developmental endpoints. The 
+exposures at the embryo-foetal No Observed Adverse Effects Levels (NOAELs) in rats and 
+rabbits were respectively 23 and 0.2 times higher than the exposure in humans at the 
+recommended dose of 150 mg/day. 
+Cobicistat: Studies in animals have shown no evidence of teratogenicity or an effect on 
+reproductive function. In offspring from rat and rabbit dams treated with cobicistat during 
+pregnancy, there were no toxicologically significant effects on developmental endpoints. The 
+exposures at the embryo-foetal No Observed Adverse Effects Levels (NOAELs) in rats and 
+rabbits were respectively 1.8 and 4.3 times higher than the exposure in humans at the 
+recommended daily dose of 150 mg. 
+Emtricitabine: No evidence of embryofoetal toxicity or teratogenicity was observed in mice 
+or rabbits at respective emtricitabine exposures (AUC) of 50- and 130-fold the clinical 
+exposure.  Impaired weight gain observed in pregnant rabbits at doses resulting in 
+emtricitabine exposures (AUC) at least 33 times the clinical exposure was not associated with 
+any adverse foetal effects. 
+Tenofovir Alafenamide: Embryo‐foetal development studies have been performed in rats and 
+rabbits which revealed no evidence of embryolethality, foetotoxicity or teratogenicity due to 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              18 
+ 
+tenofovir alafenamide. The embryo-foetal NOAELs in rats and rabbits occurred at TAF 
+exposures (AUC) similar to and 53 times higher than, respectively, the exposure in humans at 
+the recommended daily dose 
+Women of Childbearing Potential 
+Since there are no well controlled clinical studies with GENVOYA in pregnant women, 
+adequate contraception is recommended for women of childbearing potential when taking 
+GENVOYA. 
+Use in Lactation 
+In animal studies it has been shown that elvitegravir, cobicistat and tenofovir are secreted into 
+milk. It is not known whether elvitegravir, cobicistat, or tenofovir alafenamide is secreted in 
+human milk. In humans, samples of breast milk obtained from five HIV-1 infected mothers 
+given TRUVADA (emtricitabine/tenofovir disoproxil fumarate) show that emtricitabine is 
+secreted in human milk at estimated neonatal concentrations 3 to 12 times higher than the 
+emtricitabine IC50 but 3 to 12 times lower than the Cmin achieved from oral administration of 
+emtricitabine. Breastfeeding infants whose mothers are being treated with emtricitabine may 
+be at risk for developing viral resistance to emtricitabine. Other emtricitabine-associated risks 
+in infants breastfed by mothers being treated with emtricitabine are unknown.  Because of the 
+potential for both HIV transmission and for serious adverse events in nursing infants, mothers 
+should be instructed not to breast feed if they are receiving GENVOYA.   
+ 
+4.7 EFFECTS ON ABILITY TO DRIVE AND USE MACHINES  
+No studies on the effects of GENVOYA on the ability to drive and use machines have been 
+performed. 
+4.8 ADVERSE EFFECTS (UNDESIRABLE EFFECTS) 
+Reporting Suspected Adverse Effects  
+Reporting suspected adverse reactions after registration of the medicinal product is important. 
+It allows continued monitoring of the benefit-risk balance of the medicinal product. 
+Healthcare professionals are asked to report any suspected adverse reactions at 
+www.tga.gov.au/reporting-problems. 
+As GENVOYA contains elvitegravir, cobicistat, and emtricitabine, adverse reactions 
+associated with these individual antiretroviral agents may be expected to occur with the fixed 
+combination tablet.   
+For additional safety information about elvitegravir, cobicistat and emtricitabine, in 
+combination with other antiretroviral agents, consult the Product Information for these 
+products.  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              19 
+ 
+CLINICAL TRIALS 
+Experience from Clinical Studies in Treatment-Naïve Patients 
+The safety assessment of GENVOYA is based on pooled data from two 144-week controlled 
+clinical studies (Study 104 and Study 111) in which 1733 treatment-naïve patients received 
+GENVOYA (N=866) or STRIBILD (N=867) once daily.   
+The most common adverse reaction (all Grades)  reported in at least 10% of patients in the 
+GENVOYA group was nausea.  The proportion of patients who discontinued treatment with 
+GENVOYA or STRIBILD due to adverse events, regardless of severity, was 1.3% and 3.3%, 
+respectively. Table 3 displays the frequency of adverse reactions (all Grades) greater than or 
+equal to 5% in the GENVOYA group. 
+Table 3 Treatment-Emergent Adverse Drug Reactionsa (All Grades) Reported in 
+≥ 5% of HIV-1 Infected Treatment Naïve Adults Receiving GENVOYA in 
+in Studies 104 and 111 (Week 144 analysis) 
+ GENVOYA 
+N=866 
+STRIBILD 
+N=867 
+GASTROINTESTINAL DISORDERS   
+Diarrhoea 7% 9% 
+Nausea 11% 13% 
+GENERAL DISORDERS AND 
+ADMINISTRATION SITE CONDITIONS   
+Fatigue 5% 4% 
+NERVOUS SYSTEM DISORDERS   
+Headache 6% 5% 
+a.   Frequencies of adverse reactions are based on all adverse events attributed to study drugs by the investigator. 
+The majority of events presented in Table 3 occurred at severity Grade 1. 
+In addition to the adverse reactions presented in Table 3, abdominal pain, dyspepsia, 
+flatulence, rash, and vomiting occurred at a common frequency ( ≥1% and < 10%; frequency 
+based on all adverse events, regardless of relationship to study drug) in the GENVOYA 
+group.  
+Laboratory Abnormalities 
+The frequency of laboratory abnormalities (Grades 3-4) occurring in at least 2% of patients 
+receiving GENVOYA in Studies 104 and 111 are presented in Table 4. 
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              20 
+ 
+Table 4:  Laboratory Abnormalities (Grades 3-4) Reported in ≥ 2% of Patients 
+Receiving GENVOYA in Studies 104 and 111 (Week 144 analysis) 
+ GENVOYA 
+N=866 
+STRIBILD 
+N=867 
+Laboratory Parameter Abnormalitya   
+Creatine Kinase ( 10.0 x ULN) 11% 10% 
+LDL-cholesterol (fasted) (> 190 mg/dL) 11% 5% 
+Total cholesterol (fasted) (>300mg/dL) 4% 3% 
+AST (> 5.0 x ULN) 3% 4% 
+ALT (> 5.0 x ULN) 3% 3% 
+Amylase (> 2.0 x ULN) 3% 5% 
+Urine RBC (Hematuria) (>75 RBC/HPF) 3% 3% 
+Lipaseb 5% 8% 
+a. Frequencies are based on treatment-emergent laboratory abnormalities. 
+b. Lipase test was performed only for subjects with serum amylase > 1.5 x upper limit of normal 
+ 
+The cobicistat component of GENVOYA has been shown to increase serum creatinine due to 
+inhibition of tubular secretion of creatinine without affecting renal glomerular function. In 
+clinical studies with GENVOYA, increases in serum creatinine occurred by Week 2 of 
+treatment and remained stable through 144 weeks.  In treatment-naïve subjects, a mean 
+change from baseline of 0.04 ± 0.12 mg/dL was observed after 144 weeks of treatment. 
+Serum Lipids 
+In the clinical trials of GENVOYA, a similar percentage of patients receiving GENVOYA 
+and STRIBILD were on lipid lowering agents at baseline (4% and 5%, respectively). While 
+receiving study drug through Week 144, an additional 5.5% of GENVOYA patients were 
+started on lipid lowering agents, compared to 5.8% of STRIBILD patients.   
+Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, and 
+triglycerides are presented in Table 5. 
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              21 
+ 
+Table 5 Lipid Values, Mean Change from Baseline, Reported in Patients 
+Receiving GENVOYA or STRIBILD in Studies 104 and 111a 
+ 
+GENVOYA 
+N=866 
+STRIBILD 
+N=867 
+Baseline Week 144 Baseline Week 144 
+ mg/dL Changeb  mg/dL Changeb  
+Total Cholesterol (fasted) 162 
+[N=647] 
++31 
+[N=647] 
+165 
+[N=627] 
++14 
+[N=627] 
+HDL-cholesterol (fasted) 47 
+[N=647] 
++7 
+[N=647] 
+46 
+[N=627] 
++3 
+[N=627] 
+LDL-cholesterol (fasted) 103 
+[N=643] 
++20 
+[N=643] 
+107 
+[N=628] 
++8 
+[N=628] 
+Triglycerides (fasted) 111 
+[N=647] 
++29 
+[N=647] 
+115 
+[N=627] 
+17 
+[N=627] 
+Total Cholesterol to HDL ratio 3.7 
+[N=647] 
+0.2 
+[N=647] 
+3.8 
+[N=627] 
+0.1 
+[N=627] 
+a.  Excludes subjects who received lipid lowering agents during the treatment period.  
+b. The change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 
+144   values. 
+Experience from Clinical Studies in Virologically Suppressed Patients  
+No new adverse reactions to GENVOYA were identified through Week 96 in an open-label 
+clinical study (Study 109) of virologically suppressed patients who switched from a TDF-
+containing combination regimen to GENVOYA (N=959).  
+Experience from Clinical Studies in Patients with Renal Impairment 
+The safety of GENVOYA in 248 HIV-1 infected patients who were either treatment-naïve 
+(N=6) or virologically suppressed (N=242) with mild to moderate renal impairment (eGFR 
+by Cockcroft-Gault method 30 - 69 mL/min) was evaluated through Week 144 in an open-
+label clinical study (Study 112). The safety profile of GENVOYA in patients with mild to 
+moderate renal impairment was similar to patients with normal renal function (see 5.1 
+Pharmacodynamic properties, Clinical Trials). 
+In 84 renally impaired patients who switched to GENVOYA in Study 112 from antiviral 
+regimens not containing tenofovir disoproxil fumarate, mean change from baseline in fasting 
+lipid laboratory tests at Week 144 were -19 mg/dL in total cholesterol, -13 mg/dL in LDL-
+cholesterol, -6 mg/dL in HDL cholesterol, 0.2 in total cholesterol to HDL ratio, and 22 mg/dL 
+in triglycerides. 
+Experience from Clinical Studies in Paediatric Patients 
+The safety of GENVOYA was evaluated in 50 HIV-1 infected, treatment naïve patients 
+between the ages of 12 to < 18 years (≥ 35 kg) through Week 48  and in 23 virologically 
+suppressed patients between the ages of 6 to <12 years (≥ 25 kg) through Week 24 in an 
+open-label clinical study (Study 106).  In this study, the safety profile of GENVOYA was 
+similar to that in adults.  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              22 
+ 
+Experience from Clinical Studies in Patients Coinfected with HIV-1 and Chronic 
+Hepatitis B 
+The safety of GENVOYA in 72 HIV-suppressed adults coinfected with chronic hepatitis B 
+was evaluated through Week 48 in an open-label clinical study (Study 1249) in which 
+patients were switched from another antiretroviral regimen to GENVOYA. The safety profile 
+of GENVOYA in patients coinfected with HIV-1 and chronic hepatitis B was similar to that 
+in patients with HIV-1 monoinfection. 
+Postmarketing Experience 
+In addition to adverse reactions from clinical studies, the following adverse reactions were 
+identified during post-approval use of products containing emtricitabine (FTC) and/or 
+tenofovir alafenamide (TAF). Because these reactions were reported voluntarily from a 
+population of unknown size, estimates of frequency cannot be made.  
+ 
+IMMUNE SYSTEM DISORDERS 
+Autoimmune hepatitis (see section 4.4 Special warnings and precautions for use) 
+ 
+SKIN AND SUBCUTANEOUS TISSUE DISORDERS  
+Angioedema, urticaria 
+RENAL AND URINARY DISORDERS 
+Acute renal failure, proximal renal tubulopathy, Fanconi syndrome 
+ 
+4.9 OVERDOSE 
+If overdose occurs, the patient must be monitored for evidence of toxicity.  Treatment of 
+overdose with GENVOYA consists of general supportive measures including monitoring of 
+vital signs and ECG (QT interval) as well as observation of the clinical status of the patient. 
+For information on the management of overdose, contact the Poison Information Centre 
+on 131126 (Australia) and 0800 764 766 (New Zealand). 
+Elvitegravir: Limited clinical experience is available at doses higher than the therapeutic dose 
+of elvitegravir.  In one study, boosted elvitegravir equivalent to 2 times the therapeutic dose 
+of 150 mg once daily for 10 days was administered to 42 healthy subjects.  No severe adverse 
+reactions were reported. The effects of higher doses are not known.  As elvitegravir is highly 
+bound to plasma proteins, it is unlikely that it will be significantly removed by haemodialysis 
+or peritoneal dialysis. 
+Cobicistat: Limited clinical experience is available at doses higher than the therapeutic dose 
+of cobicistat.  In two studies, single dose of cobicistat 400 mg was administered to a total of 
+60 healthy subjects.  No severe adverse reactions were reported. The effects of higher doses 
+are not known.  As cobicistat is highly bound to plasma proteins, it is unlikely that it will be 
+significantly removed by haemodialysis or peritoneal dialysis. 
+Emtricitabine: Limited clinical experience is available at doses higher than the therapeutic 
+dose of emtricitabine 200 mg.  In one clinical pharmacology study, single doses of 
+emtricitabine 1200 mg were administered to 11 patients.  No severe adverse reactions were 
+reported.  The effects of higher doses are not known.   
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              23 
+ 
+Haemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3-hour 
+dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 
+mL/min and a dialysate flow rate of 600 mL/min).  It is not known whether emtricitabine can 
+be removed by peritoneal dialysis. 
+Tenofovir alafenamide: Limited clinical experience is available at doses higher than the 
+therapeutic dose of tenofovir alafenamide.  A single supratherapeutic dose of 125 mg 
+tenofovir alafenamide was administered to 48 healthy subjects; no serious adverse reactions 
+were reported.  The effects of higher doses are unknown. Tenofovir is efficiently removed by 
+haemodialysis with an extraction coefficient of approximately 54%. 
+5 PHARMACOLOGICAL PROPERTIES 
+5.1 PHARMACODYNAMIC PROPERTIES  
+Pharmacotherapeutic group: Antivirals for treatment of HIV infections, combinations, 
+ATC code: J05AR09. 
+Mechanism of Action 
+GENVOYA is a fixed-dose combination of antiviral drugs elvitegravir (boosted by the 
+pharmacokinetic enhancer cobicistat), emtricitabine and tenofovir alafenamide.  
+Elvitegravir: Elvitegravir is an HIV-1 integrase strand transfer inhibitor (INSTI). Integrase is 
+an HIV-1 encoded enzyme that is required for viral replication.  Inhibition of integrase 
+prevents the integration of HIV-1 DNA into host genomic DNA, blocking the formation of 
+the HIV-1 provirus and propagation of the viral infection.  Elvitegravir does not inhibit 
+human topoisomerases I or II. 
+Cobicistat: Cobicistat is a selective mechanism-based inhibitor of cytochromes P450 of the 
+CYP3A subfamily (primarily CYP3A4 and CYP3A5).   Inhibition of CYP3A-mediated 
+metabolism by cobicistat enhances the systemic exposure of CYP3A substrates, such as 
+elvitegravir, where bioavailability is limited and half-life is shortened by CYP3A-dependent 
+metabolism. 
+Emtricitabine: Emtricitabine, a synthetic nucleoside analogue of cytidine, is phosphorylated 
+by cellular enzymes to form emtricitabine 5'-triphosphate.  Emtricitabine 5'-triphosphate 
+inhibits the activity of the HIV-1 RT by competing with the natural substrate 2’-
+deoxycytidine 5'-triphosphate by being incorporated into nascent viral DNA which results in 
+chain termination.  Emtricitabine 5′-triphosphate is a weak inhibitor of mammalian DNA 
+polymerases , ,  and mitochondrial DNA polymerase . 
+ 
+Tenofovir alafenamide: Tenofovir alafenamide is a phosphonamidate prodrug of tenofovir 
+(2’-deoxyadenosine monophosphate analogue). Tenofovir alafenamide is permeable into cells 
+and due to increased plasma stability and intracellular activation through hydrolysis by 
+cathepsin A, tenofovir alafenamide is more efficient than tenofovir disoproxil fumarate in 
+loading tenofovir into peripheral blood mononuclear cells (PBMCs), including lymphocytes 
+and macrophages.  Intracellular tenofovir is subsequently phosphorylated to the 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              24 
+ 
+pharmacologically active metabolite tenofovir diphosphate. Tenofovir diphosphate inhibits 
+HIV replication through incorporation into viral DNA by the HIV reverse transcriptase, 
+which results in DNA chain-termination. 
+Tenofovir has activity that is specific to human immunodeficiency virus (HIV-1 and HIV-2) 
+and hepatitis B virus (HBV). In vitro studies have shown that both emtricitabine and 
+tenofovir can be fully phosphorylated when combined in cells. Tenofovir diphosphate is a 
+weak inhibitor of mammalian DNA polymerases that include mitochondrial DNA polymerase 
+γ and there is no evidence of mitochondrial toxicity in vitro based on several assays including 
+mitochondrial DNA analyses. 
+Antiviral Activity In Vitro 
+Elvitegravir, Cobicistat, Emtricitabine, and Tenofovir Alafenamide: When tested, 
+elvitegravir, emtricitabine, and tenofovir alafenamide demonstrated synergistic antiviral 
+activity in cell culture.  Antiviral synergy was maintained for elvitegravir, emtricitabine, and 
+tenofovir alafenamide when tested in the presence of cobicistat. 
+Elvitegravir:  The antiviral activity of elvitegravir against laboratory and clinical isolates of 
+HIV-1 was assessed in lymphoblastoid cells, monocyte/macrophage cells, and peripheral 
+blood lymphocytes and the 50% effective concentration (EC50) values were in the range of 
+0.02 to 1.7 nM. Elvitegravir displayed antiviral activity in cell culture against HIV-1 clades 
+A, B, C, D, E, F, G, and O (EC50 values ranged from 0.1 to 1.3 nM) and activity against HIV-
+2 (EC50 of 0.53 nM). The antiviral activity of elvitegravir with antiretroviral drugs in two-
+drug combination studies was additive to synergistic when combined with nucleotide reverse 
+transcriptase inhibitors (NRTIs) (abacavir, didanosine, emtricitabine, 3TC, d4T, tenofovir, or 
+AZT); non-nucleoside reverse transcriptase inhibitors (NNRTIs) (efavirenz, etravirine, or 
+nevirapine); protease inhibitors (PI) (amprenavir, atazanavir, darunavir, indinavir, lopinavir, 
+nelfinavir, ritonavir, saquinavir, or tipranavir); the integrase strand transfer inhibitor 
+raltegravir; the fusion inhibitor enfuvirtide, or the CCR5 co-receptor antagonist, maraviroc. 
+No antagonism was observed for these combinations. 
+Elvitegravir did not show inhibition of replication of HBV or hepatitis C virus (HCV) 
+in vitro. 
+Cobicistat: Cobicistat has no detectable antiviral activity against HIV-1, HBV or HCV and 
+does not antagonise the antiviral effects of elvitegravir, emtricitabine, or tenofovir. 
+Emtricitabine: The in vitro antiviral activity of emtricitabine against laboratory and clinical 
+isolates of HIV was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and 
+peripheral blood mononuclear cells.  The IC50 value for emtricitabine was in the range of 
+0.0013 to 0.64 µM (0.0003 to 0.158 µg/mL).  In drug combination studies of emtricitabine 
+with NRTIs (abacavir, 3TC, d4T, zalcitabine, AZT), NNRTIs (delavirdine, efavirenz, 
+nevirapine), and PIs (amprenavir, nelfinavir, ritonavir, saquinavir), additive to synergistic 
+effects were observed.  Emtricitabine displayed antiviral activity in vitro against HIV-1 
+clades A, C, D, E, F, and G (IC50 values ranged from 0.007 to 0.075 M) and showed strain 
+specific activity against HIV-2 (IC50 values ranged from 0.007 to 1.5 M). 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              25 
+ 
+Tenofovir alafenamide: The antiviral activity of tenofovir alafenamide against laboratory 
+and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, 
+primary monocyte/macrophage cells and CD4-T lymphocytes. The EC50 values for tenofovir 
+alafenamide were in the range of 2.0 to 14.7 nM.  
+Tenofovir alafenamide displayed antiviral activity in cell culture against all HIV-1 groups (M, 
+N, O), including sub-types A, B, C, D, E, F, and G (EC50 values ranged from 0.10 to 12.0 nM) 
+and strain specific activity against HIV-2 (EC50 values ranged from 0.91 to 2.63 nM).  
+In a study of tenofovir alafenamide with a broad panel of representatives from the major 
+classes of approved anti-HIV agents (NRTIs, NNRTIs, INSTIs, and PIs), additive to 
+synergistic effects were observed. No antagonism was observed for these combinations. 
+Drug Resistance  
+ 
+In Cell Culture: 
+Elvitegravir: HIV-1 isolates with reduced susceptibility to elvitegravir have been selected in 
+cell culture.  Reduced susceptibility to elvitegravir was most commonly associated with the 
+primary integrase substitutions T66I, E92Q, and Q148R.  Additional integrase substitutions 
+observed in cell culture selection included H51Y, F121Y, S147G, S153Y, E157Q, and 
+R263K. 
+Elvitegravir showed cross-resistance in vitro to the raltegravir selected mutations T66A/K, 
+Q148H/K, and N155H. 
+Cobicistat: No in vitro resistance can be demonstrated with cobicistat due to its lack of 
+antiviral activity. 
+Emtricitabine: Emtricitabine-resistant isolates of HIV have been selected in vitro.  Genotypic 
+analysis of these isolates showed that the reduced susceptibility to emtricitabine was 
+associated with a mutation in the HIV reverse transcriptase gene at codon 184 which resulted 
+in an amino acid substitution of methionine by valine or isoleucine (M184V/I). 
+Tenofovir Alafenamide: HIV-1 isolates with reduced susceptibility to tenofovir alafenamide 
+have been selected in cell culture. HIV-1 isolates selected by tenofovir alafenamide expressed 
+a K65R mutation in HIV-1 RT; in addition, a K70E mutation in HIV-1 RT has been 
+transiently observed.  HIV-1 isolates with the K65R mutation have low-level reduced 
+susceptibility to abacavir, emtricitabine, tenofovir, and lamivudine.  In vitro drug resistance 
+selection studies with tenofovir alafenamide have shown no development of high-level 
+resistance after extended culture. 
+In Clinical Studies:  
+In Treatment-Naïve Patients: In a pooled analysis of antiretroviral-naive patients receiving 
+GENVOYA in GS-US-292-0104 (Study 104), GS-US-292-0111 (Study 111), genotyping 
+was performed on plasma HIV-1 isolates from all patients with HIV-1 RNA≥ 400 copies/mL 
+at confirmed virologic failure, at Week 144, or at time of early study drug discontinuation. As 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              26 
+ 
+of Week 144, the development of one or more primary elvitegravir, emtricitabine, or 
+tenofovir alafenamide resistance-associated mutations was observed in 12 of 22 patients with 
+evaluable genotypic data from paired baseline and GENVOYA treatment-failure isolates (12 
+of 866 patients [1.4%]) compared with 12 of 20 treatment-failure isolates from patients with 
+evaluable genotypic data in the STRIBILD® treatment group (12 of 867 patients [1.4%]). Of 
+the 12 patients with resistance development in the GENVOYA group, the mutations that 
+emerged were M184V/I(N= 11) and K65R/N (N= 2) in reverse transcriptase and T66T/A/I/V 
+(N= 2), E92Q (N= 4), Q148Q/R (N= 1) and N155H (N= 2) in integrase. Of the 12 patients 
+with resistance development in the STRIBILD group, the mutations that emerged were 
+M184V/I (N= 9), K65R/N (N= 4), and L210W (N=1) in reverse transcriptase and E92/Q/V 
+(N= 4), Q148R (N= 2), and N155H/S (N= 3)  in integrase. In both treatment groups, most 
+patients who developed resistance mutations to elvitegravir developed resistance mutations to 
+both emtricitabine and elvitegravir.   
+In phenotypic analyses of patients in the final resistance analysis population, 7 of 22 patients 
+(32%) had HIV-1 isolates with reduced susceptibility to elvitegravir in the GENVOYA group 
+compared with 7 of 20 patients (35%) in the STRIBILD group, and 8 patients (36%) had 
+reduced susceptibility to emtricitabine in the GENVOYA group compared with 7 patients 
+(35%) in the STRIBILD group. One patient in the GENVOYA group (1 of 22 [4.5%]) and 2 
+patients in the STRIBILD group (2 of 20 [10%]) had reduced susceptibility to tenofovir.   
+In Virologically Suppressed Patients: Three patients with emergent resistance to 
+GENVOYA were identified (M184M/I; M184I + E92G; M184V + E92Q) as of Week 96 in a 
+clinical study of virologically-suppressed patients who switched from a regimen containing 
+emtricitabine/tenofovir disoproxil fumarate and a third agent (GS-US-292-0109 (Study 109), 
+N = 959). 
+In Patients Coinfected with HIV-1 and Chronic Hepatitis B 
+In a clinical study of patients coinfected with HIV-1 and chronic hepatitis B who received 
+GENVOYA for 48 weeks (GS-US-292-1249 (Study 1249), N = 72), no patient had HIV or 
+HBV emergent resistance to GENVOYA. 
+Cross-Resistance:  
+In HIV-1 Infected Treatment-Naïve Patients or Virologically Suppressed Patients : No 
+cross-resistance has been demonstrated for elvitegravir-resistant HIV-1 isolates and 
+emtricitabine or tenofovir, or for emtricitabine- or tenofovir-resistant isolates and elvitegravir.   
+Elvitegravir: Elvitegravir-resistant viruses show varying degrees of cross-resistance to the 
+integrase strand transfer inhibitor raltegravir depending on the type and number of mutations.  
+Viruses expressing the T66I/A mutations maintain susceptibility to raltegravir, while most 
+other patterns showed reduced susceptibility to raltegravir. Viruses expressing elvitegravir or 
+raltegravir resistance mutations maintain susceptibility to dolutegravir. 
+Emtricitabine: Emtricitabine-resistant isolates (M184V/I) were cross-resistant to 3TC and 
+zalcitabine but retained sensitivity to abacavir, didanosine, d4T, tenofovir, AZT and NNRTIs 
+(delavirdine, efavirenz, and nevirapine).  HIV-1 isolates containing the K65R mutation, 
+selected in vivo by abacavir, didanosine and tenofovir, demonstrated reduced susceptibility to 
+inhibition by emtricitabine.  Viruses harbouring mutations conferring reduced susceptibility 
+to d4T and AZT (M41L, D67N, K70R, L210W, T215Y/F, K219Q/E) or didanosine (L74V) 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              27 
+ 
+remained sensitive to emtricitabine.  HIV-1 containing the K103N mutation or substitutions 
+associated with resistance to NNRTI were susceptible to emtricitabine. 
+Tenofovir Alafenamide: The K65R and K70E mutations result in reduced susceptibility to 
+abacavir, didanosine, lamivudine, emtricitabine, and tenofovir, but retain sensitivity to 
+zidovudine. 
+Multinucleoside resistant HIV-1 with a T69S double insertion mutation or with a Q151M 
+mutation complex including K65R showed reduced susceptibility to tenofovir alafenamide.  
+HIV-1 containing the K103N or Y181C mutations associated with resistance to NNRTIs 
+were susceptible to tenofovir alafenamide.  
+HIV-1 containing mutations associated with resistance to PIs, such as M46I, I54V, V82F/T, 
+and L90M were susceptible to tenofovir alafenamide.    
+Pharmacodynamics 
+Effects on Electrocardiogram 
+Thorough QT studies have been conducted for elvitegravir, cobicistat, and tenofovir 
+alafenamide. The effect of emtricitabine or the combination regimen GENVOYA on the QT 
+interval is not known. 
+The effect of multiple doses of elvitegravir 125 and 250 mg (0.83 and 1.67 times the dose in 
+GENVOYA) (coadministered with 100 mg ritonavir to boost the blood levels of elvitegravir) 
+on QTc interval was evaluated in a randomised, placebo- and active-controlled (moxifloxacin 
+400 mg) parallel group thorough QT study in 126 healthy subjects. In a study with 
+demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence 
+interval for the largest placebo adjusted, baseline-corrected QTc based on Fridericia’s 
+correction method (QTcF) was below 10 msec. In this study, there was no clinically relevant 
+prolongation of the QTc interval.    
+The effect of a single dose of cobicistat 250 mg and 400 mg (1.67 and 2.67 times the dose in 
+GENVOYA) on QTc interval was evaluated in a randomised, placebo- and active-controlled 
+(moxifloxacin 400 mg) four-period crossover thorough QT study in 48 healthy subjects. In a 
+study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% 
+confidence interval for the largest placebo adjusted, baseline-corrected QTc based on 
+individual correction method (QTc) was below 10 msec, the threshold for regulatory concern. 
+Prolongation of the PR interval was noted in subjects receiving cobicistat in the same study. 
+The maximum mean (95% upper confidence bound) difference in PR from placebo after 
+baseline-correction was 9.5 (12.1) msec for 250 mg dose and 20.2 (22.8) for 400 mg dose 
+cobicistat.  Because the 150 mg cobicistat dose used in the GENVOYA fixed-dose 
+combination tablet is lower than the lowest dose studied in the thorough QT study, it is 
+unlikely that treatment with GENVOYA will result in clinically relevant PR prolongation.  
+In a thorough QT/QTc study in 48 healthy subjects, tenofovir alafenamide at the therapeutic 
+dose or at a supratherapeutic dose approximately 5 times the recommended therapeutic dose 
+did not affect the QT/QTc interval and did not prolong the PR interval. 
+Effects on Serum Creatinine 
+The effect of cobicistat on serum creatinine was investigated in a Phase 1 study in volunteers 
+with normal renal function (eGFR ≥ 80 mL/min; N = 18) and mild to moderate renal 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              28 
+ 
+impairment (eGFR: 50-79 mL/min; N = 12). A statistically significant change of eGFRCG 
+from baseline was observed after 7 days of treatment with cobicistat 150 mg among subjects 
+with normal renal function (-9.9 ± 13.1 mL/min) and mild to moderate renal impairment (-
+11.9 ± 7.0 mL/min). These decreases in eGFRCG were reversible after cobicistat was 
+discontinued. The actual glomerular filtration rate, as determined by the clearance of probe 
+drug iohexol, was not altered from baseline following treatment of cobicistat among subjects 
+with normal renal function and mild to moderate renal impairment, indicating cobicistat 
+inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting 
+the actual glomerular filtration rate. 
+Clinical Trials 
+The efficacy and safety of GENVOYA in HIV-1 infected, treatment-naïve adults are based 
+on 144-week data from two randomised, double-blind, active-controlled trials, Studies 104 
+and 111 (N=1733). The efficacy and safety of GENVOYA in virologically-suppressed HIV-1 
+infected adults are based on 96-week data from a randomised, open-label, active-controlled 
+trial, Study 109 (N=1436).  The efficacy and safety of GENVOYA in HIV-1 infected, 
+virologically-suppressed patients with mild to moderate renal impairment is based on 144-
+week data from an open-label trial, Study 112 (N=242).  The efficacy and safety of 
+GENVOYA in HIV-1 infected, paediatric patients are based on 48-week data in treatment-
+naïve patients between the ages of 12 to < 18 years (≥ 35 kg) (N=50) and 24-week data in 
+virologically suppressed patients between the ages of 6 to < 12 years (≥ 25 kg) (N=23) from 
+an open-label trial, Study 106. 
+Treatment-Naïve Patients 
+In both Study 104 and Study 111, patients were randomised in a 1:1 ratio to receive either 
+GENVOYA (N = 866) once daily or STRIBILD (elvitegravir 150 mg/cobicistat 150 
+mg/emtricitabine 200 mg/tenofovir disoproxil fumarate 300 mg; N = 867) once daily. 
+In Studies 104 and 111, the mean age was 36 years (range 18-76), 85% were male, 57% were 
+White, 25% were Black, and 10% were Asian. Nineteen percent of patients identified as 
+Hispanic/Latino. The mean baseline plasma HIV-1 RNA was 4.5 log10 copies per mL (range 
+1.3–7.0). The mean baseline CD4+ cell count was 427 cells/μL (range 0-1360) and 13% had 
+CD4+ cell counts less than 200 cells/μL . Twenty-three percent of patients had baseline viral 
+loads greater than 100,000 copies/mL.  
+In both studies, patients were stratified by baseline HIV-1 RNA (≤ 100,000 copies/mL, > 
+100,000 copies/mL to ≤ 400,000 copies/mL, or > 400,000 copies/mL), by CD4 count (< 50 
+cells/μL, 50-199 cells/μL, or ≥ to 200 cells/μL), and by region (US or ex-US). 
+Treatment outcomes of Studies 104 and 111 through 48 and 144 weeks are presented in Table 
+6. 
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              29 
+ 
+Table 6  Pooled Virologic Outcomes of Studies 104 and 111 at Weeks 48a and 144b 
+ Week 48 Week 144 
+ GENVOYA  
+(N=866) 
+STRIBILD 
+(N=867) 
+GENVOYA  
+(N=866) 
+STRIBILD 
+(N=867) 
+HIV-1 RNA < 50 copies/mL 92% 90% 84% 80% 
+Treatment Difference 2.0% (95% CI: -0.7% to 4.7%) 4.2% (95% CI = 0.6% to 7.8%) 
+HIV-1 RNA ≥ 50 copies/mLc 4% 4% 5% 4% 
+No Virologic Data at Week 
+48 or 144 Window 4% 6% 11% 16% 
+Discontinued Study Drug 
+Due to AE or Deathd 1% 2% 1% 3% 
+Discontinued Study Drug 
+Due to Other Reasons and 
+Last Available HIV-1 
+RNA < 50 copies/mLe 
+2% 4% 9% 11% 
+Missing Data During 
+Window but on Study 
+Drug 
+1% <1% 1% 1% 
+Proportion (%) of Patients with HIV-1 RNA < 50 copies/mL by Subgroup 
+Age 
+< 50 years 
+≥ 50 years 
+ 
+716/777 (92%) 
+84/89 (94%) 
+ 
+680/753 (90%) 
+104/114 (91%) 
+ 
+647/777 (83%) 
+82/89 (92%) 
+ 
+602/753 (80%) 
+92/114 (81%) 
+Sex 
+Male 
+Female 
+ 
+674/733 (92%) 
+126/133 (95%) 
+ 
+673/740 (91%) 
+111/127 (87%) 
+ 
+616/733 (84%) 
+113/133 (85%) 
+ 
+603/740 (81%) 
+91/127 (72%) 
+Race 
+Black 
+Nonblack 
+ 
+197/223 (88%) 
+603/643 (94%) 
+ 
+177/213 (83%) 
+607/654 (93%) 
+ 
+168/223 (75%) 
+561/643 (87%) 
+ 
+152/213 (71%) 
+542/654 (83%) 
+Baseline Viral Load 
+≤ 100,000 copies/mL 
+> 100,000 copies/mL 
+ 
+629/670 (94%) 
+171/196 (87%) 
+ 
+610/672 (91%) 
+174/195 (89%) 
+ 
+567/670 (85%) 
+162/196 (83%) 
+ 
+537/672 (80%) 
+157/195 (81%) 
+Baseline CD4+ cell count 
+< 200 cells/μL 
+≥ 200 cells/ μL 
+ 
+96/112 (86%) 
+703/753 (93%) 
+ 
+104/117 (89%) 
+680/750 (91%) 
+ 
+93/112 (83%) 
+635/753 (84%) 
+ 
+94/117 (80%) 
+600/750 (80%) 
+a. Week 48 window was between Day 294 and 377 (inclusive). 
+b. Week 144 window was between Day 966 and 1049 (inclusive) 
+c. Included patients who had ≥ 50 copies/mL in the Week 48 or 144 window; patients who discontinued early due to lack 
+or loss of efficacy; patients who discontinued for reasons other than an adverse event (AE), death or lack or loss of 
+efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL. 
+d. Includes patients who discontinued due to AE or death at any time point from Day 1 through the time window if this 
+resulted in no virologic data on treatment during the specified window. 
+e. Includes patients who discontinued for reasons other than an AE, death or lack or loss of efficacy; e.g., withdrew 
+consent, loss to follow-up, etc. 
+ 
+At Week 144, GENVOYA demonstrated statistical superiority (p= 0.021) in achieving HIV-1 
+RNA < 50 copies/mL when compared to STRIBILD.  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              30 
+ 
+In Studies 104 and 111, the mean increase from baseline in CD4+ cell count at Week 144 
+was 326 cells/μL in GENVOYA-treated patients and 305 cells/μL in STRIBILD-treated 
+patients (p = 0.06). 
+Bone Mineral Density: In the pooled analysis of Studies 104 and 111, the effects of 
+GENVOYA compared to that of STRIBILD on bone mineral density (BMD) change from 
+baseline to Week 144 were assessed by dual-energy X-ray absorptiometry (DXA).  As shown 
+in Table 7, in patients who had both baseline and Week 144 measurements (N= 690 and 702 
+in the GENVOYA group and N = 683 and 686 in the STRIBILD group, for hip and spine, 
+respectively) there were smaller decreases in BMD in the GENVOYA group as compared to 
+STRIBILD. 
+Table 7  Measures of Bone Mineral Density in Studies 104 and 111 (Week 144 
+analysis) 
+ GENVOYA STRIBILD Treatment Difference 
+Hip DXA Analysis N=690 N=683  
+Mean Percent Change in BMD -0.8% -3.4% 2.62% 
+p < 0.001 
+Subjects with Categorical Change: 
+> 3% Decrease in BMD 
+> 3% Increase in BMD 
+ 
+28% 
+13% 
+ 
+55% 
+6% 
+-- 
+Subjects with No Decrease in BMD 40% 19% -- 
+Lumbar Spine DXA Analysis N=702 N=686  
+Mean Percent Change in BMD -0.9% -3.0% 2.04% 
+p < 0.001 
+Subjects with Categorical Change: 
+> 3% Decrease in BMD 
+> 3% Increase in BMD 
+ 
+30% 
+13% 
+ 
+49% 
+7% 
+-- 
+Subjects with No Decrease in BMD 39% 22% -- 
+ 
+Changes in Renal Laboratory Tests: Laboratory tests were performed in Studies 104 and 111 to 
+compare the effect of TAF, administered as a component of GENVOYA, to that of TDF, 
+administered as a component of STRIBILD, on renal laboratory parameters.  As shown in 
+Table 8, statistically significant differences were observed between treatment groups that 
+favoured GENVOYA. In these studies, there were statistically significant differences 
+between treatment groups for increases in serum creatinine and changes in proteinuria, 
+including Urine Protein to Creatinine Ratio (UPCR), Urine Albumin to Creatinine Ratio 
+(UACR), urine retinol binding protein (RBP) to creatinine ratio, and urine beta-2-
+microglobulin to creatinine ratio that favoured GENVOYA.  
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              31 
+ 
+Table 8 Change from Baseline in Renal Laboratory Tests in Studies 104 and 111 
+(Week 144 analysis) 
+ 
+GENVOYA 
+N=866 
+STRIBILD 
+N=867 
+Treatment 
+Difference 
+Serum Creatinine (mg/dL)a 0.04 ± 0.12 0.07 ± 0.13 -0.04 
+p < 0.001 
+Proteinuria by Urine Dipstickb 40% 45% p = 0.027 
+Urine Protein to Creatinine Ratio [UPCR]c -10.5% 25.2% p < 0.001 
+Urine Albumin to Creatinine Ratio [UACR]c, d -5.2% 5.2% p < 0.001 
+Urine RBP to Creatinine Ratioc 34.8% 111% p < 0.001 
+Urine Beta-2-Microglobulin to Creatinine Ratioc -25.7% 53.8% p < 0.001 
+a. Mean change ± SD.Treatment difference was from the analysis of covariance model 
+b. Includes all severity grades (1-3). 
+c.  Median percent change. 
+d.  Week 96 analysis 
+Virologically-Suppressed Patients 
+In Study 109, the efficacy and safety of switching from either ATRIPLA® (tenofovir 
+DF/emtricitabine/efavirenz), TRUVADA® (tenofovir DF/emtricitabine) plus atazanavir 
+(boosted by either cobicistat or ritonavir), or STRIBILD to GENVOYA were evaluated in a 
+randomised, open-label trial of virologically-suppressed (HIV-1 RNA < 50 copies/mL) HIV-
+1 infected adults (N = 1436).  Patients must have been stably suppressed (HIV-1 RNA < 50 
+copies/mL) on their baseline regimen for at least 6 months and had no resistance mutations to 
+any of the components of GENVOYA prior to study entry.  Patients were randomised in a 2:1 
+ratio to either switch to GENVOYA at baseline (N = 959), or stay on their baseline 
+antiretroviral regimen (N = 477). Patients had a mean age of 41 years (range 21-72), 89% 
+were male, 67% were White, and 19% were Black. The mean baseline CD4+ cell count was 
+697 cells/μL (range 79-1951).  
+Patients were stratified by prior treatment regimen.  At screening, 42% of patients were 
+receiving TRUVADA plus atazanavir (boosted by either cobicistat or ritonavir), 32% of 
+patients were receiving STRIBILD, and 26% of patients were receiving ATRIPLA. 
+Treatment outcomes of Study 109 through 48 and 96 weeks are presented in Table 9. 
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              32 
+ 
+Table 9         Virologic Outcomes of Study 109 at Weeks 48a and 96b 
+ Week 48 Week 96 
+ 
+GENVOYA  
+(N=959) 
+Baseline 
+Regimen 
+(N=477) 
+GENVOYA  
+(N = 959) 
+Baseline 
+Regimen (N = 
+477) 
+HIV-1 RNA < 50 copies/mL 97% 93% 93% 89% 
+Treatment Difference 4.1% (95% CI: 1.6% to 6.7%) 3.7% (95% CI = 0.4% to 7.0%) 
+HIV-1 RNA ≥ 50 copies/mLc 1% 1% 2% 2% 
+No Virologic Data at Week 48 or 
+96 Window 2% 6% 5% 9% 
+Discontinued Study Drug Due to 
+AE or Deathd 1% 1% 1% 3% 
+Discontinued Study Drug Due to 
+Other Reasons and Last 
+Available HIV-1 RNA 
+< 50 copies/mLe 
+1% 4% 3% 6% 
+Missing Data During Window 
+but on Study Drug 0% <1% 1% <1% 
+a. Week 48 window was between Day 294 and 377 (inclusive). 
+b. Week 96 window was between Day 630 and 713 (inclusive). 
+c. Included patients who had ≥ 50 copies/mL in the Week 48 or Week 96 window; patients who discontinued early due to 
+lack or loss of the efficacy; patients who discontinued for reasons other than an adverse event (AE), death or lack or 
+loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL; patients who had new 
+antiretroviral added. 
+d. Includes patients who discontinued due to AE or death at any time point from Day 1 through the time window if this 
+resulted in no virologic data on treatment during the specified window. 
+e. Includes patients who discontinued for reasons other than an AE, death or lack or loss of efficacy; e.g., withdrew 
+consent, loss to follow-up, etc. 
+ 
+At Week 96, 90% (227/251) of patients who had received ATRIPLA as their prior treatment 
+regimen remained suppressed (HIV-1 RNA < 50 copies/mL) after switching to GENVOYA 
+vs. 86% (108/125) of patients who stayed on ATRIPLA; 92% (370/402) of patients who had 
+received TRUVADA plus boosted atazanavir and switched to GENVOYA remained 
+suppressed vs. 88% (175/199) who stayed on TRUVADA plus boosted atazanavir; 96% 
+(293/306) of patients who had received STRIBILD and switched to GENVOYA remained 
+suppressed vs. 93% (142/153) who stayed on STRIBILD. 
+At Week 96, switching to GENVOYA was superior (p=0.017) in maintaining HIV-1 RNA < 
+50 copies/mL when compared to patients who stayed on their baseline regimen. 
+In Study 109, the mean increase from baseline in CD4+ cell count at Week 96 was 60 
+cells/μL in GENVOYA-treated patients and 42 cells/μL in subjects who stayed on their 
+baseline regimen. 
+Bone Mineral Density: In Study 109, changes in BMD were assessed by DXA in patients who 
+had both  baseline and Week 96 measurements (N = 809 and 821 in the GENVOYA arm and 
+N = 396 and 401 in patients who remained on their baseline regimen, for hip and spine, 
+respectively). Results are summarised in Table 10. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              33 
+ 
+ 
+Table 10 Measures of Bone Mineral Density in Study 109 (Week 96 analysis) 
+ GENVOYA Baseline Regimen Treatment Difference 
+Hip DXA Analysis N=809 N=396  
+Mean Percent Change in BMD 2.4% -0.5% 2.9% 
+p < 0.001 
+Patients with Categorical Change: 
+> 3% Decrease in BMD 
+> 3% Increase in BMD 
+ 
+2% 
+35% 
+ 
+15% 
+9% 
+-- 
+Subjects with No Decrease in BMD 82% 43% -- 
+Lumbar Spine DXA Analysis N=821 N=401  
+Mean Percent Change in BMD 2.1% -0.1% 2.2% 
+p < 0.001 
+Subjects with Categorical Change: 
+> 3% Decrease in BMD 
+> 3% Increase in BMD 
+ 
+6% 
+37% 
+ 
+17% 
+18% 
+-- 
+Subjects with No Decrease in BMD 75% 47% -- 
+ 
+Changes in Renal Laboratory Tests: There were decreases from baseline in proteinuria 
+(UPCR), albuminuria (UACR), and tubular proteinuria (urine RBP to creatinine ratio and 
+urine beta-2-microglobulin to creatinine ratio), and other measures of proximal renal tubular 
+dysfunction (including fractional excretion of uric acid [FEUA]) in patients receiving 
+GENVOYA, as compared with increases from baseline in patients who stayed on their TDF-
+containing baseline regimen, collectively indicating the reduced impact of TAF on proximal 
+renal tubular function.  At Week 96, the median percentage change in UPCR was −26% vs. 
+9%; in UACR it was −14% vs. 11%. At Week 48, the median percentage change in urine 
+RBP to creatinine ratio was −33% vs. 18%; in urine beta-2-microglobulin to creatinine ratio it 
+was −52% vs. 19% (p < 0.001 for all comparisons). 
+HIV-1 Infected Patients with Renal Impairment 
+In Study 112, the efficacy and safety of GENVOYA were evaluated in an open-label clinical 
+trial of 242 HIV-1 infected patients with mild to moderate renal impairment (eGFR by 
+Cockcroft-Gault method between 30 to 69 mL/min).  Patients were virologically suppressed 
+(HIV-1 RNA < 50 copies/mL) for at least 6 months before switching to GENVOYA.   
+The mean age was 58 years (range 24-82), with 63 patients (26%) who were ≥ 65 years of 
+age. Seventy-nine percent were male, 63% were White, 18% were Black, and 14% were 
+Asian. Thirteen percent of patients identified as Hispanic/Latino. At baseline, median eGFR 
+was 56 mL/min, and 33% of patients had an eGFR of less than 50 mL per min. The mean 
+baseline CD4+ cell count was 664 cells per mm3 (range 126-1813). At Week 24, 95.0% 
+(230/242 patients) maintained HIV-1 RNA < 50 copies/mL after switching to GENVOYA. 
+At Week 144, 83.1% (197/237) maintained HIV-1 RNA <50 copies/mL after switching to 
+GENVOYA. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              34 
+ 
+In a substudy, patients given GENVOYA (N=32) had no change from baseline in their actual 
+glomerular filtration rate at Week 24, as measured by iohexol clearance.   
+Changes from baseline in renal laboratory tests in Study 112 are summarised in Table 11. 
+Table 11 Change from Baseline in Renal Laboratory Tests at Week 144 in 
+Virologically Suppressed Patients with Renal Impairment who Switched 
+to GENVOYA in Study 112 (Week 144 analysis) 
+ 
+GENVOYA 
+N=242 
+Serum Creatinine (mg/dL)a -0.05 ± 0.29 
+Improvement in Proteinuria by Urine Dipstickb 56/66 (85%) 
+Urine Protein to Creatinine Ratio [UPCR]c  -45.7% 
+Urine Albumin to Creatinine Ratio [UACR]c -35.1% 
+Urine RBP to Creatinine Ratioc -63.8% 
+Urine Beta-2-Microglobulin to Creatinine Ratioc -81.9% 
+a. Mean change ± SD. 
+b. An improvement of at least 1 toxicity grade from baseline. 
+c. Median percent change 
+ 
+Multiple assessments of renal function indicate that improvements in renal function occur as 
+early as 1 week after switching to GENVOYA and persist through 144 weeks. The 
+prevalence of clinically significant proteinuria (UPCR > 200 mg/g) and albuminuria (UACR 
+≥ 30 mg/g) decreased from 42% at baseline to 16% at Week 144 and 49% at baseline to 32% 
+at Week 144, respectively. Other renal assessments, including fractional excretion of uric 
+acid, serum cystatin C, and serum phosphorus showed small changes from baseline through 
+Week 144.  
+In patients whose prior antiretroviral regimen did not include tenofovir disoproxil fumarate 
+(N=84), mean change from baseline in serum creatinine at Week 144 was 0.01 ± 0.31  
+mg/dL; 73% (11/15 patients) had an improvement in proteinuria as measured by urine 
+dipstick.  Median percent change in UPCR and UACR at Week 144 were -9% and -4%, 
+respectively. Median percent change in urine RBP to creatinine ratio, and urine beta-2-
+microglobulin to creatinine ratio at Week 144 were 15% and -6%, respectively. 
+In virologically suppressed patients with renal impairment who switched to GENVOYA, 
+mean percentage increases from baseline at Week 144 were observed in hip and spine BMD.  
+Assessment of BMD using a threshold of 3% for changes from baseline revealed higher 
+percentages of patients had increases versus decreases from baseline in BMD at both hip and 
+spine.  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              35 
+ 
+Paediatric Patients  
+In Study 106, the efficacy, safety, and pharmacokinetics of GENVOYA in HIV-1-infected 
+patients were evaluated in open-label studies in treatment-naïve patients between the ages of 
+12 to < 18 years (≥ 35 kg) (N=50) and in virologically suppressed patients between the ages 
+of 6 to < 12 years (≥ 25 kg) (N=23).   
+Cohort 1: Treatment-naïve adolescents (12 to < 18 years; ≥ 35 kg) 
+Patients in Cohort 1 had a mean age of 15 years (range: 12 to 17), 44% were male, 12% were 
+Asian, and 88% were black. At baseline, mean plasma HIV-1 RNA was 4.6 log10 copies/mL, 
+median CD4+ cell count was 456 cells/μL (range: 95 to 1110), and median CD4+% was 23% 
+(range: 7% to 45%).  22% had baseline plasma HIV-1 RNA > 100,000 copies/mL.  
+Among the patients in Cohort 1 treated with GENVOYA, 92% (46/50) achieved HIV-1 RNA 
+< 50 copies/mL at Week 48. The mean increase from baseline in CD4+ cell count at Week 48 
+was 224 cells/μL. Three of 50 patients had virologic failure at Week 48; no emergent 
+resistance to GENVOYA was detected through Week 48. 
+Among the patients in Cohort 1 who had both baseline and Week 48-measurements (N=47 
+and 44 for the lumbar spine and total body less head [TBLH], respectively), mean BMD 
+increased from baseline to Week 48, +4.2% at the lumbar spine and +1.3% for TBLH. 
+Cohort 2: Virologically suppressed children (6 to < 12 years; ≥ 25 kg) 
+ 
+In Study 106, patients in Cohort 2 had a mean age of 10 years (range: 8 to 11), a mean 
+baseline weight of 31.6 kg (range: 26 to 58), 39% were male, 13% were Asian, and 78% were 
+black. Cohort 2 of Study 106 did not include any child below 8 years of age; the lowest body 
+weight of any child treated in cohort 2 was 26 kg. Cohort 2 was limited to virologically 
+suppressed children who switched to GENVOYA. At baseline, median CD4+ cell count was 
+969 cells/μL (range: 603 to 1421), and median CD4+% was 39% (range: 30% to 51%). 
+After switching to GENVOYA, 100% (23/23) of patients in Cohort 2 remained suppressed 
+(HIV-1 RNA <50 copies/mL) at Week 24. The mean change from baseline in CD4+ cell 
+count at Week 24 was -150 cells/μL. No patient qualified for resistance analysis through 
+Week 24.  
+Among the patients in Cohort 2 who had both baseline and Week 24 measurements (N=21 
+and 23, for lumbar spine and TBLH, respectively), mean BMD increased from baseline to 
+Week 24, +2.9% at the lumbar spine and +1.7% for TBLH. 
+Patients Coinfected with HIV-1 and Chronic Hepatitis B 
+In Study 1249, the efficacy and safety of GENVOYA were evaluated in an open-label study in adults 
+coinfected with HIV-1 and chronic hepatitis B. Seventy-two patients were HIV-suppressed (HIV-1 
+RNA < 50 copies/mL) for at least 6 months with or without suppression of HBV DNA and had 
+compensated liver function. Sixty-nine of the 72 patients were on prior TDF-containing antiretroviral 
+therapy. The mean age was 50 years (range: 28 to 67), 92% of patients were male, 69% were White, 
+18% were Black, and 10% were Asian. The mean baseline CD4+ cell count was 636 cells/μL (range 
+263-1498). 86% (62/72 patients) were HBV suppressed (HBV DNA < 29 IU/mL) and 42% (30/72) of 
+patients were HBeAg positive at baseline. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              36 
+ 
+At Week 48, 92% (66/72 HIV-suppressed patients) maintained HIV-1 RNA < 50 copies/mL after 
+switching to GENVOYA. The mean change from baseline in CD4+ cell count at Week 48 was -2 
+cells/ μL. 
+Ninety-two percent (66/72 HIV-suppressed patients) had HBV DNA < 29 IU/mL using missing = 
+failure analysis at Week 48.  ALT normalisation was achieved in 50% patients (i.e., 4 of 8 patients 
+who had ALT data available at Week 48).  
+5.2 PHARMACOKINETIC PROPERTIES  
+Absorption and Bioavailability 
+Elvitegravir, Cobicistat, Emtricitabine and Tenofovir Alafenamide: Following oral 
+administration with food in HIV-1 infected patients, peak plasma concentrations were 
+observed approximately 4 hours post-dose for elvitegravir, 3 hours post-dose for cobicistat, 3 
+hours post-dose for emtricitabine, and 1 hour post-dose for tenofovir alafenamide (see Table 
+12 for pharmacokinetic parameters). 
+Table 12.  Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, 
+and Tenofovir Alafenamide Exposure Following Oral Administration in 
+HIV-Infected Adults 
+Parameter 
+Mean ± SD 
+[range: min:max] 
+Elvitegravira Cobicistatb Emtricitabineb Tenofovir 
+Alafenamidec 
+Cmax  
+(µg/mL) 
+1.7 ± 0.4 
+[0.4:3.7] 
+1.1 ± 0.4 
+[0.1:2.1] 
+1.9 ± 0.5 
+[0.6:3.6] 
+0.16 ± 0.08 
+[0.02:0.97] 
+AUCtau 
+(µg•h/mL) 
+23.0 ± 7.5 
+[4.4:69.8] 
+8.3 ± 3.8 
+[0.5:18.3] 
+12.7 ± 4.5 
+[5.2:34.1] 
+0.21 ± 0.15 
+[0.05:1.9] 
+Ctrough 
+(µg/mL) 
+0.45 ± 0.26 
+[0.05:2.34] 
+0.05 ± 0.13 
+[0.01:0.92] 
+0.14 ± 0.25 
+[0.04:1.94] NA 
+SD = Standard Deviation; NA = Not Applicable 
+a.  From Population Pharmacokinetic analysis, N=419. 
+b.  From Intensive Pharmacokinetic analysis, N=61-62, except cobicistat Ctrough N=53. 
+c. From Population Pharmacokinetic analysis, N=539. 
+ 
+Effect of Food on Oral Distribution 
+Relative to fasting conditions, the administration with a light meal (~373 kcal, 20% fat) 
+increased the mean systemic exposure of elvitegravir by 34%. The alterations in mean 
+systemic exposures of cobicistat and emtricitabine were not clinically significant.  
+Relative to fasting conditions, the administration with a high fat meal (~ 800 kcal, 50% fat) 
+increased the mean systemic exposure of elvitegravir by 87%. The alterations in mean 
+systemic exposures of cobicistat and emtricitabine were not clinically significant.      
+Relative to fasting conditions, the administration of GENVOYA with a light meal (~400 kcal, 
+20% fat) or high-fat meal (~800 kcal, 50% fat) increased the mean systemic exposures of 
+tenofovir alafenamide by approximately 15% and 18%, respectively. The alterations in mean 
+systemic exposures of tenofovir alafenamide were not clinically significant.      
+GENVOYA should be taken with food.  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              37 
+ 
+Distribution, Metabolism and Elimination 
+Elvitegravir: Elvitegravir is 98-99% bound to human plasma proteins and binding is 
+independent of drug concentration over the range of 1 ng/mL to 1.6 µg/mL.  The mean 
+plasma to blood drug concentration ratio was 1.37. Elvitegravir undergoes primarily 
+oxidative metabolism via CYP3A, and is secondarily glucuronidated via UGT1A1/3 
+enzymes. Following oral administration of boosted [14C]elvitegravir, elvitegravir was the 
+predominant species in plasma, representing ~ 94% of the circulating radioactivity. Aromatic 
+and aliphatic hydroxylation or glucuronidation metabolites are present in very low levels, 
+display considerably lower anti-HIV activity and do not contribute to the overall antiviral 
+activity of elvitegravir. 94.8% of the dose was recovered in faeces, consistent with the 
+hepatobiliary excretion of elvitegravir; 6.7% of the administered dose was recovered in urine 
+as unchanged elvitegravir. The median terminal plasma half-life of elvitegravir following 
+administration of STRIBILD is approximately 12.9 hours.  Elvitegravir plasma exposures are 
+non-linear and less than dose proportional, likely due to solubility-limited absorption. 
+Cobicistat: Cobicistat is 97-98% bound to human plasma proteins and the mean plasma to 
+blood drug concentration ratio was 2.  
+Cobicistat is metabolised via CYP3A (major) - and CYP2D6 (minor)-mediated oxidation and 
+does not undergo glucuronidation. Following oral administration of [14C]cobicistat, 99% of 
+circulating radioactivity in plasma was unchanged cobicistat. Low levels of metabolites are 
+observed in urine and faeces and do not contribute to the CYP3A inhibitory activity of 
+cobicistat. Eighty-six percent and 8.2% of the dose were recovered in feces and urine, 
+respectively. The median terminal plasma half-life of cobicistat following administration of 
+STRIBILD is approximately 3.5 hours and the associated cobicistat exposures provide 
+elvitegravir Ctrough approximately 10-fold above the protein-binding adjusted IC95 for wild-
+type HIV-1 virus. Cobicistat exposures are non-linear and greater than dose-proportional over 
+the range of 50 mg to 400 mg, consistent with a mechanism-based CYP3A inhibitor. 
+Emtricitabine: In vitro binding of emtricitabine to human plasma proteins is < 4% and is 
+independent of concentration over the range of 0.02 to 200 μg/mL.  Following administration 
+of radiolabelled emtricitabine, approximately 86% is recovered in the urine and 13% is 
+recovered as metabolites.  The metabolites of emtricitabine include 3′-sulfoxide 
+diastereomers and their glucuronic acid conjugate.  Emtricitabine is eliminated by a 
+combination of glomerular filtration and active tubular secretion.  Following a single oral 
+dose of emtricitabine 200 mg, the plasma emtricitabine half-life is approximately 10 hours.  
+Tenofovir Alafenamide: The binding of tenofovir to human plasma proteins is less than 0.7% 
+and is independent of concentration over the range of 0.01 to 25 micrograms/mL.  The 
+binding of tenofovir alafenamide to human plasma proteins in samples collected during 
+clinical studies was approximately 80%.   
+Distribution studies in dogs showed 5.7 to 15-fold higher 14C-radioactivity in lymphoid 
+tissues (iliac, axillary, inguinal and mesenteric lymph nodes, and spleen) 24 hours following 
+administration of an equivalent dose of [14C]-tenofovir alafenamide relative to [14C]-tenofovir 
+disoproxil fumarate. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              38 
+ 
+Metabolism is a major excretion pathway for tenofovir alafenamide in humans, accounting 
+for > 80% of an oral dose. In vitro studies have shown that tenofovir alafenamide is 
+metabolised to tenofovir (major metabolite) by cathepsin A in PBMCs (including 
+lymphocytes and other HIV target cells) and macrophages; and by carboxylesterase-1 in 
+hepatocytes.  In vivo, tenofovir alafenamide is hydrolysed within cells to form tenofovir 
+(major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. 
+In human clinical studies, a 10 mg oral dose of tenofovir alafenamide in GENVOYA resulted 
+in tenofovir diphosphate concentrations > 4-fold higher in PBMCs and > 90% lower 
+concentrations of tenofovir in plasma as compared to a 300 mg oral dose of tenofovir 
+disoproxil fumarate in STRIBILD.   
+In vitro, tenofovir alafenamide is not metabolised by CYP1A2, CYP2C8, CYP2C9, 
+CYP2C19, or CYP2D6. Tenofovir alafenamide is minimally metabolised by CYP3A4. Upon 
+coadministration with the moderate CYP3A inducer probe efavirenz, tenofovir alafenamide 
+exposure was not significantly affected.  Tenofovir alafenamide is not an inhibitor of 
+CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or UGT1A1. Tenofovir 
+alafenamide is not an inhibitor or inducer of CYP3A in vivo. 
+Tenofovir alafenamide is eliminated following metabolism to tenofovir. Tenofovir 
+alafenamide and tenofovir have a median plasma half-life of 0.51 and 32.37 hours, 
+respectively. Tenofovir is renally eliminated by both glomerular filtration and active tubular 
+secretion. Renal excretion of intact tenofovir alafenamide is a minor pathway with less than 
+1% of the dose eliminated in urine.  The pharmacologically active metabolite, tenofovir 
+diphosphate, has a half-life of 150 to 180 hours within PBMCs. 
+Age, Gender and Ethnicity 
+No clinically relevant pharmacokinetic differences due to gender have been identified for 
+cobicistat-boosted elvitegravir, emtricitabine, or tenofovir alafenamide and no dosage 
+adjustment is recommended based on gender.  
+Pharmacokinetic differences for cobicistat-boosted elvitegravir, emtricitabine, or tenofovir 
+alafenamide due to ethnicity are unclear, however, based on population pharmacokinetic 
+analyses, no dosage adjustment is recommended based on ethnicity. 
+Clinical trials of GENVOYA included 97 patients (80 receiving GENVOYA) aged 65 years 
+and over.  No dose adjustment is required for elderly patients.   Pharmacokinetic 
+pharmacodynamic analyses of HIV-infected patients in Phase 2 and Phase 3 studies of 
+GENVOYA showed that within the age range studied (8 to 82 years), age did not have a 
+clinically relevant effect on exposures of tenofovir alafenamide.   
+Exposures of elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide achieved in 24 
+paediatric patients aged 12 to < 18 years who received GENVOYA in Study 106 were similar 
+to exposures achieved in treatment-naïve adults following administration of GENVOYA.  
+Exposures of elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide achieved in 23 
+paediatric patients between the ages of 6 to < 12 years (≥ 25 kg) who received GENVOYA in 
+Study 106 were generally higher (20–80%) than exposures achieved in adults; however, the 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              39 
+ 
+increase was not considered clinically significant as the safety profiles were similar in adult 
+and paediatric patients. 
+Patients with Impaired Renal Function 
+No clinically relevant differences in elvitegravir, cobicistat, tenofovir alafenamide, or 
+tenofovir pharmacokinetics were observed between healthy subjects (N=13) and subjects 
+with severe renal impairment (N=14) (estimated creatinine clearance less than 30 mL/min) in 
+studies of cobicistat-boosted elvitegravir or of tenofovir alafenamide, respectively.  There are 
+no pharmacokinetic data on elvitegravir, cobicistat, or tenofovir alafenamide in subjects with 
+estimated creatinine clearance less than 15 mL/min. 
+The safety, virologic, and immunologic responses of GENVOYA in HIV-1 infected patients 
+with mild to moderate renal impairment (eGFR by Cockcroft-Gault method 30 - 69 mL/min) 
+were evaluated in 242 virologically suppressed patients and 6 treatment naïve patients in an 
+open-label trial, GS-US-292-0112 (Study 112).  The safety profile of GENVOYA in subjects 
+with mild to moderate renal impairment was similar to that in  patients with normal renal 
+function.  
+Patients with Hepatic Impairment 
+Elvitegravir and cobicistat: Both elvitegravir and cobicistat are primarily metabolised and 
+eliminated by the liver. A study of pharmacokinetics of cobicistat-boosted elvitegravir was 
+performed in non-HIV-1 infected subjects with moderate hepatic impairment. No clinically 
+relevant differences in elvitegravir or cobicistat pharmacokinetics were observed between 
+subjects with moderate impairment and healthy subjects. No dosage adjustment of 
+elvitegravir or cobicistat is necessary for patients with mild to moderate hepatic impairment.  
+The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of 
+elvitegravir or cobicistat has not been studied. 
+Emtricitabine: The pharmacokinetics of emtricitabine has not been studied in subjects with 
+hepatic impairment; however, emtricitabine is not significantly metabolised by liver enzymes, 
+so the impact of liver impairment should be limited. 
+Tenofovir Alafenamide: Clinically relevant changes in the pharmacokinetics of tenofovir 
+alafenamide or its metabolite tenofovir were not observed in patients with mild,  moderate, or 
+severe hepatic impairment; no tenofovir alafenamide dose adjustment is required in patients 
+with hepatic impairment. 
+Hepatitis B and/or Hepatitis C Virus Co-Infection 
+Pharmacokinetics of emtricitabine and tenofovir alafenamide have not been fully evaluated in 
+hepatitis B and/or C co-infected patients.  Limited data from population pharmacokinetic 
+analysis (N=24) indicated that hepatitis B and/or C virus infection had no clinically relevant 
+effect on the exposure of boosted elvitegravir. 
+Assessment of Drug Interactions 
+Drug-drug interaction studies were conducted with GENVOYA or various combinations of 
+GENVOYA components including elvitegravir (coadministered with cobicistat or ritonavir). 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              40 
+ 
+As GENVOYA should not be administered with other antiretroviral medications, information 
+regarding drug-drug interactions with other antiretrovirals agents is not provided (see 4.4 
+Special warnings and precautions for use). 
+Elvitegravir:  Elvitegravir is primarily metabolised by cytochrome CYP3A, and drugs that 
+induce or inhibit CYP3A may affect the exposure of elvitegravir. Coadministration of 
+GENVOYA with drugs that induce CYP3A may result in decreased plasma concentrations of 
+elvitegravir and reduce the therapeutic effect of GENVOYA (see 4.3 Contraindications). 
+Cobicistat: Cobicistat is an inhibitor of cytochrome P450 (CYP3A), and is also a CYP3A 
+substrate.  Agents that are highly dependent on CYP3A metabolism and have high first pass 
+metabolism are the most susceptible to large increases in exposure when coadministered with 
+cobicistat.  Agents that inhibit CYP3A may decrease the clearance of cobicistat, resulting in 
+increased plasma concentration of cobicistat (see 4.3 Contraindications).  
+Cobicistat is an inhibitor of the following transporters: p-glycoprotein (P-gp), BCRP, 
+OATP1B1 and OATP1B3. Co-administration with drugs that are substrates of P-gp, BCRP, 
+OATP1B1 and OATP1B3 may result in increased plasma concentrations of such drugs. 
+Emtricitabine: In vitro and clinical pharmacokinetic drug-drug interaction studies have 
+shown that the potential for CYP-mediated interactions involving emtricitabine with other 
+medicinal products is low. Emtricitabine is primarily excreted by the kidneys by a 
+combination of glomerular filtration and active tubular secretion. No drug-drug interactions 
+due to competition for renal excretion have been observed; however, coadministration of 
+emtricitabine with drugs that are eliminated by active tubular secretion may increase 
+concentrations of emtricitabine, and/or the coadministered drug. 
+Drugs that decrease renal function may increase concentrations of emtricitabine. 
+In drug interaction studies conducted with emtricitabine and with tenofovir DF, 
+coadministration of emtricitabine and famciclovir had no effect on the Cmax or AUC of either 
+drug. 
+Tenofovir Alafenamide: Tenofovir alafenamide is a substrate of P-glycoprotein (P-gp) and 
+BCRP. Drugs that strongly affect P-gp and BCRP activity may lead to changes in tenofovir 
+alafenamide absorption.  However, upon coadministration with cobicistat in GENVOYA, 
+near maximal inhibition of P-gp by cobicistat is achieved leading to increased availability of 
+tenofovir alafenamide with resulting exposures comparable to tenofovir alafenamide 25 mg 
+single agent.  As such, tenofovir alafenamide exposures following administration of 
+GENVOYA are not expected to be further increased when used in combination with another 
+P-gp and/or BCRP inhibitor.   
+In vitro and clinical pharmacokinetic drug-drug interaction studies have shown that the 
+potential for CYP-mediated interactions involving tenofovir alafenamide with other 
+medicinal products is low. 
+Tenofovir alafenamide is not an inhibitor or inducer of CYP3A in vivo. 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              41 
+ 
+Drug Interaction Studies 
+The effects of coadministered drugs on the exposure of elvitegravir are shown in Table 13.  
+The effects of coadministered drugs on the exposure of tenofovir alafenamide are shown in 
+Table 14. The effects of GENVOYA or its components on the exposure of coadministered 
+drugs are shown in Table 15. 
+Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for 
+Elvitegravir in the Presence of the Coadministered Druga 
+Coadministered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+Elvitegravir 
+Dose (mg) 
+Cobicistat 
+or Ritonavir 
+Booster 
+Dose 
+(mg) 
+N 
+Mean Ratio of Elvitegravir 
+Pharmacokinetic  
+Parameters (90% CI)b; No effect = 
+1.00 
+Cmax AUC Cmin 
+Antacids 
+20 mL single 
+dose given 4 
+hours before 
+elvitegravir 
+50 single 
+dose 
+Ritonavir 
+100 single 
+dose 
+8 0.95   
+(0.84,1.07) 
+0.96   
+(0.88,1.04) 
+1.04 
+(0.93,1.17) 
+20 mL single 
+dose given 4 
+hours after 
+elvitegravir 
+10 0.98   
+(0.88,1.10) 
+0.98   
+(0.91,1.06) 
+1.00 
+(0.90,1.11) 
+20 mL single 
+dose given 2 
+hours before 
+elvitegravir 
+11 0.82   
+(0.74,0.91) 
+0.85   
+(0.79,0.91) 
+0.90 
+(0.82,0.99) 
+20 mL single 
+dose given 2 
+hours after 
+elvitegravir 
+10 0.79   
+(0.71,0.88) 
+0.80   
+(0.75,0.86) 
+0.80 
+(0.73,0.89) 
+20 mL single 
+dose 
+simultaneously 
+administered 
+with elvitegravir 
+50 single 
+dose 
+Ritonavir 
+100 single 
+dose 
+13 0.53 
+(0.47,0.60) 
+0.55 
+(0.50,0.60) 
+0.59  
+(0.52,0.67) 
+Atorvastatin 10 single dose 150 once 
+dailyd 
+Cobicistat 
+150 once 
+dailyd 
+16 0.91 
+(0.85,0.98) 
+0.92 
+(0.87,0.98) 
+0.88 
+(0.81,0.96) 
+Carbamazepine 200 twice daily 150 once 
+daily 
+Cobicistat 
+150 once 
+daily 
+12 0.55 
+(0.49,0.61) 
+0.31 
+(0.28,0.33) 
+0.03 
+(0.02,0.40) 
+Famotidinec 
+40 once daily 
+given 12 hours 
+after elvitegravir 
+150 once 
+daily 
+Cobicistat 
+150 once 
+daily 
+10 1.02   
+(0.89,1.17) 
+1.03   
+(0.95,1.13) 
+1.18  
+(1.05,1.32) 
+40 once daily 
+given 
+simultaneously 
+with elvitegravir 
+16 1.00   
+(0.92,1.10) 
+1.03   
+(0.98,1.08) 
+1.07  
+(0.98,1.17) 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              42 
+ 
+Coadministered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+Elvitegravir 
+Dose (mg) 
+Cobicistat 
+or Ritonavir 
+Booster 
+Dose 
+(mg) 
+N 
+Mean Ratio of Elvitegravir 
+Pharmacokinetic  
+Parameters (90% CI)b; No effect = 
+1.00 
+Cmax AUC Cmin 
+Ketoconazole 200 twice daily 150 once 
+daily 
+Ritonavir 
+100 once 
+daily 
+18 1.17   
+(1.04,1.33) 
+1.48   
+(1.36,1.62) 
+1.67  
+(1.48,1.88) 
+Ledipasvir/ 
+Sofosbuvir 
+90/400 once 
+daily 
+150 once 
+dailyd 
+Cobicistat 
+150 once 
+dailyd 
+30 
+ 
+0.98    
+(0.90,1.07) 
+1.11       
+(1.02,1.20) 
+1.46        
+(1.28,1.66) 
+Omeprazolec 
+40 once daily 
+given 2 hours 
+before 
+elvitegravir 
+50 once 
+daily 
+Ritonavir 
+100 once 
+daily 
+9 0.93   
+(0.83,1.04) 
+0.99   
+(0.91,1.07) 
+0.94  
+(0.85,1.04) 
+20 once daily 
+given 2 hours 
+before 
+elvitegravir 150 once 
+daily 
+Cobicistat 
+150 once 
+daily 
+11 1.16   
+(1.04,1.30) 
+1.10   
+(1.02,1.19) 
+1.13  
+(0.96,1.34) 
+20 once daily 
+given 12 hours 
+after elvitegravir 
+11 1.03   
+(0.92,1.15) 
+1.05   
+(0.93,1.18) 
+1.10  
+(0.92,1.32) 
+Rifabutin  150 once every 
+other day 
+150 once 
+daily 
+Cobicistat 
+150 once 
+daily 
+12 0.91 
+(0.84,0.99) 
+0.79   
+(0.74,0.85) 
+0.33  
+(0.27,0.40) 
+Rosuvastatin 10 single dose 150 once 
+daily 
+Cobicistat 
+150 once 
+daily 
+10 0.94 
+(0.83,1.07) 
+1.02 
+(0.91,1.14) 
+0.98  
+(0.83,1.16) 
+Sertraline 50 single dose 150 once 
+dailyd 
+Cobicistat  
+150 once 
+dailyd 
+19 0.88 
+(0.82,0.93) 
+0.94 
+(0.89,0.98) 
+0.99 
+(0.93,1.05) 
+Sofosbuvir/ 
+Velpatasvir 
+400/100 once 
+daily 
+150 once 
+dailyd 
+Cobicistat 
+150 once 
+dailyd 
+24 0.87 
+(0.80,0.94)  
+0.94 
+(0.88,1.00)  
+1.08 
+(0.97,1.20)  
+Sofosbuvir/ 
+Velpatasvir/ 
+Voxilaprevir  
+400/100/100 + 
+100 
+Voxilaprevir 
+once dailye 
+150 once 
+dailyd 
+Cobicistat 
+150 once 
+dailyd 
+29 0.79 
+(0.75,0.85) 
+0.94 
+(0.88,1.00) 
+1.32 
+(1.17,1.49) 
+Telaprevir 750 three times 
+daily 
+150 once 
+dailyf 
+Cobicistat 
+150 once 
+dailyf 
+16 0.79 
+(0.74,0.85) 
+0.84 
+(0.79,0.89) 
+1.29 
+(1.14,1.46) 
+a. All interaction studies conducted in healthy volunteers 
+b. All No Effect Boundaries are 70% - 143% unless otherwise specified  
+c.  No Effect Boundary 70% - no upper bound 
+d.  Study conducted with GENVOYA. 
+e. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected 
+patients. 
+f.  Study conducted with STRIBILD. 
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              43 
+ 
+Table 14 Drug Interactions:  Changes in Pharmacokinetic Parameters for 
+Tenofovir Alafenamide in the Presence of the Coadministered Druga 
+Coadministered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+Tenofovir 
+Alafenamide 
+(mg) 
+N 
+Mean Ratio of Tenofovir 
+Alafenamide Pharmacokinetic  
+Parameters (90% CI); No effect = 
+1.00 
+Cmax AUC Cmin 
+Cobicistat 150 once daily 8 once daily 12 2.83 
+(2.20,3.65)  
+2.65 
+(2.29,3.07) NC 
+Ledipasvir/ Sofosbuvir 90/400 once 
+daily 10 once daily 30 0.90  
+(0.73,1.11) 
+0.86  
+(0.78,0.95) NC 
+Sertraline  50 single dose 10 once 
+dailyb 19 1.00 
+(0.86,1.16) 
+0.96 
+(0.89,1.03) NC 
+Sofosbuvir/ 
+Velpatasvir 
+400/100 once 
+daily 
+10 once 
+dailyc 24 0.80 
+(0.68,0.94) 
+0.87  
+(0.81,0.94) NC 
+Sofosbuvir/ 
+Velpatasvir/ 
+Voxilaprevir 
+400/100/100 + 
+100 
+Voxilaprevir 
+once dailyd 
+10 once 
+dailyc 29 0.79  
+(0.68, 0.92) 
+0.93  
+(0.85,1.01) NC 
+NC Not calculated 
+a. All interaction studies conducted in healthy volunteers 
+b. All No Effect Boundaries are 70% -143% unless otherwise specified. 
+c. Study conducted with GENVOYA. 
+d. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV -infected 
+ patients. 
+ 
+Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for 
+Coadministered Drug in the Presence of GENVOYA or the Individual 
+Componentsa 
+Coadministered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+Elvitegravir 
+Dose (mg) 
+Cobicistat 
+Booster 
+Dose 
+(mg) 
+Tenofovir 
+Alafenamide 
+(mg) 
+N 
+Mean Ratio of Coadministered  
+Drug Pharmacokinetic  
+Parameters (90% CI); 
+No effect = 1.00 
+Cmax AUC Cmin 
+Atorvastatin 10 single dose 150 once 
+dailyd 
+150 once 
+dailyd 
+10 once 
+daily 16 2.32 
+(1.91,2.82) 
+2.60 
+(2.31,2.93) 
+NC 
+Buprenorphine 
+16 - 24 once daily 150 once daily 150 once 
+daily N/A 17 
+1.12 
+(0.98, 1.27) 
+1.35 
+(1.18, 1.55) 
+1.66 
+(1.43, 1.93) 
+Norbuprenorphi
+ne 
+1.24 
+(1.03, 1.49) 
+1.42 
+(1.22, 1.67) 
+1.57 
+(1.31, 1.88) 
+Carbamazepine 
+200 twice daily 150 once daily 150 once 
+daily N/A 12 
+1.40 
+(1.32, 1.49) 
+1.43 
+(1.36, 1.52) 
+1.51 
+(1.41, 1.62) 
+Carbamazepine-
+10,11-epoxide 
+0.73 
+(0.70, 0.78) 
+0.65 
+(0.63, 0.66) 
+0.59 
+(0.57, 0.61) 
+Desipramine 50 single dose N/A 150 once 
+daily N/A 8 1.24 
+(1.08, 1.44) 
+1.65 
+(1.36,  2.02) NC 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              44 
+ 
+Coadministered 
+Drug 
+Dose of 
+Coadministered 
+Drug (mg) 
+Elvitegravir 
+Dose (mg) 
+Cobicistat 
+Booster 
+Dose 
+(mg) 
+Tenofovir 
+Alafenamide 
+(mg) 
+N 
+Mean Ratio of Coadministered  
+Drug Pharmacokinetic  
+Parameters (90% CI); 
+No effect = 1.00 
+Cmax AUC Cmin 
+Digoxin 0.5 single dose N/A 150 once 
+daily N/A 22 1.41 
+(1.29, 1.55) 
+1.08 
+(1.00, 1.17) NC 
+Ledipasvir 90 once daily 
+150 once 
+dailyf 
+150 once 
+dailyf 
+10 once dailyf 
+ 
+ 
+30 
+1.65 
+(1.53, 1.78) 
+1.79 
+(1.64, 1.96) 
+1.93 
+(1.74, 2.15) 
+Sofosbuvir 400 once daily 1.28 
+(1.13, 1.47) 
+1.47 
+(1.35, 1.59) N/A 
+GS-331007i 400 once daily 150 once daily 150 once 
+daily 
+1.29 
+(1.24, 1.35) 
+1.48 
+(1.44, 1.53) 
+1.66 
+(1.60, 1.73) 
+Norgestimate/ 
+ethinyl estradiol 
+0.180/0.215/ 
+0.250 
+norgestimate once 
+daily 150 once 
+dailyc 
+150 once 
+dailyc N/A 13 
+2.08 
+(2.00, 2.17) 
+2.26 
+(2.15, 2.37) 
+2.67 
+(2.43, 2.92) 
+0.025 ethinyl 
+estradiol once 
+daily 
+0.94 (0.86, 
+1.04) 
+0.75 
+(0.69, 0.81) 
+0.56 
+(0.52, 0.61) 
+Norgestromin 0.180/0.215/ 
+0.250 
+norgestimate once 
+daily / 
+0.025 ethinyl 
+estradiol once 
+daily 
+N/A N/A 25 once dailye 29 
+1.17 
+(1.07, 1.26) 
+1.12 
+(1.07, 1.17) 
+1.16 
+(1.08, 1.24) 
+Norgestrel 1.10 
+(1.02, 1.18) 
+1.09 
+(1.01, 1.18) 
+1.11 
+(1.03, 1.20) 
+Ethinyl estradiol 1.22 
+(1.15, 1.29) 
+1.11 
+(1.07, 1.16) 
+1.02 
+(0.93, 1.12) 
+R-Methadone 
+80-120 daily 150 once daily 150 once 
+daily N/A 11 
+1.01 
+(0.91, 1.13) 
+1.07 
+(0.96, 1.19 
+1.10 
+(0.95, 1.28) 
+S-Methadone 0.96 
+(0.87, 1.06) 
+1.00 
+(0.89, 1.12) 
+1.02 
+(0.89, 1.17) 
+Sertraline 50 single dose 150 once 
+dailyf 
+150 once 
+dailyf 10 once dailyf 19 1.14 
+(0.94, 1.38) 
+0.93 
+ (0.77, 1.13) N/A 
+Rifabutin 
+150 once every 
+other day 150 once daily 150 once 
+daily N/A 
+12 1.09 
+ (0.98, 1.20)g 
+0.92 
+(0.83, 1.03)g 
+0.94  
+(0.85, 1.04)g 
+25-O-desacetyl-
+rifabutin 12 4.84  
+(4.09, 5.74)g 
+6.25  
+(5.08, 7.69)g 
+4.94 
+(4.04, 6.04)g 
+Rosuvastatin 10 single dose 150 once daily 150 once 
+daily N/A 10 1.89h  
+(1.48, 2.42) 
+1.38   
+(1.14, 1.67) NC 
+Sofosbuvir 
+400 once daily 150 once 
+dailyf 
+150 once 
+dailyf 10 once dailyf 23 
+1.23 
+(1.07, 1.42) 
+1.37 
+(1.24, 1.52) N/A 
+GS-331007i 1.29 
+(1.25, 1.33) 
+1.48 
+(1.43, 1.53) 
+1.58 
+(1.52, 1.65) 
+Velpatasvir 100 once daily 1.30 
+(1.17, 1.45)  
+1.50 
+(1.35, 1.66) 
+1.60 
+(1.44, 1.78) 
+Sofosbuvir 
+400 once daily 
+150 once 
+dailyf 
+150 once 
+dailyf 
+150 once 
+dailyf 29 
+1.27 
+(1.09,1.48) 
+1.22 
+(1.12,1.32) NC 
+GS-331007i 1.28 
+(1.25,1.32) 
+1.43 
+(1.39,1.47) NC 
+Velpatasvir 100 once daily 0.96 
+(0.89,1.04) 
+1.16 
+(1.06,1.27) 
+1.46 
+(1.30,1.64) 
+Voxilaprevir 100 + 100j once 
+daily 
+1.92 
+(1.63,2.26) 
+2.71 
+(2.30,3.19) 
+4.50 
+(3.68,5.50) 
+Telaprevir 750 three times 
+daily 
+150 once 
+dailyc 
+150 once 
+dailyc N/A 15 1.06 
+(0.97, 1.16) 
+1.13 
+(1.00, 1.29) 
+1.15 
+(1.05, 1.25) 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              45 
+ 
+N/A = Not Applicable; NC = Not Calculated 
+a. All interaction studies conducted in healthy volunteers. 
+b. All No Effect Boundaries are 70% -143% unless otherwise specified. 
+c. No Effect Boundary 80%-125%. 
+d. Study conducted with STRIBILD. 
+e. Study conducted with DESCOVY. 
+f. Study conducted with GENVOYA.  
+g. Comparison based on rifabutin 300 mg once daily. 
+h.  No Effect Boundary 70%-175%. 
+i. The predominant circulating metabolite of sofosbuvir. 
+j. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected 
+patients. 
+ 
+5.3 PRECLINICAL SAFETY DATA 
+Genotoxicity 
+No genotoxicity studies have been conducted with elvitegravir, cobicistat, emtricitabine and 
+tenofovir alafenamide in combination.   
+Elvitegravir showed an equivocal response in an in vitro chromosomal aberration assay in 
+Chinese hamster lung cells, but only in the absence of metabolic activation.  No genotoxicity 
+was observed in a test for bacterial reverse mutation test (Ames test) in vitro, or in an in vivo 
+rat micronucleus test. 
+Cobicistat was not genotoxic in in vitro tests for bacterial reverse gene mutation or gene 
+mutation in mouse lymphoma L5178Y cells (tk locus), or in an in vivo rat micronucleus test. 
+Emtricitabine was not mutagenic in bacteria or mouse lymphoma cell assays in vitro nor 
+clastogenic in the mouse micronucleus test in vivo. 
+Tenofovir Alafenamide was not genotoxic in the reverse mutation bacterial test (Ames test), 
+mouse lymphoma or rat micronucleus assays. 
+Carcinogenicity 
+No carcinogenicity studies have been conducted with elvitegravir, cobicistat, emtricitabine 
+and tenofovir alafenamide in combination.   
+Elvitegravir: In a long-term carcinogenicity study in mice, no tumourigenic response was 
+seen with doses of up to 2000 mg/kg/day, with the highest dose also being given together 
+with 25 mg/kg/day ritonavir. Respective elvitegravir exposures (AUC) with this dose were 
+approximately 3.1 and 14 times the human exposure with the 150 mg/day dose. No 
+tumourigenic response was seen in a long-term study in rats with doses up to 2000 mg/kg/day 
+(12 times in males and 27 times in females the human exposure (AUC) with the therapeutic 
+dose). 
+Cobicistat: In a long-term study in mice with doses of up to 50 mg/kg/day in males and 100 
+mg/kg/day in females (9-21 times the human exposure (AUC) at 150 mg daily), cobicistat 
+treatment did not result in any increased tumour incidences.  In a corresponding study, with 
+doses of up to 50 mg/kg/day in males and 30 mg/kg/day in females (1.9-2.6 times the human 
+exposure with 150 mg daily), treatment resulted in increased incidence of thyroid follicular 
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              46 
+ 
+cell tumours.  Hepatocyte hypertrophy was also observed, and this oncogenic response is 
+most likely related to alterations in thyroid hormones and to be specific to species. 
+Emtricitabine: In long-term oral carcinogenicity studies conducted with emtricitabine, no 
+drug-related increases in tumour incidence were found in mice at doses up to 750 mg/kg/day 
+(32 times the human systemic exposure (AUC) at the therapeutic dose of 200 mg/day) or in 
+rats at doses up to 600 mg/kg/day (38 times the human systemic exposure at the therapeutic 
+dose).  
+Tenofovir Alafenamide: Because there is a lower tenofovir exposure in rats and mice after 
+tenofovir alafenamide administration compared to tenofovir disoproxil fumarate, 
+carcinogenicity studies were conducted only with tenofovir disoproxil fumarate. Long-term 
+oral carcinogenicity studies of tenofovir disoproxil fumarate in mice and rats were carried out 
+at exposures up to approximately 10 times (mice) and 4 times (rats) those observed in 
+humans at the 300 mg therapeutic dose of tenofovir disoproxil fumarate for HIV-1 infection. 
+At the high dose in female mice, liver adenomas were increased at exposures 10 times that in 
+humans. In rats, the study was negative for carcinogenic findings at exposures up to 4 times 
+that observed in humans at the therapeutic dose.   
+6 PHARMACEUTICAL PARTICULARS 
+6.1 LIST OF EXCIPIENTS  
+GENVOYA tablets contain the following ingredients as excipients: 
+Tablet core: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, 
+hyprolose, silicon dioxide, sodium lauryl sulfate, and magnesium stearate.  Film-coating:  
+polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc, indigo carmine aluminum lake, 
+and iron oxide yellow. 
+6.2 INCOMPATIBILITIES  
+Incompatibilities were either not assessed or not identified as part of the registration of this 
+medicine.  
+6.3 SHELF LIFE  
+In Australia, information on the shelf life can be found on the public summary of the 
+Australian Register of Therapeutic Goods (ARTG). The expiry date can be found on the 
+packaging. 
+6.4 SPECIAL PRECAUTIONS FOR STORAGE  
+GENVOYA should be stored below 25 °C. 
+6.5 NATURE AND CONTENTS OF CONTAINER  
+GENVOYA is supplied in high density polyethylene (HDPE) bottles containing 30 tablets 
+and a silica gel desiccant, polyester coil and is closed with a child resistant closure. 
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              47 
+ 
+6.6 SPECIAL PRECAUTIONS FOR DISPOSAL  
+In Australia, any unused medicine or waste material should be disposed of by taking to your local 
+pharmacy.  
+6.7 PHYSICOCHEMICAL PROPERTIES 
+Chemical structure 
+Elvitegravir (EVG) is a human immunodeficiency virus-1 (HIV-1) integrase strand transfer 
+inhibitor. Cobicistat (COBI) is a mechanism-based inhibitor of cytochrome P-450 (CYP) 
+enzymes of the CYP3A family.  Emtricitabine (FTC) is a synthetic nucleoside analog of 
+cytidine. Tenofovir alafenamide (TAF) is converted in vivo to tenofovir, an acyclic 
+nucleoside phosphonate (nucleotide) analog of adenosine 5′-monophosphate.      
+Elvitegravir: The chemical name of elvitegravir is 3-quinolinecarboxylic acid, 6-[(3-chloro-2-
+fluorophenyl)-methyl]-1,4-dihydro-1-[(1S)-1-(hydroxymethyl)-2-methylpropyl]-7-methoxy-
+4-oxo-.  It has a molecular formula of C23H23ClFNO5 and a molecular weight of 447.9.  It has 
+the following structural formula: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Elvitegravir is a white to pale yellow powder with a solubility of less than 0.5 µg/mL in water 
+at 20 °C.  The partition coefficient (log p) for elvitegravir is 4.5 and the pKa is 6.6. 
+Cobicistat: Cobicistat on silicon dioxide is the drug substance.  The chemical name for 
+cobicistat is  1,3-thiazol-5-ylmethyl [(2R,5R)-5-{[(2S)-2-[(methyl{[2-(propan-2-yl)-1,3-
+thiazol-4-yl]methyl}carbamoyl)amino]-4-(morpholin-4-yl)butanoyl]amino}-1,6-
+diphenylhexan-2-yl]carbamate.  It has a molecular formula of C40H53N7O5S2 and a molecular 
+weight of 776.0.  It has the following structural formula: 
+Cl
+F
+NO
+O
+OH
+CH3HO
+CH3
+O
+H
+H3C
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              48 
+ 
+ 
+Cobicistat is a white to pale yellow solid with a solubility of 0.1 mg/mL in water at 20 °C.  
+The partition coefficient (log p) for cobicistat is 4.3 and the pKa is 6.4. 
+Emtricitabine: The chemical name of emtricitabine is 5-fluoro-1-(2R,5S)-[2-
+(hydroxymethyl)-1,3-oxathiolan-5-yl]cytosine.  Emtricitabine is the (-) enantiomer of a thio 
+analog of cytidine, which differs from other cytidine analogs in that it has a fluorine in the 5-
+position. 
+It has a molecular formula of C8H10FN3O3S and a molecular weight of 247.2. It has the 
+following structural formula: 
+ 
+Emtricitabine is a white to off-white crystalline powder with a solubility of approximately 
+112 mg/mL in water at 25 oC.  The partition coefficient (log p) for emtricitabine is -0.43 and 
+the pKa is 2.65. 
+Tenofovir alafenamide: Tenofovir alafenamide fumarate is the drug substance. The chemical 
+name of tenofovir alafenamide fumarate is L-Alanine, N-[(S)-[[(1R)-2-(6-amino-9H-purin-9-
+yl)-1-methylethoxy]methyl]phenoxyphosphinyl]-, 1-methylethyl ester, (2E)-2-butenedioate 
+(2:1). 
+It has a molecular formula of C23H31O7N6P and a molecular weight of 534.5.  It has the 
+following structural formula: 
+ 
+H
+N N
+H
+O
+O
+N
+S
+O
+N
+H
+N
+O
+O
+NN
+S
+N
+N
+H2N O
+S
+O
+OHF
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              49 
+ 
+ 
+  
+Tenofovir alafenamide fumarate is a white to off-white or tan powder with a solubility of 4.7 
+mg per mL in water at 20 °C. 
+CAS number 
+Cobicistat CAS registry number: 1004316-88-4 
+Elvitegravir CAS registry number: 697761-98-1 
+Emtricitabine CAS registry number: 143491-57-0 
+Tenofovir alafenamide CAS registry number: 379270-37-8 
+Tenofovir alafenamide fumarate CAS registry number: 1392275-56-7 
+7 MEDICINE SCHEDULE (POISONS STANDARD) 
+S4 
+8 SPONSOR 
+Gilead Sciences Pty Ltd 
+Level 28, 385 Bourke Street 
+Melbourne, Victoria, 3000 
+Freecall: 1800 806 112  
+9 DATE OF FIRST APPROVAL   
+15 January 2016 
+10 DATE OF REVISION  
+ 20 March 2024 
+  
+ 
+GENVOYA Product Information v12.0 – (20 March 2024)              50 
+ 
+SUMMARY TABLE OF CHANGES 
+Section 
+Changed Summary of new information 
+8 Update AU Sponsor Address 
+ 
+ATRIPLA, GILEAD, GSI, STRIBILD, and TRUVADA are registered trademarks of Gilead 
+Sciences, Inc., or its related companies. All other trademarks referenced herein are the 
+property of their respective owners.   
+ 
