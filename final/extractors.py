@@ -1,70 +1,10 @@
 import requests
-from bs4 import BeautifulSoup
-import json
 import urllib.parse
-import sys
 import time
-import random
-import urllib3
 import io
-import re
+from bs4 import BeautifulSoup
 from pypdf import PdfReader
-
-# Disable SSL warnings for cleaner output
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-def get_headers():
-    return {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Connection': 'keep-alive',
-    }
-
-class DrugParser:
-    """Parses medicine text files into JSON fields"""
-    @staticmethod
-    def extract_sections(text, country):
-        data = {
-            "dosage": "Not found",
-            "description": "Not found",
-            "reaction": "Not found"
-        }
-        
-        if country == 'us':
-            # US FDA Label Sections
-            # Avoid the Table of Contents by ensuring the match is NOT followed by tabs or subsection lists (\t)
-            # Full sections usually have the number and title on their own line with no trailing tab.
-            dosage_match = re.search(r'\n2\s+DOSAGE AND ADMINISTRATION\s*\n(?!\s*2\.\d)(.*?)(?=\n[3-9]\s+[A-Z\s]{5,}|\n1\d\s+[A-Z\s]{5,}|$)', text, re.S | re.I)
-            desc_match = re.search(r'\n11\s+DESCRIPTION\s*\n(?!\s*11\.\d)(.*?)(?=\n12\s+[A-Z\s]{5,}|$)', text, re.S | re.I)
-            reaction_match = re.search(r'\n6\s+ADVERSE REACTIONS\s*\n(?!\s*6\.\d)(.*?)(?=\n7\s+DRUG INTERACTIONS|\n[8-9]\s+[A-Z\s]{5,}|$)', text, re.S | re.I)
-            
-            # Fallback for Highlights section if Full Prescribing info match failed
-            if not dosage_match:
-                dosage_match = re.search(r'DOSAGE AND ADMINISTRATION\s*\n(.*?)(?=\n[A-Z\s]{10,}|$)', text, re.S | re.I)
-            if not reaction_match:
-                reaction_match = re.search(r'ADVERSE REACTIONS\s*\n(.*?)(?=\n[A-Z\s]{10,}|$)', text, re.S | re.I)
-        
-        elif country == 'uk':
-            # UK SmPC Sections
-            dosage_match = re.search(r'4\.2\s+Posology and method of administration(.*?)(?=\n4\.3|\n\d\s+[A-Z]|$)', text, re.S | re.I)
-            desc_match = re.search(r'2\.\s+Qualitative and quantitative composition(.*?)(?=\n3\.|\n\d\s+[A-Z]|$)', text, re.S | re.I)
-            reaction_match = re.search(r'4\.8\s+Undesirable effects(.*?)(?=\n4\.9|\n\d\s+[A-Z]|$)', text, re.S | re.I)
-            
-        elif country == 'japan':
-            # Japan PMDA Report Sections
-            dosage_match = re.search(r'Dosage and Administration\s*\n(.*?)(?=\n[A-Z][a-z]|$)', text, re.S)
-            desc_match = re.search(r'Chemical Structure\s*\n(.*?)(?=\n\d\.|$)', text, re.S)
-            # Find the Safety section within the review report
-            reaction_match = re.search(r'Clinical Efficacy and Safety\s*\n(.*?)(?=\n\d\.|$)', text, re.S | re.I)
-            if not reaction_match:
-                reaction_match = re.search(r'Toxicity\s*\n(.*?)(?=\n\d\.|$)', text, re.S | re.I)
-
-        if dosage_match: data["dosage"] = dosage_match.group(1).strip()
-        if desc_match: data["description"] = desc_match.group(1).strip()
-        if reaction_match: data["reaction"] = reaction_match.group(1).strip()
-        
-        return data
+from utils import get_headers
 
 class USExtractor:
     """Extracts from DailyMed (USA - National Library of Medicine/FDA)"""
@@ -101,6 +41,8 @@ class UKExtractor:
         try:
             res = requests.get(search_url, headers=get_headers(), timeout=30)
             if res.status_code == 200:
+
+                
                 soup = BeautifulSoup(res.text, 'html.parser')
                 product_url = None
                 for a in soup.find_all('a', href=True):
@@ -135,7 +77,6 @@ class JapanExtractor:
     """Extracts from PMDA (Japan) and parses English PDFs"""
     def search_and_extract(self, drug_name, generic_name=None):
         print(f"[Japan - PMDA] Searching for '{drug_name}'...")
-        # Search multiple pages of the PMDA drug list
         for i in range(1, 4):
             page_num = f"{i:04d}"
             search_url = f"https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/{page_num}.html"
@@ -153,7 +94,6 @@ class JapanExtractor:
                     brand_name_cell = cells[0].get_text().strip()
                     generic_name_cell = cells[1].get_text().strip() if len(cells) > 1 else ""
                     
-                    # 1. Precise Brand Name match (case-insensitive, whole word)
                     if drug_name.lower() == brand_name_cell.lower() or f" {drug_name.lower()} " in f" {brand_name_cell.lower()} ":
                         if len(cells) >= 4:
                             a_tag = cells[3].find('a', href=True)
@@ -161,14 +101,10 @@ class JapanExtractor:
                                 pdf_url = a_tag['href']
                                 break
 
-                    # 2. Strict Generic Name match
                     if not pdf_url and generic_name:
-                        # Normalize generic name from query
                         query_comps = sorted([c.strip().lower() for c in generic_name.replace('/', ' ').replace(',', ' ').split() if len(c) > 3])
-                        # Normalize generic name from cell
                         cell_comps = sorted([c.strip().lower() for c in generic_name_cell.replace('/', ' ').replace(',', ' ').split() if len(c) > 3])
                         
-                        # Compare sets of components (order-independent)
                         if query_comps and query_comps == cell_comps:
                             if len(cells) >= 4:
                                 a_tag = cells[3].find('a', href=True)
@@ -198,86 +134,143 @@ class JapanExtractor:
                 
         return "[Japan - PMDA] No results found or PDF could not be parsed."
 
-def main():
-    if len(sys.argv) > 1:
-        drug_name = " ".join(sys.argv[1:])
-    else:
-        drug_name = input("Enter the drug name to search globally: ").strip()
-        
-    if not drug_name:
-        print("No drug name provided.")
-        return
+class EUExtractor:
+    """Extracts from EMA (Europe - European Medicines Agency)"""
+    def search_and_extract(self, drug_name, generic_name=None):
+        def slugify(text):
+            if not text: return ""
+            # Basic slugification for EMA URLs
+            return text.lower().strip().replace(' ', '-').replace('/', '-')
 
-    # Intelligent Generic Mapping (can be expanded)
-    generic_mapping = {
-        "descovy": "emtricitabine tenofovir alafenamide",
-        "truvada": "emtricitabine tenofovir disoproxil",
-        "biktarvy": "bictegravir emtricitabine tenofovir alafenamide",
-        "tivicay": "dolutegravir",
-        "genvoya": "elvitegravir cobicistat emtricitabine tenofovir alafenamide",
-        "aspirin": "acetylsalicylic acid",
-        "paracetamol": "acetaminophen",
-        "humira": "adalimumab",
-        "enbrel": "etanercept",
-        "remicade": "infliximab",
-        "yescarta": "axicabtagene ciloleucel"
-    }
-    generic_name = generic_mapping.get(drug_name.lower())
-        
-    print(f"Initiating global search for: {drug_name.upper()}")
-    if generic_name:
-        print(f"Generic components identified: {generic_name}\n")
-    else:
-        print("")
-    
-    extractors = {
-        'US': USExtractor(),
-        'UK': UKExtractor(),
-        'Japan': JapanExtractor()
-    }
-    
-    all_extracted_data = {}
+        candidates = [slugify(drug_name)]
+        if generic_name:
+            # If multi-component, EMA often uses the first one or a combined slug
+            main_generic = generic_name.split()[0] if generic_name.split() else ""
+            if main_generic and main_generic.lower() != drug_name.lower():
+                candidates.append(slugify(main_generic))
+            candidates.append(slugify(generic_name))
 
-    for country, extractor in extractors.items():
-        print(f"--- Processing {country} ---")
-        result_text = extractor.search_and_extract(drug_name, generic_name)
+        print(f"[EU - EMA] Searching for '{drug_name}' via candidate EPAR URLs...")
         
-        if result_text and "No results found" not in result_text and "Error:" not in result_text:
-            base_filename = f"label_{country.lower()}_{drug_name.replace(' ', '_').lower()}"
-            txt_filename = f"{base_filename}.txt"
-            json_filename = f"{base_filename}.json"
-            
-            # Save Text File
+        for slug in candidates:
+            if not slug: continue
+            product_url = f"https://www.ema.europa.eu/en/medicines/human/EPAR/{slug}"
             try:
-                with open(txt_filename, 'w', encoding='utf-8') as f:
-                    f.write(result_text)
-                print(f"-> Success! Saved text to {txt_filename}")
+                print(f"[EU - EMA] Trying URL: {product_url}")
+                res = requests.get(product_url, headers=get_headers(), timeout=30)
+                if res.status_code != 200:
+                    continue
+                
+                print(f"[EU - EMA] Found product page!")
+                prod_soup = BeautifulSoup(res.text, 'html.parser')
+                
+                # Find the English PDF Product Information link
+                pdf_url = None
+                # EMA usually has a list of links with language codes
+                for a in prod_soup.find_all('a', href=True):
+                    href = a['href']
+                    if 'product-information' in href.lower() and '_en.pdf' in href.lower():
+                        pdf_url = href
+                        break
+                
+                if not pdf_url:
+                    # Fallback: Look for any PDF link that contains "product-information"
+                    for a in prod_soup.find_all('a', href=True):
+                        if 'product-information' in a['href'].lower() and a['href'].endswith('.pdf'):
+                            pdf_url = a['href']
+                            break
+                
+                if pdf_url:
+                    if pdf_url.startswith('/'):
+                        pdf_url = "https://www.ema.europa.eu" + pdf_url
+                    print(f"[EU - EMA] Found Product Information PDF: {pdf_url}")
+                    time.sleep(1)
+                    pdf_res = requests.get(pdf_url, headers=get_headers(), timeout=45)
+                    if pdf_res.status_code == 200:
+                        pdf_file = io.BytesIO(pdf_res.content)
+                        reader = PdfReader(pdf_file)
+                        text = ""
+                        for page in reader.pages:
+                            text += page.extract_text() + "\n"
+                        
+                        if text.strip():
+                            return f"SOURCE: EMA (Europe)\nURL: {pdf_url}\n" + "="*50 + "\n\n" + text
+
             except Exception as e:
-                print(f"-> Failed to save {txt_filename}: {str(e)}")
+                print(f"[EU - EMA] Error trying {slug}: {str(e)}")
                 continue
 
-            # Parse and Save JSON File
-            try:
-                parsed_data = DrugParser.extract_sections(result_text, country.lower())
-                parsed_data["medicine"] = drug_name.upper()
-                parsed_data["source"] = country
-                
-                with open(json_filename, 'w', encoding='utf-8') as f:
-                    json.dump(parsed_data, f, indent=4)
-                print(f"-> Success! Extracted fields saved to {json_filename}\n")
-                
-                all_extracted_data[country] = parsed_data
-            except Exception as e:
-                print(f"-> Failed to parse/save {json_filename}: {str(e)}\n")
-        else:
-            print(f"-> No data for {country}.\n")
+        return "[EU - EMA] No results found or PDF could not be parsed."
 
-    # Save a combined summary if any data was found
-    if all_extracted_data:
-        summary_filename = f"summary_{drug_name.replace(' ', '_').lower()}.json"
-        with open(summary_filename, 'w', encoding='utf-8') as f:
-            json.dump(all_extracted_data, f, indent=4)
-        print(f"Global summary for {drug_name.upper()} saved to {summary_filename}")
+class AustraliaExtractor:
+    """Extracts from TGA eBS (Australia - Therapeutic Goods Administration)"""
+    def search_and_extract(self, drug_name, generic_name=None):
+        print(f"[AU - TGA] Searching for '{drug_name}'...")
+        session = requests.Session()
+        session.headers.update(get_headers())
+        
+        # TGA eBS search URL for PI
+        base_url = "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/PICMI?OpenForm"
+        try:
+            # 1. Search for the drug
+            search_url = f"{base_url}&t=pi&q={urllib.parse.quote(drug_name)}"
+            res = session.get(search_url, timeout=30)
+            
+            if res.status_code == 200:
+                soup = BeautifulSoup(res.text, 'html.parser')
+                pdf_path = None
+                # Find the first PDF link that looks like a PI link
+                for a in soup.find_all('a', href=True):
+                    href = a['href']
+                    if 'pdf?OpenAgent&id=CP-' in href and '-PI-' in href:
+                        pdf_path = href
+                        break
+                
+                if pdf_path:
+                    if pdf_path.startswith('/'):
+                        pdf_url = "https://www.ebs.tga.gov.au" + pdf_path
+                    else:
+                        pdf_url = "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/" + pdf_path
+                        
+                    print(f"[AU - TGA] Found PI PDF candidate: {pdf_url}")
+                    
+                    # 2. To get the PDF, we must "accept" the license.
+                    # This involves setting a specific cookie and adding a 'd' parameter.
+                    licence_res = session.get(pdf_url, timeout=30)
+                    if licence_res.status_code == 200 and b'%PDF-' not in licence_res.content[:10]:
+                        # Extract remoteaddr from the license page
+                        licence_soup = BeautifulSoup(licence_res.text, 'html.parser')
+                        remote_addr_tag = licence_soup.find('input', id='remoteaddr')
+                        remote_addr = remote_addr_tag['value'] if remote_addr_tag else "127.0.0.1"
+                        
+                        # Generate the cookie value: YYYYMMDD + remoteaddr (no dots)
+                        import datetime
+                        str_utc_date = datetime.datetime.utcnow().strftime("%Y%m%d")
+                        str_cookie_value = str_utc_date + remote_addr.replace('.', '')
+                        
+                        # Set the cookie
+                        session.cookies.set("PICMIIAccept", str_cookie_value, domain="www.ebs.tga.gov.au", path="/")
+                        
+                        # Use the final URL with the 'd' parameter
+                        final_pdf_url = pdf_url + "&d=" + str_cookie_value
+                        print(f"[AU - TGA] Fetching PDF with license bypass: {final_pdf_url}")
+                        pdf_res = session.get(final_pdf_url, timeout=45)
+                    else:
+                        pdf_res = licence_res
 
-if __name__ == '__main__':
-    main()
+                    if pdf_res.status_code == 200:
+                        if b'%PDF-' not in pdf_res.content[:10]:
+                            return f"[AU - TGA] Error: Received HTML instead of PDF. License bypass failed."
+                            
+                        pdf_file = io.BytesIO(pdf_res.content)
+                        reader = PdfReader(pdf_file)
+                        text = ""
+                        for page in reader.pages:
+                            text += page.extract_text() + "\n"
+                        
+                        if text.strip():
+                            return f"SOURCE: TGA (Australia)\nURL: {pdf_url}\n" + "="*50 + "\n\n" + text
+
+        except Exception as e:
+            return f"[AU - TGA] Error: {str(e)}"
+        return "[AU - TGA] No results found or PDF could not be parsed."
